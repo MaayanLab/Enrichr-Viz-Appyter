@@ -1,0 +1,10 @@
+__pycache__
+.build
+.env
+.pyc
+app/public/appyters.json
+docker-compose.yml
+venv
+*-checkpoint.ipynb
+.ipynb_checkpoints
+data/
