@@ -8,4 +8,4 @@ venv
 *-checkpoint.ipynb
 .ipynb_checkpoints
 data/
-index_colors.txt
+Enrichr-Libraries
