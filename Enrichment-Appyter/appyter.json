@@ -1,9 +1,9 @@
 {
     "$schema": "https://raw.githubusercontent.com/MaayanLab/appyter-catalog/master/schema/appyter-validator.json",
-    "name":"Enrichment_Analysis_Appyter",
+    "name":"Enrichment_Analysis_Visualizer",
     "title": "Enrichment Analysis Visualization Appyter",
     "version": "0.0.1",
-    "description": "An appyter that displays enrichment analysis results.",
+    "description": "An appyter that displays a variety of enrichment analysis visualizations for one library.",
     "authors": [
       {
         "name": "Skylar Litz",
