@@ -10,3 +10,4 @@ venv
 data/
 Enrichr-Libraries
 geneList.txt
+.DS_Store
