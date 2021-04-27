@@ -19,7 +19,7 @@ def get_Enrichr_library(lib):
     raw_library_data = []
     library_data = []
 
-    with urllib.request.urlopen('https://amp.pharm.mssm.edu/Enrichr/geneSetLibrary?mode=text&libraryName=' + lib) as f:
+    with urllib.request.urlopen('https://maayanlab.cloud/Enrichr/geneSetLibrary?mode=text&libraryName=' + lib) as f:
         for line in f.readlines():
                 raw_library_data.append(line.decode("utf-8").split("\t\t"))
 
@@ -69,6 +69,7 @@ for lib in libs:
 
 '''
 existing libraries:
+    'Descartes_Cell_Types_and_Tissue_2021',
     'Chromosome_Location',
     'COVID-19_Related_Gene_Sets',
     'Enrichr_Users_Contributed_Lists_2020',

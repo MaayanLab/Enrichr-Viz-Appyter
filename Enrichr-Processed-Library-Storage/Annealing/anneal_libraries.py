@@ -19,13 +19,12 @@ all_libraries = [
     # INSERT LIBRARIES TO BE ADDED HERE
 ]
 
-
 def library_processing(library_index):
     # processes library data
     raw_library_data = []
     # library_data = []
 
-    with urllib.request.urlopen('https://amp.pharm.mssm.edu/Enrichr/geneSetLibrary?mode=text&libraryName=' + all_libraries[library_index]) as f:
+    with urllib.request.urlopen('https://maayanlab.cloud/Enrichr/geneSetLibrary?mode=text&libraryName=' + all_libraries[library_index]) as f:
         for line in f.readlines():
                 raw_library_data.append(line.decode("utf-8").split("\t\t"))
     name = []
@@ -183,6 +182,23 @@ def annealing(anneal_list, steps, old_fitness, x_dimension, y_dimension):
     return anneal_list
 
 
+def fileConversion(library_name):
+    print("now converting: " + library_name)
+    library_data = []
+
+    with open('Annealed-Libraries/' + library_name + '.txt', 'rb') as f:
+        library_data = pickle.load(f)
+
+    with open('Annealed-Libraries/' + library_name + '.txt', 'w') as f:
+        for index in range(len(library_data)):
+            new_line = ''
+            new_line += library_data[index][0] + '\t' + '\t'
+            for gene in library_data[index][1]:
+                new_line += gene + '\t'
+            new_line += '\n'
+            f.write(new_line)
+
+
 # save library files
 print('\nProcessing Libraries...\n')
 for library_index in range(len(all_libraries)):
@@ -199,26 +215,14 @@ for library_index in range(len(all_libraries)):
 
 # convert library files
 print('\nConverting Files...\n')
-lib_path = 'Annealed-Libraries'
-for lib in listdir(lib_path):
-    if path.isfile('/'.join([lib_path, lib])):
-        library_data = []
-        with open('/'.join([lib_path, lib]), 'rb') as f:
-            library_data = pickle.load(f)
-        with open('/'.join([lib_path, lib]), 'w') as f:
-            for i in range(len(library_data)):
-                new_line = ''
-                new_line += library_data[i][0] + '\t\t'
-                for gene in library_data[i][1]:
-                    new_line += gene + '\t'
-                new_line += '\n'
-                f.write(new_line)
-    print(lib, 'successfully converted!')
-
+for library_name in all_libraries:
+    fileConversion(library_name)
+    print(library_name, 'successfully converted!')
 
 
 ''' 
 existing libraries:
+    'Descartes_Cell_Types_and_Tissue_2021',
     'COVID-19_Related_Gene_Sets',
     'Enrichr_Users_Contributed_Lists_2020',
     'MSigDB_Hallmark_2020',
