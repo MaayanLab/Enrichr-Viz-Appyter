@@ -17,7 +17,7 @@ with urllib.request.urlopen('https://maayanlab.cloud/Enrichr/datasetStatistics')
 # (https://maayanlab.cloud/archs4/download.html) under the section 
 # "Gene Correlation"
 
-# narrow down genes that have co-expression data in ARCHS4
+# extract list of genes that have co-expression data in ARCHS4
 with open('archs4_genes.txt', 'r') as f_in:
     archs4_genes = [g.strip() for g in f_in.readlines()]
 
@@ -28,11 +28,22 @@ def augment_archs4(geneset):
     matrix for the genes in {geneset}, excluding the genes already in {geneset},
     and append the top co-expressed genes to {geneset}. Returns new list. 
     '''
+    # only augment to ~500 genes for efficiency's sake
+    if len(geneset) >= 500:
+        return geneset
     add_len = 500 - len(geneset)
+
+    # only look for genes in geneset with ARCHS4 co-expression data
     subset = list(set(geneset).intersection(set(archs4_genes)))
+    
+    # read only data columns for genes in geneset
     df = feather.read_feather('human_correlation_archs4.f', columns=subset)
     df = df.set_index(pd.Index(archs4_genes))
+
+    # sum co-expression values for all genes, for each gene in geneset
     df['sum'] = df.sum(axis=1)
+
+    # get genes with highest summed co-exp and append to original geneset
     df = df[df['sum'] > 0].sort_values(by='sum', ascending=False)
     return geneset + df.index.tolist()[:min(add_len, df.shape[0])]
 
@@ -47,20 +58,23 @@ def get_Enrichr_library(lib):
         ...
     ]
     '''
+    # variables to store data
     raw_library_data = []
     library_data = []
 
+    # get library data (GMT file) from Enrichr
     with urllib.request.urlopen('https://maayanlab.cloud/Enrichr/geneSetLibrary?mode=text&libraryName=' + lib) as f:
         for line in f.readlines():
                 raw_library_data.append(line.decode("utf-8").split("\t\t"))
 
+    # keep track of geneset data
     name = []
     gene_list = []
     aug_gene_list = []
-
+    
     for i in range(len(raw_library_data)):
         name += [raw_library_data[i][0]]
-        raw_genes = [gene.strip() for gene in raw_library_data[i][1].split('\t')]
+        raw_genes = [gene.strip().split(',')[0] for gene in raw_library_data[i][1].split('\t')]
         gene_list += [raw_genes[:-1]]
         
         # augment with ARCHS4 coexpression data
@@ -68,7 +82,6 @@ def get_Enrichr_library(lib):
         aug_gene_list += [aug_genes]
 
     library_data = [list(a) for a in zip(name, gene_list, aug_gene_list)]
-    
     return library_data
 
 
@@ -91,9 +104,8 @@ for lib in libs:
 
     gene_list = df['Augmented_Genes']
     
-    # handle any errors that may arise without pausing processing
+    print("\ttfidf") # keep track of processing step
     try:
-        print("\ttfidf") # keep track of processing step
         tfidf_vectorizer = TfidfVectorizer(
             analyzer=lambda gene: gene,
             min_df = 3,
@@ -103,14 +115,21 @@ for lib in libs:
         )
         tfidf = tfidf_vectorizer.fit_transform(gene_list)
 
-        print("\tumap") # keep track of processing step
-        reducer = umap.UMAP()
-        reducer.fit(tfidf)
-        embedding = pd.DataFrame(reducer.transform(tfidf), columns=['x','y'])
-
-        df['Genes'] = df['Genes'].apply(lambda x: ' '.join(x))
-        pd.concat([embedding, df[['Name', 'Genes']]], axis=1).to_csv('Libraries/' + lib + '.csv', index = False)
     except:
-        print("something went wrong with", lib, '-- continuing')
-        continue
+        tfidf_vectorizer = TfidfVectorizer(
+            analyzer=lambda gene: gene,
+            min_df = 3,
+            max_df = 0.25,
+            max_features = 100000,
+            ngram_range=(1, 1)
+        )
+        tfidf = tfidf_vectorizer.fit_transform(gene_list)
+
+    print("\tumap") # keep track of processing step
+    reducer = umap.UMAP()
+    reducer.fit(tfidf)
+    embedding = pd.DataFrame(reducer.transform(tfidf), columns=['x','y'])
+
+    df['Genes'] = df['Genes'].apply(lambda x: ' '.join(x))
+    pd.concat([embedding, df[['Name', 'Genes']]], axis=1).to_csv('Libraries/' + lib + '.csv', index = False)
 
