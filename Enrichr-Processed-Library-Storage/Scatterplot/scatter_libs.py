@@ -18,7 +18,7 @@ with urllib.request.urlopen('https://maayanlab.cloud/Enrichr/datasetStatistics')
 # "Gene Correlation"
 
 # extract list of genes that have co-expression data in ARCHS4
-with open('archs4_genes.txt', 'r') as f_in:
+with open('archs4_data/archs4_genes.txt', 'r') as f_in:
     archs4_genes = [g.strip() for g in f_in.readlines()]
 
 def augment_archs4(geneset):
@@ -37,7 +37,7 @@ def augment_archs4(geneset):
     subset = list(set(geneset).intersection(set(archs4_genes)))
     
     # read only data columns for genes in geneset
-    df = feather.read_feather('human_correlation_archs4.f', columns=subset)
+    df = feather.read_feather('archs4_data/human_correlation_archs4.f', columns=subset)
     df = df.set_index(pd.Index(archs4_genes))
 
     # sum co-expression values for all genes, for each gene in geneset
