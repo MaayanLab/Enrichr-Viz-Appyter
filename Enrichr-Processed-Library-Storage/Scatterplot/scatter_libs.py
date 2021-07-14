@@ -8,10 +8,15 @@ from maayanlab_bioinformatics.enrichment import enrich_crisp
 import json
 import pyarrow.feather as feather
 
-# get list of all libraries in Enrichr
-with urllib.request.urlopen('https://maayanlab.cloud/Enrichr/datasetStatistics') as f:
-    stats = json.load(f)
-    libs = [l['libraryName'] for l in stats['statistics']]
+# get list of all libraries in Enrichr 
+# with urllib.request.urlopen('https://maayanlab.cloud/Enrichr/datasetStatistics') as f:
+#     stats = json.load(f)
+#     libs = [l['libraryName']) for l in stats['statistics']]
+
+# use list of specific library names; best if processing local libraries
+libs = [
+    # INSERT LIBRARIES HERE
+]
 
 # ARCHS4 co-expression dataset can be downloaded from the ARCHS4 site
 # (https://maayanlab.cloud/archs4/download.html) under the section 
@@ -20,6 +25,9 @@ with urllib.request.urlopen('https://maayanlab.cloud/Enrichr/datasetStatistics')
 # extract list of genes that have co-expression data in ARCHS4
 with open('archs4_data/archs4_genes.txt', 'r') as f_in:
     archs4_genes = [g.strip() for g in f_in.readlines()]
+
+archs4_df = feather.read_feather('archs4_data/human_correlation_archs4.f')
+archs4_df.index = archs4_df.columns
 
 def augment_archs4(geneset):
     '''
@@ -37,8 +45,7 @@ def augment_archs4(geneset):
     subset = list(set(geneset).intersection(set(archs4_genes)))
     
     # read only data columns for genes in geneset
-    df = feather.read_feather('archs4_data/human_correlation_archs4.f', columns=subset)
-    df = df.set_index(pd.Index(archs4_genes))
+    df = archs4_df.loc[archs4_genes, subset]
 
     # sum co-expression values for all genes, for each gene in geneset
     df['sum'] = df.sum(axis=1)
@@ -62,10 +69,15 @@ def get_Enrichr_library(lib):
     raw_library_data = []
     library_data = []
 
-    # get library data (GMT file) from Enrichr
-    with urllib.request.urlopen('https://maayanlab.cloud/Enrichr/geneSetLibrary?mode=text&libraryName=' + lib) as f:
+    # # get library data (GMT file) from Enrichr
+    # with urllib.request.urlopen('https://maayanlab.cloud/Enrichr/geneSetLibrary?mode=text&libraryName=' + lib) as f:
+    #     for line in f.readlines():
+    #           raw_library_data.append(line.decode("utf-8").split("\t\t"))
+
+    # get library data (GMT file) locally
+    with open(f'../../../Libs_to_scatter/{lib}.gmt', 'r') as f:
         for line in f.readlines():
-                raw_library_data.append(line.decode("utf-8").split("\t\t"))
+            raw_library_data.append(line.split("\t\t"))
 
     # keep track of geneset data
     name = []
