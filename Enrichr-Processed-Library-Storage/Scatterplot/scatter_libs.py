@@ -1,5 +1,5 @@
 import urllib
-from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.feature_extraction.text import ENGLISH_STOP_WORDS, TfidfVectorizer, CountVectorizer
 import pandas as pd
 import numpy as np
 import anndata
@@ -138,64 +138,55 @@ def process(libname, libdict, data_dir, augmented=False, augdict=None):
 
     df.to_csv(f"{data_dir}/{libname}.csv", index=False)
 
+def label_clusters(lib, dirname):
+    df = pd.read_csv(f"{dirname}/{lib}.csv")
 
-data_dir = '../../../Enrichment-Appyter/new_scatterlibs'
+    # temporarily replace hyphens with spaces (relevant for certain libs)
+    df = df.dropna(subset=['term'])
+    all_terms = df['term'].apply(lambda x: x.replace('-', ' ')).tolist()
+    # find all words that appear in many terms regardless of cluster
+    all_vec = CountVectorizer(max_df = 0.5)
+    all_vec.fit_transform(all_terms)
+    stops = list(all_vec.stop_words_)
+
+    clust_term_map = {}
+
+    for clust in df['cluster'].unique():
+        terms = df[df['cluster'] == clust]['term'].tolist()
+        vec = CountVectorizer(stop_words=ENGLISH_STOP_WORDS.union(stops))
+        X = vec.fit_transform(terms)
+        ranked = list(zip(vec.get_feature_names(), X.toarray().sum(axis=0)/X.shape[0]))
+        ranked = sorted(ranked, key=lambda x: x[1], reverse=True)
+        i = 0
+        prop = 0
+        final_clust_terms = []
+        while i < len(ranked):
+            if prop >= 0.75: break
+            if len(final_clust_terms) >= 3: break
+            if ranked[i][0] not in vec.stop_words_:
+                final_clust_terms.append(ranked[i][0])
+                prop += ranked[i][1]
+            i += 1
+        if prop >= 0.75:
+            clust_term_map[clust] = '/'.join(final_clust_terms)
+        else:
+            clust_term_map[clust] = 'Unresolved'
+
+    df['cluster_label'] = df['cluster'].apply(lambda x: clust_term_map[x])
+
+    df.to_csv(f"{dirname}/{lib}.csv", index=False)
+
+
+data_dir = '../Clustered_Scatterplots'
+
 for (l_name, l_len) in libs:
-    # if path.exists(f"{data_dir}/{l_name}.csv"): continue
-    print (f"Processing {l_name}")
+    print (f"Processing {l_name}...")
     if l_len < 100:
         l_dict, a_dict = get_Enrichr_library(l_name, augmented=True)
         process(l_name, l_dict, data_dir, augmented=True, augdict=a_dict)
     else:
         l_dict, _ = get_Enrichr_library(l_name)
         process(l_name, l_dict, data_dir)
+    print(f"Labeling clusters for {l_name}...")
+    label_clusters(l_name, data_dir)
     print("\tDone!")
-
-# for lib in libs:
-#     if path.exists('Libraries/' + lib + '.csv'):
-#         continue
-#     print("SCATTER LIB:", lib) # keep track of library
-
-#     # handle library inaccessibility
-#     try:
-#         library_data = get_Enrichr_library(lib)
-#     except:
-#         print("failed to access", lib, "-- continuing")
-#         continue
-
-#     df = pd.DataFrame(
-#         data = library_data, 
-#         columns = ['Name', 'Genes', 'Augmented_Genes']
-#     )
-
-#     gene_list = df['Augmented_Genes']
-    
-#     print("\ttfidf") # keep track of processing step
-#     try:
-#         tfidf_vectorizer = TfidfVectorizer(
-#             analyzer=lambda gene: gene,
-#             min_df = 3,
-#             max_df = 0.05,
-#             max_features = 100000,
-#             ngram_range=(1, 1)
-#         )
-#         tfidf = tfidf_vectorizer.fit_transform(gene_list)
-
-#     except:
-#         tfidf_vectorizer = TfidfVectorizer(
-#             analyzer=lambda gene: gene,
-#             min_df = 3,
-#             max_df = 0.25,
-#             max_features = 100000,
-#             ngram_range=(1, 1)
-#         )
-#         tfidf = tfidf_vectorizer.fit_transform(gene_list)
-
-#     print("\tumap") # keep track of processing step
-#     reducer = umap.UMAP()
-#     reducer.fit(tfidf)
-#     embedding = pd.DataFrame(reducer.transform(tfidf), columns=['x','y'])
-
-#     df['Genes'] = df['Genes'].apply(lambda x: ' '.join(x))
-#     pd.concat([embedding, df[['Name', 'Genes']]], axis=1).to_csv('Libraries/' + lib + '.csv', index = False)
-
