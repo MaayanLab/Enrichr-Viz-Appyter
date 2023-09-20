@@ -1,0 +1,1444 @@
+PBMC-L2-AXL+ Dendritic Cell		PPP1R14A	LILRA4	AXL	IL3RA	SCT	SCN9A	LGMN	DNASE1L3	CLEC4C	GAS6
+PBMC-L1-CD4+ T cell		IL7R	MAL	LTB	CD4	LDHB	TPT1	TRAC	TMSB10	CD3D	CD3G
+PBMC-L1-CD8+ T cell		CD8B	CD8A	CD3D	TMSB10	HCST	CD3G	LINC02446	CTSW	CD3E	TRAC
+Bone Marrow-L2-Memory B		FCRL2	TNFRSF13B	ARHGAP24	PNOC	FCER2	FCRLA	BLK	HLA-DOB	MS4A1	TNFRSF13C
+PBMC-L1-B cell		CD79A	RALGPS2	CD79B	MS4A1	BANK1	CD74	TNFRSF13C	HLA-DQA1	IGHM	MEF2C
+Adipose-L2-hMac2		TREM2	FTL	TPRG1	MMP9	CTSD	CTSB	LYZ	ALCAM	FABP4	MSR1
+Motor Cortex-cluster-OPALIN+ ENPP6+ Layer 3-6 oligodendrocyte		S100B	RBFOX1	CARNS1	RASGRF1	COL4A5	COL18A1	MOG	USH1C	OPALIN	ENPP6
+PBMC-L2-Intermediate B cell		MS4A1	TNFRSF13B	IGHM	IGHD	AIM2	CD79A	LINC01857	RALGPS2	BANK1	CD79B
+PBMC-L2-Memory B cell		MS4A1	COCH	AIM2	BANK1	SSPN	CD79A	TEX9	RALGPS2	TNFRSF13C	LINC01781
+PBMC-L2-Naive B cell		IGHM	IGHD	CD79A	IL4R	MS4A1	CXCR4	BTG1	TCL1A	CD79B	YBX3
+Fetal Development-L1-Corneal and conjunctival epithelial cells		S100A9	LYPD2	LCN2	MUC4	SLPI	KRT4	CP	MUC16	CEACAM6	MUC15
+Kidney-L3-Neutrophil		FCGR3B	S100A8	S100A9	CSF3R	MXD1	ITM2B	S100A6	FTL	ACTB	DHFR
+PBMC-L2-CD4+ Naive T		TCF7	CD4	CCR7	IL7R	FHIT	LEF1	MAL	NOSIP	LDHB	PIK3IP1
+PBMC-L2-CD4+ Proliferating T		MKI67	TOP2A	PCLAF	CENPF	TYMS	NUSAP1	ASPM	PTTG1	TPX2	RRM2
+PBMC-L2-CD4+ Central Memory T		IL7R	TMSB10	CD4	ITGB1	LTB	TRAC	AQP3	LDHB	IL32	MAL
+PBMC-L2-CD4+ Effector Memory T		IL7R	CCL5	FYB1	GZMK	IL32	GZMA	KLRB1	TRAC	LTB	AQP3
+PBMC-L2-Regulatory T		RTKN2	FOXP3	AC133644.2	CD4	IL2RA	TIGIT	CTLA4	FCRL3	LAIR2	IKZF2
+PBMC-L3-Mucosal associated invariant T		KLRB1	NKG7	GZMK	SLC4A10	NCR3	CTSW	IL7R	KLRG1	CEBPD	DUSP2
+PBMC-L2-CD8+ Proliferating T		MKI67	CD8B	TYMS	TRAC	PCLAF	CD3D	CLSPN	CD3G	TK1	RRM2
+PBMC-L2-CD8+ Central Memory T		CD8B	ANXA1	CD8A	KRT1	LINC02446	YBX3	IL7R	TRAC	NELL2	LDHB
+PBMC-L2-CD8+ Effector Memory T		CCL5	GZMH	CD8A	TRAC	KLRD1	NKG7	GZMK	CST7	CD8B	TRGC2
+Kidney-L3-Classical Dendritic		RAB7B	IDO1	FLT3	IDO2	WDFY4	FNBP1	CCDC26	CLNK	HDAC9	SLC9A9
+PBMC-L2-Conventional Dendritic Cell 1		CLEC9A	DNASE1L3	C1orf54	IDO1	CLNK	CADM1	FLT3	ENPP1	XCR1	NDRG2
+Motor Cortex-subclass-oligodendrocyte		PLP1	ST18	CTNNA3	MBP	MOBP	RNF220	NCKAP5	ENPP2	QKI	SLC44A1
+Lung v2 (HLCA)-ann_finest_level-Classical monocytes		LST1	IL1B	LYZ	COTL1	S100A9	VCAN	S100A8	S100A12	AIF1	FCN1
+Lung v2 (HLCA)-ann_level_3-Monocytes		FCER1G	S100A9	S100A12	VCAN	COTL1	S100A8	CD14	LST1	FCN1	AIF1
+PBMC-L2-CD16+ Monocyte		CDKN1C	FCGR3A	PTPRC	LST1	IER5	MS4A7	RHOC	IFITM3	AIF1	HES4
+PBMC-L2-CD56-dim Natural Killer		GNLY	TYROBP	NKG7	FCER1G	GZMB	TRDC	PRF1	FGFBP2	SPON2	KLRF1
+PBMC-L2-Proliferating Natural Killer		MKI67	KLRF1	TYMS	TRDC	TOP2A	FCER1G	PCLAF	CD247	CLSPN	ASPM
+PBMC-L2-CD56-bright Natural Killer		XCL2	FCER1G	SPINK2	TRDC	KLRC1	XCL1	SPTSSB	PPP1R9A	NCAM1	TNFRSF11A
+PBMC-L2-Erythroid cell		HBD	HBM	AHSP	ALAS2	CA1	SLC4A1	IFIT1B	TRIM58	SELENBP1	TMCC2
+PBMC-L2-Hematopoietic stem and progenitor cell		SPINK2	PRSS57	CYTL1	EGFL7	GATA2	CD34	SMIM24	AVP	MYB	LAPTM4B
+Adipose-L2-hPeri		COL25A1	MYO1B	POSTN	RGS5	KCNAB1	DLC1	RGS6	EBF2	ENPEP	THSD7B
+Kidney-L2-Renin-positive Juxtaglomerular Granular		ABCC8	REN	COL13A1	CACNB2	ADCY3	PIP5K1B	GRID2	WFDC1	PRKG1	SLIT3
+Lung v2 (HLCA)-ann_finest_level-Multiciliated (non-nasal)		SNTN	FAM229B	TMEM231	C5orf49	C12orf75	GSTA1	C11orf97	RP11-356K23.1	CD24	RP11-295M3.4
+Lung v2 (HLCA)-ann_level_3-Multiciliated lineage		SNTN	FAM229B	TMEM231	C5orf49	C12orf75	GSTA1	C11orf97	RP11-356K23.1	CD24	RP11-295M3.4
+PBMC-L2-Mucosal associated invariant T		KLRB1	NKG7	GZMK	IL7R	SLC4A10	GZMA	CXCR6	PRSS35	RBM24	NCR3
+PBMC-L3-AXL+ myeloid dendritic cell		AXL	LILRA4	SCN9A	CLEC4C	LTK	PPP1R14A	LGMN	SCT	IL3RA	GAS6
+PBMC-L3-AXL+ plasmacytoid dendritic cell		LILRA4	CLEC4C	SCT	EPHB1	AXL	PROC	LRRC26	SCN9A	LTK	DNASE1L3
+PBMC-L3-Intermediate B cell, kappa light chain		MS4A1	IGKC	IGHM	LINC01857	MARCKS	IGHD	TNFRSF13B	CD24	FCRL2	BANK1
+PBMC-L3-Intermediate B cell, lambda light chain		MS4A1	IGLC2	IGHM	CD79A	IGLC3	IGHD	BANK1	TNFRSF13C	CD22	TNFRSF13B
+PBMC-L3-Memory B cell, kappa light chain		BANK1	IGKC	LINC01781	MS4A1	SSPN	CD79A	RALGPS2	TNFRSF13C	LINC00926	
+PBMC-L3-Memory B cell, lambda light chain		BANK1	IGLC2	MS4A1	IGLC3	COCH	TNFRSF13C	IGHA2	BLK	TNFRSF13B	LINC01781
+PBMC-L3-Naive B cell, kappa light chain		IGHM	TCL1A	IGHD	IGHG3	CD79A	IL4R	CD37	MS4A1	IGKC	
+PBMC-L3-Naive B cell, lambda light chain		IGHM	IGLC2	IGHD	IGLC3	CD79A	CXCR4	MS4A1	IL4R	TCL1A	CD79B
+Liver-L2-B		MS4A1	CD79A	CD37	CD79B	LTB	CD52	TCL1A	BANK1	VPREB3	POU2F2
+Kidney-L2-B		FCRL1	MS4A1	PAX5	IGHM	ARHGAP24	March1	BANK1	RALGPS2	INPP5D	ARHGAP15
+Lung v2 (HLCA)-ann_finest_level-Goblet (nasal)		KRT7	MUC1	MUC5AC	MSMB	CP	LMO7	LCN2	CEACAM6	BPIFB1	PIGR
+PBMC-L3-CD4+ Naive T		TCF7	CD4	NUCB2	LDHB	TRAT1	SARAF	FHIT	LEF1	CCR7	IL7R
+Pancreas-L1-epsilon islet cell		BHMT	VSTM2L	PHGR1	TM4SF5	ANXA13	ASGR1	DEFB1	GHRL	COL22A1	OLFML3
+PBMC-L3-CD4+ Central Memory T_1		LTB	CD4	FYB1	IL7R	LIMS1	MAL	TMSB4X	TSHZ2	AP3M2	TRAC
+PBMC-L3-CD4+ Central Memory T_2		CTLA4	MIR4435-2HG	TMSB4X	CD28	CDCA7	TMSB10	MAF	ITM2A	TRAC	CD27
+PBMC-L3-CD4+ Central Memory T_3		IL7R	ITGB1	LTB	S100A4	AQP3	TNFRSF4	IL32	TOB1	PDE4D	HOPX
+PBMC-L3-CD4+ Effector Memory T_1		GZMK	IL7R	IL32	ITGB1	CCL5	GZMA	B2M	DUSP2	KLRB1	SYNE2
+PBMC-L3-CD4+ Effector Memory T_2		GZMK	CD4	TIGIT	IFNG-AS1	CD40LG	MALAT1	CD3G	CD3D	TRAC	CD3E
+PBMC-L3-CD4+ Effector Memory T_3		IL7R	CCL5	NOSIP	KLRB1	SERINC5	AQP3	ITGA4	IL32	TRAC	LTB
+PBMC-L3-CD8+ Central Memory T_3		CD8B	KLRB1	CD8A	HOPX	IL7R	KLRD1	CCL5	SCML4	LINC02446	TRAC
+PBMC-L3-CD8+ Naive T		CD8B	LDHB	LEF1	LINC02446	CD8A	S100B	ID2	TCF7	VIM	CCR7
+PBMC-L3-CD8+ Naive T_2		CD8B	CCR5	CHI3L2	SOX4	CD8A	TNFRSF9	CD38	SIRPG	LRRN3	LEF1
+Bone Marrow-L2-Conventional Dendritic Cell 1		IDO1	XCR1	TACSTD2	CLEC9A	WFDC21P	CLNK	CADM1	DNASE1L3	BATF3	LGALS2
+PBMC-L3-CD8+ Central Memory T_1		CD8B	SELL	CD8A	LYAR	ITGB1	NELL2	DUSP2	IL7R	CCL5	LINC01871
+Fetal Development-L1-Syncytiotrophoblasts and villous cytotrophoblasts		TENM3	FBN2	ARL15	EGFR	KANK1	ZFAT	SVEP1	RHOBTB1	RP11-30J20.1	MBNL3
+Kidney-L3-Mesangial		AGTR1	PDGFRB	PIEZO2	WISP1	DAAM2	CARMN	PRR16	ITGA8	COL25A1	ROBO1
+Motor Cortex-cluster-FEZF2+ ASGR2+ Layer 3-5 glutamatergic neuron		OR51E2	SORCS1	LINC00922	LINGO2	ERG	SEMA6D	GFRA1	RASAL2	FEZF2	ASGR2
+PBMC-L3-CD8+ Effector Memory T_2		CD8A	CMC1	CD8B	CD160	GZMH	CST7	KLRD1	CCL5	TIGIT	KLRG1
+PBMC-L3-CD8+ Effector Memory T_3		GZMK	CD8A	ITGB1	CD8B	HOPX	CCL5	KLRD1	NKG7	GNLY	YBX3
+PBMC-L3-CD8+ Effector Memory T_4		GZMH	THEMIS	GNLY	CD8A	ITGB1	FGFBP2	CD2	GZMB	KLRD1	CD8B
+PBMC-L3-CD8+ Effector Memory T_5		GZMH	GNLY	ZNF683	TRAC	KLRC2	TYROBP	CD8B	CD8A	TRGC2	GZMB
+PBMC-L3-CD8+ Effector Memory T_6		TRGC2	CD8A	IFNG-AS1	CD8B	ZNF683	KLRC2	NCR3	IKZF2	DUSP2	RTKN2
+Liver-L2-Vascual Central Venous Endothelial		PRSS23	SELE	RSPO3	LXH6	RAMP3	LIFR	LYPD2	NTS	IFI27	DNASE1L3
+PBMC-L3-Conventional Dendritic Cell 2_1		FCER1A	CD14	CLEC10A	CTSS	ENHO	CD1C	MRC1	FCGR2B	PID1	IL13RA1
+PBMC-L3-Conventional Dendritic Cell 2_2		FCER1A	BASP1	CD1C	CD74	CLEC10A	HLA-DPA1	ENHO	HLA-DPB1	PLD4	HLA-DQA1
+PBMC-L3-Double-negative T_1		GZMK	NUCB2	CD8B	GPR183	TCF7	LYAR	MALAT1	C12orf57	LEF1	LDHB
+PBMC-L3-Double-negative T_2		AC004585.1	GPR183	FXYD2	NUCB2	CAV1	CD27	MYB	TMSB4X	GZMK	FGFR1
+Lung v1-L2-IGSF21+ Dendritic		FOLR2	MS4A6A	STAB1	F13A1	FCGR2A	C1QA	CTSB	LGMN	MAF	CCL13
+PBMC-L3-gamma-delta T_1		TRDC	TRGC1	TRGV9	TRDV2	KLRD1	IL7R	KLRC1	DUSP2	GNLY	KLRG1
+PBMC-L3-gamma-delta T_2		KLRC2	CD3G	KIR3DL2	CD3D	TRDC	TRDV1	ZNF683	KLRC1	TRGC1	GZMH
+PBMC-L3-gamma-delta T_3		RTKN2	TRDC	TRGC2	LEF1	IKZF2	SOX4	ZNF331	ARID5B	NUCB2	CRTAM
+PBMC-L3-gamma-delta T_4		TRDC	TIGIT	KLRC2	TRGC2	IKZF2	GCSAM	FCRL6	TRDV1	CST7	CMC1
+Kidney-L3-Descending Thin Limb Type 1	PAX8	ALDH1A2	FOXP2	MYO9A	BICC1	LINC01320	UGT2B7	PKHD1		
+Fetal Development-L1-Thymic epithelial cells		RP11-114G22.1	PRSS16	TBATA	FAM163A	AC005042.5	FOXN1	PAX1	MIR205HG	LY75	NEURL2
+Motor Cortex-cluster-OPALIN+ LRP4-AS1+ Layer 3-6 oligodendrocyte		LINC00982	FGFR3	NKAIN3	OPALIN	SLC1A2	TRIM59	RYR3	GJA1	RNF219-AS1	LRP4-AS1
+Heart-L2-B		IGKC	IGHM	IGHA1	AFF3	BANK1	IFNG-AS1	GNG7	MZB1	RALGPS2	MS4A1
+PBMC-L3-CD56-dim Natural Killer_1		FGFBP2	KLRC2	GNLY	S100A4	CD3E	CST7	LGALS1	PRF1	NKG7	GZMB
+PBMC-L3-CD56-dim Natural Killer_2		NKG7	FCER1G	PRF1	KLRB1	SPON2	GZMB	FGFBP2	IGFBP7	CST7	B2M
+PBMC-L3-CD56-dim Natural Killer_3		KLRF1	CCL5	TRDC	SYNE2	KLRC1	CMC1	XCL2	KLRB1	KLRD1	IL2RB
+PBMC-L3-CD56-dim Natural Killer_4		XCL2	SELL	XCL1	GZMK	KLRC1	SPTSSB	KLRF1	IL2RB	TCF7	TRDC
+PBMC-L3-CD56-bright Natural Killer		XCL2	GPR183	SELL	IL2RB	CD44	GZMK	KLRF1	TPT1	KLRC1	XCL1
+Lung v1-L2-CD8+ Memory/Effector T		DUSP2	CCL5	CD8A	CST7	NKG7	CD3E	IL32	RPL34	IL7R	TC2N
+PBMC-L3-Plasma cell		MZB1	JCHAIN	TNFRSF17	ITM2C	DERL3	TXNDC5	POU2AF1	IGHA1	TXNDC11	CD79A
+PBMC-L3-Plasmablast		TYMS	TNFRSF17	SHCBP1	TK1	KNL1	ASPM	TXNDC5	TPX2	RRM2	BIRC5
+PBMC-L3-Platelet		GNG11	PPBP	NRGN	PF4	CAVIN2	TUBB1	HIST1H2AC	PRKAR2B	CLU	F13A1
+PBMC-L3-Memory Regulatory T		RTKN2	B2M	TIGIT	FCRL3	S100A4	AC133644.2	CTLA4	FOXP3	IKZF2	TRAC
+PBMC-L3-Naive Regulatory T		RTKN2	LEF1	FOXP3	C12orf57	IL2RA	TOMM7	CCR7	TRAC	CD4	LDHB
+Kidney-L2-Cycling Mononuclear Phagocyte		DLEU2	FOXN3	HDAC9	RUNX1	LDLRAD4	RBPJ	CELF2	FMN1	CHST11	PRKCB
+Pancreas-L1-gamma islet cell		PPY	AQP3	MEIS2	ID2	GPC5-AS1	CARTPT	PRSS23	ETV1	PPY2	TUBB2A
+Motor Cortex-class-Non-neuronal cell		QKI	ZBTB20	NCKAP5	PTGDS	PHLPP1	CDH20	PPP2R2B	PDE4B	DOCK1	MAP4K4
+Fetal Development-L2-Intestine-Intestinal epithelial cells		PCSK5	APOA1	C10orf112	RAB11FIP1	LGALS3	ARID3A	THRB	CPS1	MYH14	HNF4A
+PBMC-L3-CD8+ Central Memory T_2		CD8B	C1orf162	IL7R	GATA3	YBX3	KRT1	CD8A	CTSW	INPP4B	LTB
+Motor Cortex-subclass-Layer 2-3 glutamatergic neuron, intratelencephalon-projecting		CBLN2	EPHA6	LAMA2	CNTN5	PDZD2	CUX2	RASGRF2	FAM19A1	LINC01378	CA10
+Motor Cortex-subclass-Layer 5 glutamatergic neuron, extratelencephalon-projecting		COL5A2	FAM19A1	VAT1L	COL24A1	CBLN2	NRP1	PTCHD1.AS	NRG1	HOMER1	SLC35F3
+Motor Cortex-subclass-Layer 5 glutamatergic neuron, intratelencephalon-projecting		FSTL4	CNTN5	RORB	FSTL5	IL1RAPL2	CHN2	TOX	CPNE4	CADPS2	POU6F2
+Motor Cortex-subclass-Layer 5-6 glutamatergic neuron, near-projecting		TSHZ2	NPSR1.AS1	HTR2C	ITGA8	ZNF385D	ASIC2	CDH6	CRYM	NXPH2	CPNE4
+Tonsil-L2-IFN CD8 T		IFIT1	GZMK	OASL	NKG7	USP18	GZMA	CCL5	IFI44L	CD8A	GZMH
+Motor Cortex-subclass-Layer 6 glutamatergic neuron, intratelencephalon-projecting		PTPRK	PDZRN4	CDH9	THEMIS	FSTL5	CDH13	CDH12	CBLN2	LY86.AS1	MLIP
+Motor Cortex-subclass-Layer 6 Car3+ glutamatergic neuron, intratelencephalon-projecting		THEMIS	RNF152	NTNG2	STK32B	KCNMB2	GAS2L3	OLFML2B	POSTN	B3GAT2	NR4A2
+Motor Cortex-subclass-Layer 6b glutamatergic neuron		HS3ST4	KCNMB2	MDFIC	C10orf11	NTM	CDH9	March1	TLE4	FOXP2	KIAA1217
+Fetal Development-L1-Thymocytes		LEF1	BCL11B	CALN1	TFDP2	ARHGAP15	THEMIS	SATB1	IKZF2	RUNX1	TCF7
+Tonsil-L1-Dendritic		CLEC9A	ZNF366	CLEC10A	ST18	RTN1	LAD1	AC090559.1	CPVL	CCDC26	SHTN1
+PBMC-L2-Conventional Dendritic Cell 2		FCER1A	HLA-DQA1	CLEC10A	CD1C	ENHO	PLD4	GSN	SLC38A1	NDRG2	AFF3
+Heart-L1-B		IGKC	IGHM	MZB1	IGHA1	AFF3	CD74	BANK1	IFNG-AS1	SEL1L3	GNG7
+Motor Cortex-cluster-SST+ RPL35AP11+ Layer 5 GABAergic neuron		SST	ADCY2	EDNRA	GRIK2	QRFPR	DMD	NMU	GRIK1	PAWR	RPL35AP11
+Motor Cortex-subclass-Sncg+ GABAergic neuron		CNR1	SLC8A1	ASIC2	CXCL14	MAML3	ADARB2	NPAS3	CNTN5	FSTL5	SNCG
+Tonsil-L1-CD8 T		GZMH	CXCR6	TRGC2	ITGA1	KLRG1	MIAT	CD8A	CCL5	PPP2R2B	GPR171
+Lung v2 (HLCA)-ann_finest_level-T cells proliferating		TRAC	HMGN2	IL32	CORO1A	ARHGDIB	STMN1	RAC2	IL2RG	HMGB2	CD3D
+Lung v2 (HLCA)-ann_finest_level-SMG serous (bronchial)		AZGP1	ZG16B	PIGR	NDRG2	LPO	C6orf58	DMBT1	PRB3	FAM3D	RP11-1143G9.4
+Lung v2 (HLCA)-ann_level_3-Submucosal Secretory		CCL28	PIP	ZG16B	PIGR	SEC11C	MARCKSL1	SELM	LTF	TCN1	AZGP1
+Motor Cortex-cluster-FGFR3+ SERPINI2+ Layer 1 astrocyte		GFAP	PDE4D	ID3	CTNNA2	FGFR3	GRM3	GJA1	TMEM132C	ETNPPL	SERPINI2
+Motor Cortex-cluster-FGFR3+ AQP1+ Layer 1-6 astrocyte		GFAP	TNC	GJA1	ADAMTSL3	RASL12	LINC00609	ANGPTL4	FGFR3	AQP1	
+Motor Cortex-cluster-FGFR3+ PLCG1+ Layer 1-6 astrocyte		FGFR3	HPSE2	GJA1	PLCB1	SLCO1C1	COL5A3	ETNPPL	NDRG2	PRODH	PLCG1
+Lung v2 (HLCA)-ann_level_4-Non classical monocytes		PSAP	FCGR3A	FCN1	CORO1A	COTL1	FCER1G	LAPTM5	CTSS	AIF1	LST1
+Liver-L1-T/NK		CCL5	KLRB1	NKG7	GZMA	CCL4	IL7R	CD69	CST7	GZMK	CD3D
+Motor Cortex-cluster-LINC00507+ ATP7B+ Layer 2 glutamatergic neuron		OR1J2	KCNK2	ACVR1C	SEMA5A	BDNF	ITGB8	CHRM2	RASAL1	LINC00507	ATP7B
+Motor Cortex-cluster-LINC00507+ GLRA3+ Layer 2 glutamatergic neuron		LRRTM4	MAN1A1	LINC01378	DMD	ENC1	KIAA1217	DGKB	SLIT3	LINC00507	GLRA3
+Motor Cortex-cluster-LINC00507+ DSG3+ Layer 2-3 glutamatergic neuron		BDNF	BMPR1B	ADCYAP1	SV2C	NOX4	CBLN2	SERPINE2	DLGAP1	LINC00507	DSG3
+Motor Cortex-cluster-RORB+ CCDC68+ Layer 2-3 glutamatergic neuron		COL5A2	LRRC4C	RORB	PTPRZ1	NTNG1	LINGO2	VIPR2	CNTNAP5	COBLL1	CCDC68
+Motor Cortex-cluster-RORB+ PTPN3+ Layer 2-3 glutamatergic neuron		RORB	GRIA1	COL5A2	PEX5L	RMST	GRM1	NTNG1	GULP1	POU6F2	PTPN3
+Motor Cortex-cluster-RORB+ RTKN2+ Layer 2-3 glutamatergic neuron		RMST	GALNT13	COL5A2	ROBO1	ZBTB7C	STXBP6	SCHLAP1	EPHA6	RORB	RTKN2
+Motor Cortex-cluster-LAMP5+ CARM1P1+ Layer 3 glutamatergic neuron		SV2C	RYR2	SYT2	SLC38A11	BMPR1B	FMN1	MOXD1	PLXDC2	LAMP5	CARM1P1
+Motor Cortex-cross-species cluster-Lamp5+ GABAergic neuron_3		PDGFD	ITGA8	EYA4	CHST9	SFRP1	SORCS1	KIRREL	UNC5D	PDGFRA	LAMP5
+Lung v2 (HLCA)-ann_level_4-Multiciliated		SNTN	FAM229B	TMEM231	C5orf49	C12orf75	GSTA1	C11orf97	RP11-356K23.1	CD24	RP11-295M3.4
+PBMC-L3-CD8+ Effector Memory T_1	GZMK	CD8B	CD8A	CCL5	NKG7	DUSP2	CST7	IL32		
+Motor Cortex-cluster-FEZF2+ PDYN+ Layer 6 glutamatergic neuron	SLC15A5	ADGRF2	PDYN	CABP7	SYT6	SEMA3D	ERG	FEZF2		
+Motor Cortex-cluster-RORB+ LAMA4+ Layer 3-5 glutamatergic neuron		TRPC3	DACH1	PLCH1	RORB	CUX2	ANTXR2	IL1RAP	LAMA4	RORA	RMST
+Lung v2 (HLCA)-ann_level_2-Airway epithelium		PERP	IGFBP2	TSPAN1	KIF21A	ELF3	KRT8	KRT19	TACSTD2	GSTA1	CYP4B1
+Motor Cortex-cluster-VIP+ BSPRY+ Layer 2-5 GABAergic neuron		CHRNA2	ST18	VIP	SFMBT2	SHISA8	CA10	RGS16	PCDH7	SLC22A3	BSPRY
+Motor Cortex-cluster-RORB+ RPRM+ Layer 3-5 glutamatergic neuron		MKX	RPRM	RXFP1	CCK	RORB	SLC9A9	FSTL4	SPARCL1	IPCEF1	SEMA3E
+Motor Cortex-cluster-RORB+ TNNT2+ Layer 3-5 glutamatergic neuron		LINCR-0002	IL1RAPL2	THEMIS	CPNE4	FSHR	LAMA2	UTRN	RORB	TSHZ2	TNNT2
+Motor Cortex-cluster-FEZF2+ CSN1S1+ Layer 5 glutamatergic neuron		ANGPT1	KCNIP1	SULF2	KCNG2	ANKRD26P3	NETO1	PAPPA	GRM1	FEZF2	CSN1S1
+Motor Cortex-cluster-FEZF2+ NREP-AS1+ Layer 5 glutamatergic neuron		CD36	NWD2	ADAMTS12	GPC5	LINC01507	GRIK1	FER1L6-AS2	MAST4	FEZF2	NREP-AS1
+Motor Cortex-cluster-FEZF2+ PKD2L1+ Layer 5 glutamatergic neuron		FER1L6-AS2	GPC5	NPSR1-AS1	PDE1A	ROBO3	TRPM3	NPSR1	RALYL	FEZF2	PKD2L1
+Motor Cortex-cluster-FEZF2+ RNF144A-AS1+ Layer 5 glutamatergic neuron		IFNG-AS1	GPC6	CD36	GRIK1	GDNF-AS1	PVT1	NPSR1	LRRC4C	FEZF2	RNF144A-AS1
+Motor Cortex-cluster-RORB+ MED8+ Layer 5 glutamatergic neuron		NPFFR2	COL22A1	FAM19A2	IL1RAPL2	FNBP1L	RXFP1	LRRC7	RORB	KCNH5	MED8
+Motor Cortex-cluster-THEMIS+ FGF10+ Layer 5 glutamatergic neuron		NPFFR2	TESPA1	CRH	RCAN2	THEMIS	NELL1	BDNF	CA10	RXFP1	FGF10
+Motor Cortex-cluster-THEMIS+ VILL+ Layer 5 glutamatergic neuron		TNC	SAMD5	NPFFR2	NELL1	FAP	LRP1B	DACH1	CDH6	THEMIS	VILL
+Motor Cortex-cluster-THEMIS+ RGPD6+ Layer 5 glutamatergic neuron		SEMA3E	TRPC6	SEMA5A	THEMIS	DDR2	RNF152	LINC01060	EGFEM1P	RGPD6	
+Motor Cortex-cluster-OPALIN+ LDLRAP1+ Layer 5-6 oligodendrocyte		PLP1	ANK3	ST18	NLGN1	RNF220	PLXDC2	ENPP2	OPALIN	FRMD4B	LDLRAP1
+		
+Motor Cortex-cluster-FEZF2+ C9orf135-AS1+ Layer 5-6 glutamatergic neuron		SEMA3E	OPCML	EGFEM1P	LRRTM4	SEMA5A	RALYL	HS3ST4	PRKD1	FEZF2	C9ORF135-AS1
+Motor Cortex-cluster-FEZF2+ CFTR+ Layer 5-6 glutamatergic neuron		NR4A2	TMEM244	CTGF	CALCRL	MCTP2	CLDN1	ERG	EPB41L4A	FEZF2	CFTR
+Lung v2 (HLCA)-ann_finest_level-SM activated stress response		C11orf96	HES4	PLAC9	FLNA	KANK2	TPM2	PLN	SELM	GPX3	LBH
+Motor Cortex-cluster-FEZF2+ IFNG-AS1+ Layer 5-6 glutamatergic neuron		CD36	NRXN3	IFNG-AS1	KCNQ5	FER1L6-AS2	PCDH11X	HTR2C	DGKI	NPSR1-AS1	FEZF2
+Motor Cortex-cluster-FEZF2+ LPO+ Layer 5-6 glutamatergic neuron		GADL1	ALCAM	MYHAS	PCED1B	CALCRL	LINC01105	FER1L6-AS2	ZNF385D-AS2	FEZF2	LPO
+Motor Cortex-cluster-FEZF2+ OR1L8+ Layer 5-6 glutamatergic neuron		SYT6	KCNC2	MCTP2	CTNND2	SULF1	KIAA1217	RBM20	PLXDC2	FEZF2	OR1L8
+Motor Cortex-cluster-FEZF2+ SH2D1B+ Layer 5-6 glutamatergic neuron		SEMA3E	PRKY	DDR2	USP9Y	DCHS2	NLGN4Y	SEMA5A	DDX3Y	FEZF2	SH2D1B
+Motor Cortex-cluster-THEMIS+ SMYD1+ Layer 5-6 glutamatergic neuron		NR4A2	KCNMB2	GAS2L3	SEMA6D	ABCC3	TSHZ2	NTNG2	EDIL3	THEMIS	SMYD1
+Motor Cortex-cluster-THEMIS+ TNFAIP6+ Layer 5-6 glutamatergic neuron		THEMIS	CDH9	HS3ST2	CDH12	MKX	SPOCK1	TSHZ2	KCTD16	RXFP1	TNFAIP6
+Pancreas-L1-acinar		REG1A	PRSS1	CTRB2	CTRB1	REG1B	CELA3A	PRSS2	REG3A	CPA1	CLPS
+Motor Cortex-cluster-FEZF2+ KLK7+ Layer 6 glutamatergic neuron		MDFIC	ASIC2	ZFHX3	CHN2	SEMA3D	SDK1	MCTP2	COL24A1	FEZF2	KLK7
+Motor Cortex-cluster-FEZF2+ LINC01107+ Layer 3-5 glutamatergic neuron		OR51E2	BTNL9	SGCZ	EDNRB	VWC2L	ADGRG6	PCDH11X	LINC00922	FEZF2	LINC01107
+Motor Cortex-cluster-FEZF2+ POGK+ Layer 6 glutamatergic neuron		CTGF	CHRM2	CDC14A	MGAT4C	SEMA3D	PLCXD3	NPFFR2	KCNK2	FEZF2	POGK
+Motor Cortex-cluster-OPALIN+ MAP6D1+ Layer 2-6 oligodendrocyte		OPALIN	FOLH1	ABCA8	MOG	UGT8	SEPP1	LPAR1	ST18	SLCO1A2	MAP6D1
+Motor Cortex-cluster-THEMIS+ LINC00343+ Layer 6 glutamatergic neuron		THEMIS	ROBO1	ADAMTS3	GULP1	ANKRD30B	TRPM3	DCHS2	SEMA3A	SEC24D	LINC00343
+Motor Cortex-cluster-THEMIS+ SLN+ Layer 6 glutamatergic neuron		THEMIS	PDE7B	LINCR-0002	LINC01378	GBE1	GRIA4	ARHGEF28	C8orf34	FRMD6	SLN
+Motor Cortex-cluster-THEMIS+ SNTG2+ Layer 6 glutamatergic neuron		THEMIS	THSD7B	EDIL3	SNTG2	TENM4	ADAMTS3	CLSTN2	LY86-AS1	CNTN5	DCHS2
+Motor Cortex-cluster-LAMP5+ BMP2+ Layer 1 GABAergic neuron		NDNF	SYT1	NPNT	ALK	CXCL14	RBFOX1	RELN	PBX1	LAMP5	BMP2
+Motor Cortex-cluster-LAMP5+ NMBR+ Layer 1 GABAergic neuron		NDNF	MAGI2	PCDH18	PDE4B	NMBR	PRELID2	NPNT	EPHA6	CXCL14	LAMP5
+Motor Cortex-cluster-LAMP5+ PVRL2+ Layer 1 GABAergic neuron		NDNF	UNC13C	MYH11	TMEM132D	KIT	PCDH9	RELN	CLSTN2	LAMP5	PVRL2
+Motor Cortex-cluster-LAMP5+ RAB11FIP1+ Layer 1 GABAergic neuron		MYH11	CDH9	KIT	RELN	ADAMTS20	CACNA2D1	KIRREL	CDH11	LAMP5	RAB11FIP1
+Motor Cortex-cluster-PAX6+ CHRFAM7A+ Layer 1 GABAergic neuron		LINC01539	FSTL5	NDNF	CNTNAP4	CXCL14	ZMAT4	NR2F2-AS1	LIMCH1	PAX6	CHRFAM7A
+Motor Cortex-cluster-PAX6+ MIR101-1+ Layer 1 GABAergic neuron		TGFBR2	SPHKAP	SP8	ZNF804A	CDH23	PDZRN4	GPC3	ALK	PAX6	MIR101-1
+Motor Cortex-cluster-SST+ NMU+ Layer 2-3 GABAergic neuron		MYO5B	ERBB4	SOX6	FAM19A2	PIEZO2	MYO16	NOS1	NXPH1	SST	NMU
+Motor Cortex-cluster-SST+ DEFB108B+ Layer 1 GABAergic neuron		PCDH18	ARPP21	NR2F2	THSD7A	SLC10A4	SYNPR	SYT10	CPE	SST	DEFB108B
+Fetal Development-L1-Trophoblast giant cells		CSH1	PAPPA	ADAM12	CYP19A1	TFPI2	CSH2	CGA	PSG1	KISS1	FBLN1
+Motor Cortex-cluster-VIP+ KLHDC8B+ Layer 1 GABAergic neuron		VIP	GPC6	CHRNA2	ST6GALNAC5	NDNF	ADAM12	TRPC7	CNTN5	PROX1-AS1	KLHDC8B
+Motor Cortex-cluster-VIP+ HSPB6+ Layer 1-3 GABAergic neuron		SLC22A3	KCNQ5	VIP	CNTN5	SHISA8	SEMA6D	TAC3	NPAS3	PTHLH	HSPB6
+Motor Cortex-cluster-SST+ CCNJL+ Layer 1-2 GABAergic neuron		CALB1	ALK	DKK2	ALCAM	CMTM8	ERBB4	MYO5B	TMEM132C	SST	CCNJL
+Motor Cortex-cluster-SST+ CLIC6+ Layer 1-2 GABAergic neuron		TAC1	NDST4	NKAIN2	SYTL5	SGCZ	CMTM8	NEDD4	FBN2	SST	CLIC6
+Motor Cortex-cluster-SST+ PRRT4+ Layer 1-2 GABAergic neuron		PENK	PDE4B	CALB1	ARHGAP10	HPGD	ITPR2	SST	ZNF385B	STK32B	PRRT4
+Motor Cortex-cluster-VIP+ EXPH5+ Layer 1-2 GABAergic neuron		SHISA8	LINGO2	VIP	BTBD11	SLC22A3	ASIC2	FLT1	FAM19A2	ASIC4	EXPH5
+Motor Cortex-cluster-VIP+ HTR3A+ Layer 1-2 GABAergic neuron		HTR3A	RXFP1	VWA5B1	CSMD1	NR2F2-AS1	EDIL3	EDNRA	INPP4B	COL4A4	VIP
+Motor Cortex-cluster-VIP+ PTGER3+ Layer 1-2 GABAergic neuron	NPR3	PTGER3	NR2F2	EDNRA	PROX1-AS1	VIP		
+Motor Cortex-cluster-VIP+ SCML4+ Layer 1-2 GABAergic neuron		SCML4	ADAMTS19	COL9A1	NELL1	CALB2	SLC6A11	NR2F2	KCNH8	NR2F2-AS1	VIP
+Motor Cortex-cluster-VIP+ WNT4+ Layer 1-2 GABAergic neuron		NR2F2	CCK	CFAP47	CNR1	GABRG1	SORCS3	NECAB2	ROBO1	VIP	WNT4
+Motor Cortex-cluster-SST+ FAM20A+ Layer 1-3 GABAergic neuron		CCDC109B	LINGO2	SST	CDH12	SYTL5	NCAM2	SOX6	TAC1	KIRREL3	FAM20A
+Motor Cortex-cluster-VIP+ CBLN1+ Layer 1-3 GABAergic neuron		SLC22A3	SOX2-OT	CBLN1	LINC01322	TAC3	ZBTB20	SHISA8	SOX5	HTR2C	VIP
+Motor Cortex-cluster-VIP+ CHRNA2+ Layer 1-3 GABAergic neuron		NPR3	DPP6	CHRNA2	CDH20	PPP1R1C	CNTNAP4	CALB2	SLC7A11	VIP	LYPD1
+Motor Cortex-cluster-VIP+ FNDC1+ Layer 1-3 GABAergic neuron		ADAM33	EPHA7	SHISA8	ASIC4	PRR16	LINC01170	ADAMTS19	NPR3	VIP	FNDC1
+Motor Cortex-cluster-PVALB+ CDK20+ Layer 1-2 GABAergic neuron		TAC1	SYT10	SYTL5	NRP2	NDST4	KCNT2	MYO5B	FGD5	PVALB	CDK20
+Fetal Development-L1-Skeletal muscle cells		TTN	MYH3	NEB	MYLPF	TPM2	MYL1	ACTC1	ACTA1	TNNC2	TNNT3
+Motor Cortex-cluster-PVALB+ LRIG3+ Layer 5 GABAergic neuron		HGF	TMTC2	PVALB	ROBO1	GPR149	RIT2	PLCE1	LHFPL3	MEPE	LRIG3
+Motor Cortex-subclass-Layer 6 glutamatergic neuron, corticothalamic-projecting		ADAMTSL1	KIAA1217	SORCS1	HS3ST4	TRPM3	TOX	SEMA3E	EGFEM1P	MEIS2	SEMA5A
+Motor Cortex-cluster-VIP+ SMOC1+ Layer 1-5 GABAergic neuron		VIP	CNR1	CHRNA2	GULP1	TAC3	LRP1B	SMOC1	SHISA9	SLC22A3	NPR3
+Motor Cortex-cluster-RORB+ OTOGL+ Layer 3 glutamatergic neuron		COL22A1	LINCR-0002	PLCH1	RMST	DPP10	TSHZ2	NCAM2	RORB	CPNE4	OTOGL
+Motor Cortex-cluster-LAMP5+ CA1+ Layer 1-6 GABAergic neuron		SFRP1	TAC1	KIRREL	OPCML	CA8	PRKG1	NOS1	HS3ST4	LAMP5	CA1
+Motor Cortex-cluster-LAMP5+ NES+ Layer 1-6 GABAergic neuron		ROR2	KCNMB2	KIT	CCBE1	EYA4	MEIS2	PDGFRA	C8orf34	LAMP5	NES
+Motor Cortex-cluster-PVALB+ COL15A1+ Layer 1-6 GABAergic neuron		NPNT	HTR1F	COL15A1	GULP1	PTHLH	FSTL5	ADAMTS5	CNTNAP4	FAM19A4	PVALB
+Motor Cortex-cross-species cluster-Layer 6b glutamatergic neuron		ZFHX3	C10orf11	MDFIC	March1	SEMA3D	ARSJ	GRIA4	MCTP2	KCNMB2	CTGF
+Motor Cortex-cluster-VIP+ SLC7A6OS+ Layer 1-6 GABAergic neuron		DYNAP	RASGRF2	FREM2	LINC01539	PBX3	TP53I11	PCP4	VIP	PDLIM5	SLC7A6OS
+Motor Cortex-cross-species cluster-Layer 6 glutamatergic neuron, intratelencephalon-projecting_1		LINC00343	TENM3	WISP1	CDH13	ANKRD30B	MEIS2	FRMD6	RASGRF2	TTC6	SEC24D
+Motor Cortex-cluster-PVALB+ FRZB+ Layer 2 GABAergic neuron	CRHBP	ARHGAP42	KAL1	MYO5B	PVALB	FRZB		
+Motor Cortex-cluster-VIP+ SLC6A16+ Layer 2 GABAergic neuron	NPR3	CDH8	NR2F2	CALB2	NR2F2-AS1	VIP	SLC6A16			
+Motor Cortex-cluster-VIP+ PHLDB3+ Layer 1-5 GABAergic neuron	TAC3	ASIC4	SLC22A3	CHRNA2	VIP	PHLDB3		
+Fetal Development-L2-Heart-Endocardial cells		COL3A1	POSTN	VIM	CDH11	HSPG2	EMCN	FN1	CALCRL	ENG	HMCN1
+Kidney-L3-Cycling Mononuclear Phagocyte		DLEU2	FOXN3	HDAC9	LDLRAD4	RUNX1	CELF2	RBPJ	FMN1	CHST11	PRKCB
+Motor Cortex-cross-species cluster-oligodendrocyte precursor cell		OLIG1	COL9A1	OLIG2	SNX22	NKAIN4	KLRC4-KLRK1	GPR17	VCAN	COL20A1	GPR37L1
+Motor Cortex-cross-species cluster-Layer 6 glutamatergic neuron, intratelencephalon-projecting_3		SMYD1	KCNMB2	OLFML2B	RGS12	NR4A2	SLC24A4	LINC00331	RNF152	GAS2L3	PRLR
+Motor Cortex-cluster-PVALB+ SAMD13+ Layer 3 GABAergic neuron		PVALB	TOX	SULF1	EPHA3	TAC1	HOMER3	POSTN	PHACTR2	RNF144B	SAMD13
+Motor Cortex-cluster-PVALB+ ISG20+ Layer 3-5 GABAergic neuron		PVALB	PHACTR2	LCNL1	EPHA4	POSTN	GRM8	SULF1	RBMS3	RNF144B	ISG20
+Motor Cortex-cluster-SST+ CDH3+ Layer 3-5 GABAergic neuron		LINC01324	IGFBP5	OTOF	POSTN	QRFPR	LINC01399	EDNRA	GDA	SST	CDH3
+Motor Cortex-cluster-SST+ GGTLC3+ Layer 3-5 GABAergic neuron		ADGRG6	ZNF385D	SST	SOX5	EPSTI1	MGAT4C	NMU	ROBO1	GRIK1	GGTLC3
+Motor Cortex-cluster-SST+ OR5AH1P+ Layer 3-5 GABAergic neuron		NMU	EPHA6	SST	ADAMTS9-AS2	EDNRA	PCDH9	PAWR	PCSK5	ADAMTS5	OR5AH1P
+Motor Cortex-cluster-VIP+ HS3ST3A1+ Layer 3-5 GABAergic neuron		SLC22A3	GRM8	IQGAP2	THSD7B	PTHLH	UNC13C	CHRNA2	CDH13	VIP	HS3ST3A1
+Motor Cortex-cluster-VIP+ TAC3+ Layer 3-5 GABAergic neuron		TAC3	NBEA	PPP1R1C	ARHGAP18	VIP	EGFEM1P	SLC22A3	NCAM2	IQGAP2	NR2F2-AS1
+Motor Cortex-cluster-VIP+ IGDCC3+ Layer 3-5 GABAergic neuron		EREG	NECAB1	TAC3	ANKS1B	SLC22A3	GRIA1	VIP	PTPRD	IQGAP2	IGDCC3
+Motor Cortex-cluster-VIP+ LINC01013+ Layer 1-5 GABAergic neuron		PTGFR	INPP4B	PCDH18	DAB1	NR2F2	PRELID2	NR2F2-AS1	VIP	LINC01013	
+Motor Cortex-cluster-VIP+ UG0898H09+ Layer 3-6 GABAergic neuron	PCDH18	VIP	CHRNA2	PTGFR	LINC01411	UG0898H09		
+Motor Cortex-cluster-VIP+ ZIM2-AS1+ Layer 3-6 GABAergic neuron	PENK	PTGFR	VGLL3	ROR2	VIP	ZIM2-AS1		
+Lung v1-L2-Nonclassical Monocyte		LST1	AIF1	FCGR3A	LILRB2	BID	CTSS	COTL1	NAAA	SPN	LYPD2
+Motor Cortex-cross-species cluster-Layer 5 glutamatergic neuron, intratelencephalon-projecting_3		HS3ST3B1	RORB	HES1	CSGALNACT1	CRH	PDZRN3	DRD5	CCDC85A	ARHGAP15	TNNT2
+Tonsil-L1-Innate lymphoid		KRT81	KRT86	SLC4A10	SH2D1B	RORC	IL23R	LIF	TNFSF11	NCR1	XCL1
+Motor Cortex-cluster-PVALB+ FAM150B+ Layer 5-6 GABAergic neuron		FAM150B	GPC5	PALMD	SAMD3	MYBPC1	PDZRN4	ANKRD34B	TMEM200A	GPR149	PVALB
+Motor Cortex-cluster-PVALB+ GAPDHP60+ Layer 5-6 GABAergic neuron		WNT16	CDH9	MYBPC1	NCAM2	BCHE	KIRREL3	WIF1	PVALB	GAPDHP60	
+Motor Cortex-cluster-PVALB+ KCNIP2+ Layer 5-6 GABAergic neuron		NPFFR2	GULP1	THSD7B	CDH8	WIF1	SORCS3	LYPD6	PAWR	PVALB	KCNIP2
+Motor Cortex-cluster-PVALB+ MEPE+ Layer 5-6 GABAergic neuron		WNT16	PCDH9	MEPE	MCTP1	ANKRD34B	PRKG1	MYBPC1	GALNTL6	CPED1	PVALB
+Motor Cortex-cluster-PVALB+ SST CRHR2+ Layer 5-6 GABAergic neuron		HPGD	ADAMTS17	FAM89A	CNTNAP4	FLT1	DGKB	TAC1	GHR	PVALB	SST
+Motor Cortex-cluster-PVALB+ ZFPM2-AS1+ Layer 5-6 GABAergic neuron		ZFPM2-AS1	WIF1	TMTC2	POSTN	SEMA6D	LYPD6	GRIK2	SULF1	PCDH15	PVALB
+Fetal Development-L2-Stomach-ENS neurons		VIP	MRPS31P4	RP11-457K10.1	NAT9	SCG2	PIGO	ALK	FAM124A	CTA-481E9.3	ATP2B3
+Motor Cortex-cluster-SST+ C4orf26+ Layer 5-6 GABAergic neuron		ADAMTS20	LINGO2	FBN2	PLXDC2	KLHL14	PDE1C	DCN	PCDH17	HGF	C4ORF26
+Motor Cortex-cluster-SST+ DNAJC14+ Layer 5-6 GABAergic neuron		HGF	PLCE1	FBN2	PTPRK	ITGA1	TRPC5	GPR149	LRRC4C	SST	DNAJC14
+Motor Cortex-cluster-SST+ FBN2+ Layer 5-6 GABAergic neuron		FBN2	ZNF385D	FAM129A	CSMD1	KLHL14	EFNA5	ADAMTS20	MGAT4C	THSD7B	SST
+Motor Cortex-cluster-SST+ BEAN1+ Layer 5-6 GABAergic neuron		FBN2	PCDH11X	THSD7B	CDH10	KLHL14	CDH9	SST	DPP10	HGF	BEAN1
+Motor Cortex-cluster-SST+ KLHL1+ Layer 5-6 GABAergic neuron		SLC17A8	ADGRL2	DCN	ROBO1	KLHL14	SOX6	ADAMTS20	NDST4	UNC13C	KLHL1
+Motor Cortex-cluster-SST+ PAWR+ Layer 5-6 GABAergic neuron		NDST4	LRRTM4	NMU	PTPRT	DCN	ALCAM	KLHL14	GALNTL6	TMCC3	SST
+Motor Cortex-cluster-SST+ PIK3CD+ Layer 5-6 GABAergic neuron		ADGRG6	NLGN1	KLHL14	LRFN5	NMU	ARHGAP10	NDST4	NEGR1	SST	PIK3CD
+Motor Cortex-cluster-VIP+ COL4A3+ Layer 5-6 GABAergic neuron		VIP	C11orf1	SLC22A3	GRM8	ABI3BP	CBLN4	NPR3	UNC13C	VCAN	COL4A3
+Bone Marrow-L2-Lymphoid Primed Multipotent Progenitor		AVP	CRHBP	C1QTNF4	BEX1	NPR3	CD34	NPW	SMIM24	CSF3R	NPDC1
+Motor Cortex-cluster-RORB+ LINC01202+ Layer 3-5 glutamatergic neuron		LINCR-0002	PCDH7	TSHZ2	HS3ST4	RORB	IL1RAPL2	TPBG	HTR1F	EPHA3	LINC01202
+Lung v1-L1-B		MS4A1	BANK1	LINC00926	CD79A	BLK	CD79B	VPREB3	SP140	CD22	ADAM28
+Motor Cortex-cluster-FEZF2+ PROKR2+ Layer 6 glutamatergic neuron	SLC15A5	CTGF	VCAN	ADD3-AS1	FEZF2	PROKR2		
+Motor Cortex-cluster-SST+ TH+ Layer 6 GABAergic neuron		KIAA1024	ERBB4	RAB3B	GPC5	SST	PTPRK	GABRG1	KLHL29	WIF1	TH
+PBMC-L2-CD8+ Naive T		CD8B	S100B	CCR7	RGS10	NOSIP	LINC02446	LEF1	CRTAM	CD8A	OXNAD1
+Motor Cortex-cluster-THEMIS+ SLC22A18+ Layer 5 glutamatergic neuron		KCNG2	GRIN3A	CCBE1	COL21A1	THEMIS	EPHA6	MKX	LDLRAD4	HS3ST2	SLC22A18
+Motor Cortex-cluster-PDGFRA+ COL20A1+ Layer 1-6 oligodendrocyte precursor cell		OLIG1	COL9A1	OLIG2	SNX22	NKAIN4	KLRC4-KLRK1	VCAN	PDGFRA	COL20A1	GPR37L1
+Motor Cortex-cluster-PDGFRA+ COLEC12+ Layer 1-5 vascular lepotomeningeal cell		COLEC12	COL1A2	TBX18	ITIH5	COL6A2	SRPX2	C7	FMO2	MFAP4	PDGFRA
+Motor Cortex-cross-species cluster-Astrocyte_1		GFAP	FAM189A2	FGFR3	GJA1	SLC14A1	AGT	ID3	RASL12	AQP4	ANGPTL4
+Motor Cortex-cross-species cluster-Astrocyte_2		FGFR3	GJA1	SLCO1C1	LINC00982	SDC4	NFATC4	GJB6	PRODH	APOE	SLC1A3
+Kidney-L2-Neutrophil		FCGR3B	S100A8	S100A9	CSF3R	MXD1	ITM2B	S100A6	FTL	ACTB	DHFR
+Motor Cortex-cluster-VIP+ CD27-AS1+ Layer 1-5 GABAergic neuron		CALB2	ZDHHC2	IQGAP2	TOX	VIP	KLHL1	NR2E1	FAT3	SMOC1	CD27-AS1
+Bone Marrow-L1-Monocyte		LYPD2	FOLR3	CLEC4E	LILRA1	CDA	RBP7	CD300LF	FPR1	CD93	MTMR11
+Motor Cortex-cross-species cluster-Layer 5 glutamatergic neuron, extratelencephalon-projecting_1		OR51E2	SORCS1	LINC00922	SEMA6D	FAM84B	TMEM2	LINC01036	ST6GALNAC3	VIM-AS1	PQLC2L
+Mouse Motor Cortex-subclass-Astrocyte		Gpc5	Slc1a2	Slc1a3	Apoe	Wdr17	Plpp3	Rorb	Rmst	Slc4a4	Htra1
+Lung v1-L1-Proliferating Macrophage		H2AFZ	CDK1	UBE2C	ANLN	BIRC5	NUSAP1	STMN1	TPX2	TYMS	KPNA2
+Lung v1-L2-TREM2+ Dendritic		APOE	CHIT1	PLA2G2D	SLAMF8	PLA2G7	LILRB4	CAPG	CSTB	PDXK	APOC1
+Motor Cortex-cluster-PVALB+ SST ASIC4+ Layer 1 GABAergic neuron	ADAM33	RXRG	NDNF	EFEMP1	PVALB	SST	ASIC4			
+Motor Cortex-cluster-SST+ P4HA3+ Layer 1 GABAergic neuron	CALCB	RXRG	NDNF	ADAM33	SST	P4HA3		
+Motor Cortex-cross-species cluster-Layer 6 glutamatergic neuron, corticothalamic-projecting_1		SYT6	FAM189A1	VWA2	SPON1	KL	ASTN2	SEMA5A	WBSCR17	ABO	LGR6
+Motor Cortex-cross-species cluster-Layer 6 glutamatergic neuron, corticothalamic-projecting_2		VWA2	ERBB4	ABO	PRKD1	SH2D1B	ZNF804B	IL4R	ROBO2	DCHS2	ADAMTSL1
+Mouse Motor Cortex-cross-species cluster-Endothelial cell		Flt1	Sgms1	Adgrl4	Slc2a1	Slco1a4	Bsg	Klf2	Ptprg	Sptbn1	Mecom
+Kidney-L2-Descending Thin Limb Type 1	PAX8	ALDH1A2	FOXP2	BICC1	MYO9A	LINC01320	UGT2B7	PKHD1		
+Motor Cortex-cluster-VIP+ SOX11+ Layer 2-5 GABAergic neuron	PENK	PCDH18	PTGFR	CALB2	VIP	SOX11		
+Motor Cortex-cluster-SST+ NPY+ Layer 1-6 GABAergic neuron		NPY	FAM46A	STAC	OTOF	ANKRD34B	CRHBP	NPY2R	NOS1	CCDC109B	SST
+Motor Cortex-cross-species cluster-Lamp5+ GABAergic neuron_1		NDNF	UNC13C	CPLX3	PCDH9	MYH11	CLSTN2	LINC00298	TMEM132D	FAT1	LAMP5
+Motor Cortex-cross-species cluster-Lamp5+ GABAergic neuron_2		KIT	NTNG1	FBXL7	TOX	NXPH2	NCAM2	PKP2	PTPRG	HAPLN1	LAMP5
+Motor Cortex-cluster-LAMP5+ AARD+ Layer 1-6 GABAergic neuron		KIT	CDH13	PKP2	PIP5K1B	EYA4	PRELID2	ROR2	LRP1B	LAMP5	AARD
+Motor Cortex-cross-species cluster-Lamp5+ GABAergic neuron_4		SP8	SPHKAP	CDH23	MYO16	NTF3	NXPH1	TGFBR2	ALK	DKFZp686K1684	LAMP5
+Mouse Motor Cortex-subclass-Meis2+ GABAergic neuron		Igfbpl1	Draxin	Cd1d1	Sp8	Cd24a	Lockd	St8sia2	Gm29260	Gm17750	Meis2
+Fetal Development-L2-Lung-Lymphatic endothelial cells		CCL21	TFPI	PRKG1	STAB2	SEPP1	PROX1	IGFBP7	RELN	IGFBP4	NRP2
+Kidney-L3-Lymphatic Endothelial		TBX1	CCL21	MMRN1	PKHD1L1	SEMA3A	FLRT2	RELN	GRAPL	ELK3	KALRN
+Kidney-L1-Proximal Tubule		LINC01020	PLG	AGXT2	ACMSD	SLC36A2	SLC13A1	CDH9	LINC02027	CUBN	RAB11FIP3
+Motor Cortex-cluster-RORB+ LNX2+ Layer 3-5 glutamatergic neuron		CADPS2	FAM19A1	LRRK1	NTM	PCP4	RGS6	COL11A1	GRM7	CHN2	LNX2
+Motor Cortex-cross-species cluster-Pvalb+ GABAergic neuron_1		ADAMTS17	GULP1	BTBD11	DPP10	RNF144B	THSD7B	CNTNAP3	TENM4	TMEM132C	PVALB
+Motor Cortex-cross-species cluster-Pvalb+ GABAergic neuron_2		WNT16	SHISA8	MYBPC1	PALMD	FAM150B	TRPC6	GPR149	ANKRD34B	GABRG1	PVALB
+Motor Cortex-cross-species cluster-Sncg+ GABAergic neuron_1		LINC01539	SORCS1	DYNAP	DSCAM	SP8	PROX1	CHRFAM7A	PDE7B	HIF3A	SNCG
+Motor Cortex-cross-species cluster-Sncg+ GABAergic neuron_2		SLC17A8	YJEFN3	DOCK8	ARHGAP6	IGFBP7	RYR2	FREM2	PCLO	CDH23	SNCG
+Motor Cortex-cross-species cluster-Sncg+ GABAergic neuron_3		HTR3A	GRM1	VWA5B1	SYNPR	HGFAC	HDAC9	SLITRK6	PTPRM	PLSCR5	SNCG
+Motor Cortex-cross-species cluster-Sncg+ GABAergic neuron_4		RXRG	ARPP21	NDNF	SYNPR	NR2F2	FAM19A1	GNG12	THSD7A	ADAM33	SNCG
+Fetal Development-L1-SATB2_LRRC7 positive cells		FOXG1	NEUROD2	CDK5R1	SATB2	RBFOX1	GRIN2B	NKAIN2	FABP7	ARPP21	LRRC7
+Motor Cortex-cross-species cluster-Sst+ GABAergic neuron_1		EDNRA	QRFPR	LINC01324	NELL1	PAWR	CDH9	RCAN3	GRIN3A	FLT3	SST
+Motor Cortex-cross-species cluster-Sst+ GABAergic neuron_2		FAM89A	EPHA6	TPH2	HS6ST3	RCAN3	HTR4	FLT3	VWC2	NMU	SST
+Motor Cortex-cross-species cluster-Sst+ GABAergic neuron_3		GRIK1	NR2F2-AS1	NMU	THSD7A	EPSTI1	ZNF385D	ELFN1	ZMAT4	DKK2	SST
+Motor Cortex-cross-species cluster-Sst+ GABAergic neuron_4		NMU	TMTC2	KLHL14	PTPRD	LINC00943	GRID2	C8orf87	MPPED2	PDCL2	SST
+Motor Cortex-cross-species cluster-Sst+ GABAergic neuron_5		HGF	SEMA5A	ADGRF2	ERBB4	ITGA1	ZNF536	RND3	NEGR1	NXPH1	SST
+Motor Cortex-cross-species cluster-Sst+ GABAergic neuron_6		KLHL14	L3MBTL4	ADAMTS20	PREX2	FBN2	SLC8A1	DCN	C8orf34	MCAM	SST
+Motor Cortex-cross-species cluster-Sst+ GABAergic neuron_7		TH	SEMA6A	GABRQ	CACNA2D1	LAYN	TRHDE	SLA	RALYL	PTPRC	SST
+Motor Cortex-cross-species cluster-Vip+ GABAergic neuron_1		SHISA8	ZMAT4	GPR149	KCNIP4	ASIC4	RYR3	RGS16	KLF12	CBLN1	VIP
+Motor Cortex-cross-species cluster-Vip+ GABAergic neuron_2		VIP	GRIN2A	PPP1R1C	CDH20	CHRNA2	NRXN1	CALB2	DCC	NPR3	TAC3
+Motor Cortex-cross-species cluster-Vip+ GABAergic neuron_3		SMOC1	TMEM132D	SLC22A3	EGFEM1P	CHRNA2	FRAS1	TAC3	SLIT2	PPP1R1C	VIP
+Motor Cortex-cross-species cluster-Vip+ GABAergic neuron_4		PTGFR	CSGALNACT1	PCDH18	PEX5L	CALB2	ADGRL3	LINC01497	KCNC2	PENK	VIP
+Kidney-L3-M2 Macrophage		MS4A6A	CD163	STAB1	SLC1A3	COLEC12	F13A1	MRC1	TLR2	CD163L1	SLCO2B1
+Mouse Motor Cortex-subclass-Sst+ GABAergic neuron		Sst	Grin3a	Nxph1	Galntl6	Rgs6	Sox6	Mgat4c	Synpr	Cacna2d3	Grm1
+Mouse Motor Cortex-subclass-Sncg+ GABAergic neuron		Adarb2	Cnr1	Megf10	Cadps2	Col25a1	Col19a1	Grip1	Sgcd	Slc44a5	Sncg
+Mouse Motor Cortex-class-GABAergic neuron		Grip1	Galntl6	Gad1	Gad2	Dlx6os1	Cntnap2	Gm26905	Kcnmb2	Kcnip1	Erbb4
+Fetal Development-L2-Eye-Retinal progenitors and Muller glia		RORB	LGR4	SORCS1	GALNT13	CLVS1	CRB1	ILDR2	FAM184B	ADAMTS18	RP11-89K21.1
+Mouse Motor Cortex-subclass-Endothelial cell		Flt1	Slco1a4	Adgrl4	Ly6c1	Slc2a1	Klf2	Mecom	Bsg	Ly6a	Pltp
+Mouse Motor Cortex-subclass-Layer 2-3 glutamatergic neuron, intratelencephalon-projecting		Lingo2	Dscaml1	Gpc6	Fam19a1	Lrrtm4	Slit3	Cux2	Unc5d	Fstl4	Car10
+Mouse Motor Cortex-subclass-Layer 5 glutamatergic neuron, extratelencephalon-projecting		Fam19a1	Tox	Sgcz	Robo1	Galntl6	Gm2164	Dscaml1	Gm28928	Pex5l	Ralyl
+Mouse Motor Cortex-subclass-Layer 5 glutamatergic neuron, intratelencephalon-projecting		Car10	Ncam2	Galntl6	Cdh12	Hs3st4	Gpc6	Unc5d	Tenm4	Ptprd	Hs6st3
+Mouse Motor Cortex-subclass-Layer 5-6 glutamatergic neuron, near-projecting		Tshz2	Gm26883	Nxph1	Vwc2l	Grik1	Olfm3	Kirrel3	Mgat4c	Hs6st3	Dcc
+Mouse Motor Cortex-subclass-Layer 6 glutamatergic neuron, corticothalamic-projecting		Hs3st4	Chgb	Garnl3	Kctd16	Zfpm2	Foxp2	Mgat4c	Gm28928	Cdh18	Tle4
+Tonsil-L2-DN		MIR4422HG	S100A6	SLAMF7	CD247	FASLG	IL19	LYST	LINC01833	LCT	CD28
+Tonsil-L2-CXCR6+ RM CD8 T		CD2	CD160	PYHIN1	FCRL6	SLAMF7	CD244	XCL2	FASLG	LGR6	LINC01871
+Mouse Motor Cortex-subclass-Layer 6b glutamatergic neuron		Ctgf	Cdh18	Hs3st4	Kcnab1	Gm28928	Svil	Inpp4b	Zfpm2	Sdk2	Tle4
+Mouse Motor Cortex-cluster-Meis2+ GABAergic neuron		Igfbpl1	Draxin	Cd1d1	Sp8	Cd24a	Lockd	St8sia2	Gm29260	Gm17750	Meis2
+Motor Cortex-cluster-NOSTRIN+ SRGN+ Layer 2-5 endothelial cell		EBF1	CLDN5	ABCG2	FLI1	LEF1	IFI27	EMCN	HLA-E	NOSTRIN	SRGN
+Fetal Development-L2-Kidney-Mesangial cells		GPC3	KIAA1217	PALLD	MEIS2	MEIS1	FLRT2	TNC	NR2F2	KIF26B	CCBE1
+Mouse Motor Cortex-subclass-oligodendrocyte		Plp1	Mbp	St18	Prr5l	Mobp	Mal	Mog	Cldn11	Pde4b	Mag
+		
+Mouse Motor Cortex-subclass-pericyte		Atp13a5	Vtn	Cald1	Ebf1	Abcc9	Dlc1	Pdgfrb	Tbx3os1	Pde8b	Slc38a11
+Mouse Motor Cortex-subclass-Pvalb+ GABAergic neuron		Kcnc2	Erbb4	Sox5	Il1rapl2	Fam19a2	Cntnap5c	Lrrc4c	Btbd11	Kcnh7	Pvalb
+Mouse Motor Cortex-subclass-smooth muscle cell		Acta2	Map3k7cl	Gm6249	Myh11	Tagln	Pdlim3	Ephx3	Olfr558	Crip1	Tbx2
+Mouse Motor Cortex-class-Non-neuronal cell		Zbtb20	Qk	Cst3	Nfia	Apoe	Ptn	Maml2	Dock1	Cd81	Gab1
+Mouse Motor Cortex-class-Glutamatergic neuron		Celf2	Ptprd	Arpp21	Sv2b	Pcsk2	Phactr1	Kalrn	Nrg1	Ano3	Satb2
+Motor Cortex-subclass-Astrocyte		SLC1A2	ADGRV1	SLC1A3	GPC5	RNF219.AS1	ARHGAP24	CST3	HPSE2	AQP4	COL5A3
+Mouse Motor Cortex-cross-species cluster-Lamp5+ GABAergic neuron_4		Col14a1	Luzp2	Pax6	Asph	Frem1	Ralyl	Tnfaip8l3	Dpy19l1	Pnoc	Lamp5
+Mouse Motor Cortex-cross-species cluster-Sncg+ GABAergic neuron_4		Egln3	Nrxn3	Col14a1	Cntnap5b	Tnfaip8l3	Itga8	Rxfp1	Fam19a1	Npas1	Sncg
+Mouse Motor Cortex-cluster-Aqp4+ Slc7a10+ Astrocyte		Lsamp	Gpc5	Slc1a2	Luzp2	Slc1a3	Apoe	Cadm2	Rora	Aqp4	Slc7a10
+Mouse Motor Cortex-cluster-Aqp4+ Gfap+ Astrocyte		Gpc5	Myoc	Slc1a2	Fxyd6	Slc1a3	Nrp2	Slc6a6	Apoe	Aqp4	Gfap
+Mouse Motor Cortex-cluster-Top2a+ Astrocyte		Igfbpl1	Gpc5	Mki67	Slc1a2	Myt1	Slc1a3	Apoe	E2f2	E2f7	Top2a
+Kidney-L3-Macula Densa		NOS1	TMPRSS4	BBOX1	PPFIA2	PAPPA2	ERBB4	CALCR	ITGB6	PKP4	DEPTOR
+Mouse Motor Cortex-cluster-Layer 2-3 glutamatergic neuron, intratelencephalon-projecting_1		Adamts2	Lingo2	6530403H02Rik	Dscaml1	Gpc6	Rhbdl3	5730522E02Rik	Fam19a1	Arhgef28	Lrrtm4
+Mouse Motor Cortex-cluster-Layer 2-3 glutamatergic neuron, intratelencephalon-projecting_2		Cntnap5c	Lingo2	Epha6	Dscaml1	Fras1	Gpc6	Fam19a1	Cdh13	Lrrtm4	Lsamp
+Mouse Motor Cortex-cluster-Layer 2-3 glutamatergic neuron, intratelencephalon-projecting_3		Lingo2	Cdh12	Dscaml1	Sorcs3	Gpc6	Cntn4	Fam19a1	Pcdh9	Sorcs1	Lrrtm4
+Mouse Motor Cortex-cluster-Layer 5 glutamatergic neuron, extratelencephalon-projecting_1		St6galnac5	Fam19a1	Tox	St6galnac3	Pigk	Sgcz	Robo1	Crym	Galntl6	Zfp804b
+Mouse Motor Cortex-cluster-Layer 5 glutamatergic neuron, extratelencephalon-projecting_2		Fam19a1	Vwc2l	Tshz2	Tox	Sgcz	Gm26883	Erg	Robo1	Cdh18	Galntl6
+Mouse Motor Cortex-cluster-Layer 5 glutamatergic neuron, extratelencephalon-projecting_3		Fam19a1	Gpc5	Tox	Galnt17	Lingo2	Sgcz	Stxbp6	Robo1	Spock1	Galntl6
+Mouse Motor Cortex-cluster-Layer 5 glutamatergic neuron, extratelencephalon-projecting_4		Grin3a	Fam19a1	Olfm3	Tox	Sgcz	Tmtc2	Kctd8	Robo1	Galntl6	Lrp1b
+Mouse Motor Cortex-cluster-Pld5+ Layer 5 glutamatergic neuron, intratelencephalon-projecting_1		Zfp804a	Car10	Ncam2	Cdh18	Galntl6	Pld5	Cdh12	Ptprt	Arhgap31	Hs3st4
+Mouse Motor Cortex-cluster-Pld5+ Layer 5 glutamatergic neuron, intratelencephalon-projecting_2		Car10	Cdh9	Bcl11b	Ncam2	Galntl6	Dscaml1	Cwh43	Cdh12	Rxfp1	Pld5
+Mouse Motor Cortex-cluster-Rspo1+ Layer 5 glutamatergic neuron, intratelencephalon-projecting_1		Car10	Lingo2	Ncam2	Cux2	Galntl6	Cux1	Prr16	Cdh12	Brinp3	Rspo1
+Mouse Motor Cortex-cluster-Rspo1+ Layer 5 glutamatergic neuron, intratelencephalon-projecting_2		Car10	Zfp804b	Ncam2	Cntn5	Cdh8	Galntl6	Cdh12	Cpne4	Tnnc1	Rspo1
+Mouse Motor Cortex-cluster-S100b+ Layer 5 glutamatergic neuron, intratelencephalon-projecting_1		Il1rapl2	Car10	Deptor	Ncam2	Galntl6	Pde1a	AC129186.1	Cdh12	Grik3	S100b
+Mouse Motor Cortex-cluster-S100b+ Layer 5 glutamatergic neuron, intratelencephalon-projecting_2		Car10	Cdh9	Ncam2	Rspo2	Galntl6	Blnk	Cdh12	AC129186.1	Gpc6	S100b
+Mouse Motor Cortex-cluster-Layer 5-6 glutamatergic neuron, near-projecting_CT		Tshz2	Ephb1	Ankrd33b	Gm26883	Kctd8	Nxph1	Gm28928	Vwc2l	Grik1	Neto1
+Mouse Motor Cortex-cluster-Layer 5-6 glutamatergic neuron, near-projecting_1		Hapln1	Tshz2	Gm26883	Cadps2	Nxph1	Rbfox1	Vwc2l	Il1rap	Grik1	Tmem132d
+Mouse Motor Cortex-cluster-Layer 5-6 glutamatergic neuron, near-projecting_2		Tshz2	Stxbp6	Gm26883	Sv2c	Zeb2	Nxph1	Vwc2l	Gpc6	Grik1	Sema3e
+Mouse Motor Cortex-cluster-Layer 5-6 glutamatergic neuron, near-projecting_3		Cntn6	Tshz2	Gm26883	Inpp4b	Kcnab1	Nxph1	Cntnap5b	Vwc2l	Chrm2	Grik1
+Mouse Motor Cortex-cluster-Cpa6+ Layer 6 glutamatergic neuron, corticothalamic-projecting		Hs3st4	Dscaml1	Chgb	Chrm3	Garnl3	Nfia	Kctd16	Kcnj6	Zfpm2	Cpa6
+Mouse Motor Cortex-cluster-Gpr139+ Layer 6 glutamatergic neuron, corticothalamic-projecting		Hs3st4	Gal	Mdga1	Chgb	Gpr139	Garnl3	Gm26719	Kctd16	Anxa4	Zfpm2
+Mouse Motor Cortex-cluster-Grp+ Layer 6 glutamatergic neuron, corticothalamic-projecting		Slc24a3	Hs3st4	Chgb	Ntm	Garnl3	Plcxd3	Kctd16	Tox	Meis2	Grp
+Mouse Motor Cortex-cluster-Kit+ Layer 6 glutamatergic neuron, corticothalamic-projecting_1		Hs3st4	Sostdc1	Nts	Chgb	Garnl3	Rmst	Kctd16	Kit	Zfpm2	Gm29114
+Mouse Motor Cortex-cluster-Kit+ Layer 6 glutamatergic neuron, corticothalamic-projecting_2		Hs3st4	Cobll1	Chgb	Dkk2	Garnl3	Kit	Rmst	Kctd16	Gm26883	Zfpm2
+Mouse Motor Cortex-cluster-Pou3f2+ Layer 6 glutamatergic neuron, corticothalamic-projecting		Nxph2	Hs3st4	Gm28175	Chgb	Garnl3	Gm10635	Kctd16	Ntm	Kcnc2	Pou3f2
+Mouse Motor Cortex-cluster-Car3+ glutamatergic neuron, intratelencephalon-projecting		C1ql3	Cdh13	Il1rapl2	Zfp804b	Dscaml1	Slit3	Galnt14	Nell2	Ak5	Car3
+Mouse Motor Cortex-cluster-Layer 6 glutamatergic neuron, intratelencephalon-projecting_1		Brinp3	C1ql3	Cdh13	Fst	Il1rapl2	Negr1	Efna5	Zfp804b	Plcxd3	Dscaml1
+Mouse Motor Cortex-cluster-Layer 6 glutamatergic neuron, intratelencephalon-projecting_2		Tfap2d	Cdh9	Pcdh7	Oprk1	Dcc	Smoc2	Cplx2	Car12	Chrm2	Nr4a2
+Mouse Motor Cortex-cluster-Col6a1+ Layer 6b glutamatergic neuron		Ctgf	Bmpr1b	Cdh18	Foxp2	Egfem1	Hs3st4	Kcnab1	Tcf4	Gm28928	Col6a1
+Mouse Motor Cortex-cluster-Kcnip1+ Layer 6b glutamatergic neuron		Ctgf	Gm42557	Cdh18	Rxfp2	Kcnip1	Hs3st4	Kcnab1	9530026P05Rik	Hcrtr2	Gm28928
+Mouse Motor Cortex-cluster-Ror1+ Layer 6b glutamatergic neuron		Ctgf	Fbxl7	Kirrel3	Cdh18	Hs3st4	Fam19a5	Ptn	Kcnab1	Tox	Ror1
+Mouse Motor Cortex-cluster-Shisa6+ Layer 6b glutamatergic neuron_1		Ctgf	Shisa6	Thsd7b	Cdh18	Hs3st4	Kcnab1	Svil	Gm28928	Zfpm2	Inpp4b
+Mouse Motor Cortex-cluster-Shisa6+ Layer 6b glutamatergic neuron_2		Ctgf	Brinp3	Sema3e	Cdh18	Trhde	Hs3st4	Kcnab1	Il1rapl1	March1	Shisa6
+Mouse Motor Cortex-cluster-Lamp5+ Egln3+ GABAergic neuron_1		Npy	Itga8	Nxph1	Egln3	Fgf13	Fam19a1	Ptprm	Fbn2	AC154782.1	Lamp5
+Mouse Motor Cortex-cluster-Lamp5+ Egln3+ GABAergic neuron_2		Npy	D030045P18Rik	Nxph1	Crim1	Fgf13	Nrg1	Cdh18	Ptprm	Lamp5	Egln3
+Mouse Motor Cortex-cluster-Lamp5+ Egln3+ GABAergic neuron_3		Ntn1	Npy	Nxph1	Dcc	Trpc4	Fgf13	Ndst4	Ptprm	Lamp5	Egln3
+Mouse Motor Cortex-cluster-Lamp5+ Lhx6+ GABAergic neuron		Npy	Lhx6	Cntnap3	Nxph1	Fgf13	Tacr1	Ptprm	Myo5b	Reln	Lamp5
+Mouse Motor Cortex-cluster-Lamp5+ Pax6+ GABAergic neuron		Npy	Pax6	Nxph1	Npsr1	Scrg1	Fgf13	Gm16083	Ptprm	Reln	Lamp5
+Mouse Motor Cortex-cluster-Lamp5+ Pdlim5+ GABAergic neuron_1		Cntn5	Npy	Nxph1	Cntn6	Fgf13	Pde4b	Ptprm	Grid1	Lamp5	Pdlim5
+Mouse Motor Cortex-cluster-Lamp5+ Pdlim5+ GABAergic neuron_2		Npy	Ndnf	Nxph1	Cntn5	Fgf13	Sema3e	Ptprm	Grik1	Lamp5	Pdlim5
+Mouse Motor Cortex-cluster-Lamp5+ Slc35d3+ GABAergic neuron		Htr1f	Npy	Rims1	Nxph1	Ptprm	Fgf13	Reln	Ndst3	Lamp5	Slc35d3
+Mouse Motor Cortex-subclass-Lamp5+ GABAergic neuron		Npy	Nxph1	Fgf13	Ptprm	Reln	Gad2	Unc5d	Alk	Unc5c	Lamp5
+Lung v2 (HLCA)-ann_level_4-NK cells		GZMA	CD7	CCL4	CST7	NKG7	GNLY	CTSW	CCL5	GZMB	PRF1
+Lung v2 (HLCA)-ann_level_3-Innate lymphoid cell NK		GZMA	CD7	CCL4	CST7	NKG7	GNLY	CTSW	CCL5	GZMB	PRF1
+Mouse Motor Cortex-cluster-Enpp6+ oligodendrocyte_1		Pde9a	Inpp5d	Hexb	Panx1	4932435O22Rik	Tgfbr1	Gm13179	C1qa	Fam114a1	Enpp6
+Mouse Motor Cortex-cluster-Enpp6+ oligodendrocyte_2		Bmp4	Inpp5d	Hexb	Neu4	5730559C18Rik	Tgfbr1	Stk32a	C1qa	Ctss	Enpp6
+Mouse Motor Cortex-cluster-Enpp6+ oligodendrocyte_3		Pde9a	Inpp5d	Hexb	Carmil1	Tgfbr1	Kcnj12	Egflam	C1qa	Gm38039	Enpp6
+Mouse Motor Cortex-cluster-Enpp6+ oligodendrocyte_4		Gm13883	Plp1	Gm16029	Mbp	Gm26834	St18	Kcnj12	Prr5l	Mobp	Enpp6
+Mouse Motor Cortex-cluster-Opalin+ oligodendrocyte_1		Tmem117	Plp1	Mbp	Enpp6	Tln2	St18	Prr5l	Anln	Selenop	Opalin
+Mouse Motor Cortex-cluster-Opalin+ oligodendrocyte_2		Plp1	Ptgds	Mbp	Il33	St18	C030029H02Rik	Prr5l	Palm2	Mobp	Opalin
+Mouse Motor Cortex-cluster-Opalin+ oligodendrocyte_3		Synpr	Plp1	Mbp	Man1a	St18	Nckap5	Prr5l	Kank1	Pcdh7	Opalin
+Mouse Motor Cortex-cluster-Opalin+ oligodendrocyte_4		Prom1	Plp1	Mbp	Pdzrn3	Thbs3	St18	Cxcl12	Prr5l	Mobp	Opalin
+Mouse Motor Cortex-cluster-Pdgfra+ oligodendrocyte precursor cell		Plp1	Mbp	St18	Prr5l	Mobp	Mal	Mog	Cldn11	Pde4b	Pdgfra
+Mouse Motor Cortex-cluster-pericyte		Plp1	Mbp	St18	Prr5l	Mobp	Mal	Mog	Cldn11	Pde4b	Mag
+Mouse Motor Cortex-cluster-Pvalb+ Calb1+ GABAergic neuron_1		Plp1	Spp1	Trpc6	Mbp	St18	Gm32647	Npy	Prr5l	Pvalb	Calb1
+Mouse Motor Cortex-cluster-Pvalb+ Calb1+ GABAergic neuron_2		Lhfpl3	Tac1	Cntnap5c	Vcan	Tnr	Grm7	Ptprz1	Rbp4	Pvalb	Calb1
+Mouse Motor Cortex-cluster-Pvalb+ Egfem1+ GABAergic neuron		Nos1	Atp13a5	9330158H04Rik	Vtn	Sorcs3	Cald1	Ebf1	Ptprk	Pvalb	Egfem1
+Mouse Motor Cortex-cluster-Pvalb+ Gabrg1+ GABAergic neuron		Kcnc2	Th	Gabrg1	Erbb4	Gpc4	Sox5	Il1rapl2	Gm16685	Pth2r	Pvalb
+Mouse Motor Cortex-cluster-Pvalb+ Gpr149+ GABAergic neuron		Kcnc2	Fzd6	Mrvi1	Erbb4	Zfpm2	Sox5	Il1rapl2	Dscam	Pvalb	Gpr149
+Mouse Motor Cortex-cluster-Pvalb+ Il1rapl2+ GABAergic neuron		Kcnc2	Thsd7a	Pcdh15	Erbb4	Il1rapl2	Sox5	Ncam2	Col25a1	Inpp4b	Pvalb
+Mouse Motor Cortex-cluster-Pvalb+ Kank4+ GABAergic neuron		Brinp3	Kcnc2	Erbb4	Sema3e	Lrp1b	Sox5	Il1rapl2	Pcdh9	Pvalb	Kank4
+Mouse Motor Cortex-cluster-Pvalb+ Reln+ GABAergic neuron		Kcnc2	Cntn5	Erbb4	Reln	Nlgn1	Sox5	Clstn2	Il1rapl2	Gm46102	Pvalb
+Mouse Motor Cortex-cluster-Pvalb+ Vipr2+ GABAergic neuron_1		Kcnc2	Crabp1	Prox1	Erbb4	Pcsk6	Sox5	Il1rapl2	Gm37267	Pvalb	Vipr2
+Mouse Motor Cortex-cluster-Pvalb+ Vipr2+ GABAergic neuron_2		Unc5b	Kcnc2	Mctp2	Erbb4	Sox5	Pde3a	Il1rapl2	Kit	Pvalb	Vipr2
+Mouse Motor Cortex-cluster-Perivascular macrophage		F13a1	Kcnc2	Erbb4	Aoah	Ms4a4a	Sox5	Il1rapl2	Colec12	Fam19a2	Gm30489
+Mouse Motor Cortex-cluster-Perivascular macrophage		Kcnc2	Gm49087	Erbb4	Klra2	H2-Eb1	Sox5	Il1rapl2	H2-Ab1	Fam19a2	4930562F07Rik
+Mouse Motor Cortex-cluster-Perivascular macrophage		Napsa	Kcnc2	Erbb4	Slamf7	Gpr141	Sox5	Il1rapl2	H2-Eb1	Fam19a2	H2-Aa
+Mouse Motor Cortex-cluster-smooth muscle cell		Acta2	Map3k7cl	Gm6249	Myh11	Tagln	Pdlim3	Ephx3	Olfr558	Crip1	Tbx2
+Mouse Motor Cortex-cluster-Sncg+ Calb1+ GABAergic neuron_1		Cpne5	Adarb2	Cnr1	Ror1	Megf10	Oxr1	Lsamp	Cadps2	Sncg	Calb1
+Mouse Motor Cortex-cluster-Sncg+ Calb1+ GABAergic neuron_2		Tll1	Adarb2	Calb1	Cnr1	Megf10	Cpne5	Stk32a	Cadps2	Gria3	Sncg
+Mouse Motor Cortex-cluster-Sncg+ Col14a1+ GABAergic neuron		Luzp2	Adarb2	Cnr1	Cdh6	Megf10	Npy	Cadps2	Erbb4	Sncg	Col14a1
+Mouse Motor Cortex-cluster-Sncg+ Npy2r+ GABAergic neuron		Pcdh9	Adarb2	Cnr1	Npy2r	Grik4	Megf10	Cadps2	Kirrel3	Col25a1	Sncg
+Mouse Motor Cortex-cluster-Sncg+ Slc17a8+ GABAergic neuron		Adarb2	Slc17a8	Gas2l3	Cnr1	Nr1h4	Megf10	Adamts18	Cadps2	Kctd12	Sncg
+Mouse Motor Cortex-cluster-Sst+ C1ql3+ GABAergic neuron_1		Adarb2	Pard3bos1	Ptprk	Cnr1	Pard3b	Megf10	Cadps2	Crh	Sst	C1ql3
+Mouse Motor Cortex-cluster-Sst+ C1ql3+ GABAergic neuron_2		Ndnf	Sst	Crh	Grin3a	Nxph1	Pla2g4a	Galntl6	Gm15584	Ntng1	C1ql3
+Mouse Motor Cortex-cluster-Sst+ Calb2+ GABAergic neuron		Sst	Olfm3	Pcsk5	Grin3a	Nkain3	Nxph1	Ptprd	Galntl6	Rgs6	Calb2
+Mouse Motor Cortex-cluster-Sst+ Chodl+ GABAergic neuron		Sst	Grin3a	Nxph1	Galntl6	Rgs6	Sox6	Mgat4c	Synpr	Cacna2d3	Chodl
+Mouse Motor Cortex-cluster-Sst+ Crhr2+ GABAergic neuron_1		Sst	Gm12128	Rspo2	Grin3a	Crtac1	Nxph1	Tmem132d	Galntl6	Alk	Crhr2
+Mouse Motor Cortex-cluster-Sst+ Crhr2+ GABAergic neuron_2		Sst	Grm8	Grin3a	Crybg1	Nxph1	Tmem132b	St6galnac5	Galntl6	Rgs6	Crhr2
+Mouse Motor Cortex-cluster-Sst+ Etv1+ GABAergic neuron_1		Fbn2	Sst	C1qtnf7	Grin3a	Nr2f2	Nxph1	Cnih3	Galntl6	Pcdh7	Etv1
+Mouse Motor Cortex-cluster-Sst+ Hpse+ GABAergic neuron		Hpse	Sst	Ust	Grin3a	Nxph1	Syt6	Galntl6	Pdyn	Rgs6	Tox
+Mouse Motor Cortex-cluster-Sst+ Htr1a+ GABAergic neuron		Sst	Pdyn	Gm30835	Grin3a	Ryr3	Nxph1	Elmo1	Galntl6	Cdh9	Htr1a
+Mouse Motor Cortex-cluster-Sst+ Myh8+ GABAergic neuron_3		Slc24a2	Sst	Cdh9	Grin3a	Nxph1	Elmo1	Galntl6	Npas3	Rgs6	Myh8
+Mouse Motor Cortex-cluster-Sst+ Myh8+ GABAergic neuron_2		Gulp1	Sst	Pld5	Grin3a	Nxph1	Kcnb2	Gas7	Galntl6	Fat3	Myh8
+Mouse Motor Cortex-cluster-Sst+ Myh8+ GABAergic neuron_1		Plpp4	Sst	Il1rapl2	Grin3a	Nxph1	Cdh12	Chsy3	Galntl6	Rgs6	Myh8
+Mouse Motor Cortex-cluster-Sst+ Penk+ GABAergic neuron		Sst	Cartpt	Grin3a	Zfp521	Nxph1	9530026P05Rik	Galntl6	Lama3	Baiap3	Penk
+Mouse Motor Cortex-cluster-Sst+ Pvalb+ Calb2+ GABAergic neuron		Moxd1	Sst	Grin3a	Klf12	Kcnab1	Nxph1	Galntl6	Col25a1	Pvalb	Calb2
+Mouse Motor Cortex-cluster-Sst+ Pvalb+ Etv1+ GABAergic neuron		Fbn2	Sst	Grin3a	Etv1	Sgcz	Nxph1	Galntl6	Whrn	Rgs6	Pvalb
+Mouse Motor Cortex-cluster-Sst+ Tac2+ GABAergic neuron		Tac2	Sst	Ndnf	Grin3a	Crh	Nxph1	Kcnh8	Galntl6	Myo1b	Rgs6
+Mouse Motor Cortex-cluster-Sst+ Th+ GABAergic neuron_1		Sst	Bcl6	Phactr2	Grin3a	Nxph1	Sorcs3	Galntl6	Antxr2	Serpine2	Th
+Mouse Motor Cortex-cluster-Sst+ Th+ GABAergic neuron_2		Pnoc	Sst	Grin3a	Nr4a2	Nxph1	Th	Rspo3	Galntl6	Rgs6	Gabrg1
+Mouse Motor Cortex-cluster-Sst+ Th+ GABAergic neuron_3		Sst	Corin	Gm36251	Grin3a	Nxph1	Th	Nr4a2	Galntl6	Clec18a	Rgs6
+Mouse Motor Cortex-cluster-Sst+ Pappa+ GABAergic neuron		Sst	AC129186.1	Grin3a	Layn	Nxph1	Myo5b	Galntl6	Gna14	Rgs6	Pappa
+Mouse Motor Cortex-cluster-Vip+ C1ql1+ GABAergic neuron		Nos1	Ptprk	A830036E02Rik	Crhbp	Ndst4	Lsamp	Tacr1	Pcdh11x	Vip	C1ql1
+Mouse Motor Cortex-cluster-Vip+ Chat+ GABAergic neuron_1		Creb5	Vip	Vwc2	Cacna1a	Galnt17	Adarb2	Gpc6	Limch1	Chat	Synpr
+Mouse Motor Cortex-cluster-Vip+ Chat+ GABAergic neuron_2		Vip	Lypd1	Cacna1a	Kirrel3	Grik4	Adarb2	Limch1	Grm7	Synpr	Chat
+Mouse Motor Cortex-cluster-Vip+ Gpc3+ GABAergic neuron		Sema6d	Vip	Cacna1a	Lin7a	Alcam	Adarb2	Pcdh11x	Limch1	Synpr	Gpc3
+Mouse Motor Cortex-cluster-Vip+ Htr1f+ GABAergic neuron_1		Cdh6	Vip	Cacna1a	Npy	Mlip	Adarb2	Limch1	Vwc2l	Sntg1	Htr1f
+Mouse Motor Cortex-cluster-Vip+ Igfbp6+ GABAergic neuron_1		Vip	Stac	Entpd1	Cacna1a	Adarb2	Plcl1	Ptprr	Limch1	Adgrl2	Igfbp6
+Mouse Motor Cortex-cluster-Vip+ Igfbp6+ GABAergic neuron_2		Reln	Vip	Cacna1a	Cobll1	AC129186.1	Adarb2	Corin	Limch1	Thsd7b	Igfbp6
+Mouse Motor Cortex-cluster-Vip+ Mybpc1+ GABAergic neuron_1		Vip	Gm45321	Cacna1a	Gm2516	Adarb2	4930555F03Rik	Limch1	C130073E24Rik	Synpr	Mybpc1
+Mouse Motor Cortex-cluster-Vip+ Mybpc1+ GABAergic neuron_2		5033421B08Rik	Vip	Cacna1a	Slc7a15	Mybpc1	Adarb2	Limch1	Itih5	Synpr	Col15a1
+Mouse Motor Cortex-cluster-Vip+ Mybpc1+ GABAergic neuron_3		Grm8	Vip	Cacna1a	Dcc	Grik1	Adarb2	Ryr3	Limch1	Synpr	Mybpc1
+Mouse Motor Cortex-cluster-Vip+ Serpinf1+ GABAergic neuron_1		Vip	Sfrp2	Cacna1a	Lmo1	Adarb2	Calcrl	Fam196b	Limch1	Dock2	Serpinf1
+Mouse Motor Cortex-cluster-Vip+ Serpinf1+ GABAergic neuron_2		Vip	Clrn1	Col14a1	Cacna1a	Adarb2	Crtac1	Dpy19l1	Limch1	Gm45680	Serpinf1
+Mouse Motor Cortex-cluster-Vip+ Serpinf1+ GABAergic neuron_3		Ror1	Vip	Arhgef37	Cacna1a	Adarb2	Drd2	Sv2c	Limch1	Synpr	Serpinf1
+Mouse Motor Cortex-cluster-Sncg+ GABAergic neuron		Vip	Cacna1a	Adra1b	Adarb2	Limch1	Synpr	Cntn4	Sorcs1	Crh	Sncg
+Mouse Motor Cortex-cluster-vascular lepotomeningeal cell_1		Ptgds	Gm30624	Bnc2	Arhgap22	Cped1	Gm47865	Slc7a11	Col15a1	Bmp6	Adgrl3
+Mouse Motor Cortex-cluster-vascular lepotomeningeal cell_2		Aox3	Ptgds	Bnc2	Plxna2	Slc7a11	Cped1	Prex2	Vcam1	Bmp6	Coch
+Mouse Motor Cortex-cluster-vascular lepotomeningeal cell_3		Pkhd1	Ptgds	Rspo2	Bnc2	Cftr	Cped1	Slc7a11	Gm2115	Bmp6	Atp13a5
+Mouse Motor Cortex-cluster-vascular lepotomeningeal cell_4		Ptgds	Sh3gl3	Bnc2	Aifm3	Ppp1r1a	Cped1	Gm27151	Slc7a11	Atp13a5	Bmp6
+Mouse Motor Cortex-cluster-vascular lepotomeningeal cell_5		Slc47a1	Ptgds	Bnc2	Slc4a10	Cped1	Pcdh7	Slc7a11	Tmeff2	Erc2	Bmp6
+Mouse Motor Cortex-cluster-vascular lepotomeningeal cell_6		Ptgds	Prg4	Bnc2	Tspan8	Cped1	Msln	Slc7a11	Dapl1	Bmp6	Fn1
+Mouse Motor Cortex-cluster-vascular lepotomeningeal cell_7		Cubn	Ptgds	Bnc2	Slc7a14	Sptssb	Cped1	Slc7a11	Dapl1	Igfbp3	Bmp6
+Mouse Motor Cortex-cross-species cluster-Astrocyte_1		Gfap	Aqp4	Myoc	Pla2g7	Igfbp5	Id4	Mlc1	Ntsr2	Sdc4	Gja1
+Tonsil-L2-Crypt		FHAD1	IGSF21	TMEM54	GJB4	GJB3	CYP4X1	TACSTD2	GNG12	ARHGAP29	PALMD
+Mouse Motor Cortex-cross-species cluster-Chandelier neuron		Pthlh	Pde3a	Mctp2	Kit	Unc5b	Epb41l4a	Mme	4933432K03Rik	Gm44129	A830036E02Rik
+Bone Marrow-L2-Progenitor Megakaryocyte		CLEC1B	SPX	WFDC1	ANXA3	CMTM5	SELP	RBPMS2	ARHGAP6	GP9	LTBP1
+Mouse Motor Cortex-cross-species cluster-Layer 2-3 glutamatergic neuron, intratelencephalon-projecting		Celf2	Rgs6	Lingo2	Dab1	Slit3	Lrrtm4	Camk2a	Dscaml1	Cnksr2	2010300C02Rik
+Mouse Motor Cortex-cross-species cluster-Layer 5 glutamatergic neuron, extratelencephalon-projecting_1		Fam19a1	Cdh13	Gm2164	Kcnt2	Gm19410	Mgat4c	Sgcz	Nav3	Ntng1	Pex5l
+Mouse Motor Cortex-cross-species cluster-Layer 5 glutamatergic neuron, extratelencephalon-projecting_2		Npnt	Vwc2l	Lgr5	Tshz2	Col8a1	Gm26883	Slc26a4	Erg	Trpc7	Gm2164
+Mouse Motor Cortex-cross-species cluster-Layer 5 glutamatergic neuron, intratelencephalon-projecting_1		Ptprd	Lrrc4c	Car10	Brinp3	Celf2	Cux2	R3hdm1	Kcnip4	Fhod3	Kcnh5
+Mouse Motor Cortex-cross-species cluster-Layer 5 glutamatergic neuron, intratelencephalon-projecting_2		Il1rapl2	Iqgap2	AC129186.1	Fras1	Grik3	Scube1	Deptor	Dgkb	A830036E02Rik	Sdk2
+Mouse Motor Cortex-cross-species cluster-Layer 5 glutamatergic neuron, intratelencephalon-projecting_3		Grp	Nxph1	Col12a1	Gm26883	Slit1	Wls	Gm28905	Gpc6	Tshz2	Tox
+Mouse Motor Cortex-cross-species cluster-Layer 5-6 glutamatergic neuron, near-projecting		Olfm3	Kirrel3	Vwc2l	Grik1	Tshz2	Kcnip1	Dcc	Lrrc4c	Gm26883	Adcy2
+Mouse Motor Cortex-cross-species cluster-Layer 6 glutamatergic neuron, corticothalamic-projecting_1		Hs3st4	Shisa6	Gm28928	Sulf2	Cdh18	Bmpr1b	Zfpm2	Nrxn1	Khdrbs3	Foxp2
+Mouse Motor Cortex-cross-species cluster-Layer 6 glutamatergic neuron, corticothalamic-projecting_2		Foxp2	Kctd16	Hs3st4	Ppp3ca	Garnl3	Nrgn	Zfpm2	Edil3	Nos1ap	Khdrbs3
+Mouse Motor Cortex-cross-species cluster-Layer 6 glutamatergic neuron, intratelencephalon-projecting_1		Nell2	Fst	Il1rapl2	Negr1	C1ql3	Brinp3	Satb2	Plcxd3	Bmpr1b	Pou6f2
+Mouse Motor Cortex-cross-species cluster-Layer 6 glutamatergic neuron, intratelencephalon-projecting_2		Ak5	Pcdh7	Nell2	Dcc	Cdh9	Pcsk2	Cplx2	Rasgef1b	Chrm2	C1ql3
+Mouse Motor Cortex-cross-species cluster-Layer 6 glutamatergic neuron, intratelencephalon-projecting_3		Tfap2d	Nr2f2	Oprk1	Gm45623	Smoc2	Gm15825	Car12	4930555F03Rik	Nr4a2	Lxn
+Mouse Motor Cortex-cross-species cluster-Layer 6b glutamatergic neuron		Ctgf	Inpp4b	Cdh18	Tmem163	AC124490.1	Kcnab1	Mmp16	Kcnip4	Erc2	Cplx3
+Mouse Motor Cortex-cross-species cluster-Lamp5+ GABAergic neuron_1		Kit	Nxph1	Ndnf	Luzp2	Gm30835	Grin2a	Ndst4	Pde11a	Unc5c	Lamp5
+Mouse Motor Cortex-cross-species cluster-Lamp5+ GABAergic neuron_2		Nyap2	Unc5d	Alk	Grin2a	Fgf13	Gad2	Asph	Rims1	Htr1f	Lamp5
+Fetal Development-L2-Spleen-Vascular endothelial cells		AC010084.1	SNTG1	TGFBR3	FGF12	HBA2	LDB2	DYSF	APLNR	HBG2	PTPRB
+Mouse Motor Cortex-subclass-Vip+ GABAergic neuron		Vip	Cacna1a	Adarb2	Limch1	Synpr	Cntn4	Crh	Sdk1	Igf1	Tac2
+Mouse Motor Cortex-cross-species cluster-Lamp5+ GABAergic neuron_5		Reln	Sorcs1	Cxcl14	Npas3	Rxfp1	Nrg1	Ndst4	Galntl6	Nr2f2	Lamp5
+Mouse Motor Cortex-cross-species cluster-microglia / perivascular macrophage		Inpp5d	Zfhx3	Elmo1	Srgap2	Ccnd3	Tgfbr1	Mef2a	Hexb	Tanc2	Pag1
+Mouse Motor Cortex-cross-species cluster-oligodendrocyte_1		Prr5l	Tmem117	Plp1	Enpp6	Anln	Tln2	Mobp	St18	Selenop	Mog
+Mouse Motor Cortex-cross-species cluster-oligodendrocyte_2		Pde4b	Ptgds	Mbp	Erbb4	Plp1	Il33	St18	Kirrel3	Mobp	Nkain2
+Mouse Motor Cortex-cross-species cluster-oligodendrocyte precursor cell		Lhfpl3	Tnr	Vcan	Dscam	Epn2	Xylt1	Ptprz1	Gm4876	Pdgfra	Cacng4
+Mouse Motor Cortex-cross-species cluster-Pvalb+ GABAergic neuron_1		Kcnc2	Nrg3	Kcnc1	Gria3	Cntnap4	Cntn5	Btbd11	Gm1604a	Erbb4	Pvalb
+Mouse Motor Cortex-cross-species cluster-Pvalb+ GABAergic neuron_2		Shisa8	Corin	Th	4930509J09Rik	Tac1	Ptprk	Lama3	Nos1	Rbp4	Pvalb
+Mouse Motor Cortex-cross-species cluster-Sncg+ GABAergic neuron_1		Htr3a	Cntn4	Sp8	Sorcs1	Pnoc	Dpp10	Tnfaip8l3	Ptprd	Frem1	Sncg
+Mouse Motor Cortex-cross-species cluster-Sncg+ GABAergic neuron_2		Frem1	Col25a1	Npas1	Eps8	Scml4	9530059O14Rik	Tac2	Malat1	Rgs16	Sncg
+Mouse Motor Cortex-cross-species cluster-Sncg+ GABAergic neuron_3		Cxcl14	Nell1	Rgs12	Spock1	Npas1	Ppp2r2b	Igf1	Pcdh9	Megf10	Sncg
+Mouse Motor Cortex-subclass-vascular lepotomeningeal cell		Ptgds	Bnc2	Cped1	Slc7a11	Bmp6	Apod	Mgp	Eya2	Ranbp3l	Adam12
+Mouse Motor Cortex-cross-species cluster-Sst+ Chodl+ GABAergic neuron		Nos1	Crhbp	Ndst4	Tacr1	Chodl	9330158H04Rik	Fndc1	Stac	Bace2	Sst
+Mouse Motor Cortex-cross-species cluster-Sst+ GABAergic neuron_1		Pdyn	Cdh9	Npas1	Cntnap2	AF529169	Ano3	Reln	Zfp804a	Lhx6	Sst
+Mouse Motor Cortex-cross-species cluster-Sst+ GABAergic neuron_2		Il1rapl2	Nebl	Sst	Pcdh7	Reln	Gabrb1	Rab3b	Kctd8	Cntn6	Sst
+Mouse Motor Cortex-cross-species cluster-Sst+ GABAergic neuron_3		Gria1	Gpc6	Etl4	Sst	Adgrb3	Grin3a	Pcdh9	Xkr4	Sh3rf3	Sst
+Mouse Motor Cortex-cross-species cluster-Sst+ GABAergic neuron_6		9630002D21Rik	B3galt1	Crh	Reln	Klhl14	Ptprm	Npas1	Grm1	Gxylt2	Sst
+Mouse Motor Cortex-cross-species cluster-Sst+ GABAergic neuron_5		9630002D21Rik	Adgrb3	Crh	Gm20754	Npas1	Kcnc2	Gxylt2	Pard3b	Pard3bos1	Sst
+Mouse Motor Cortex-cross-species cluster-Sst+ GABAergic neuron_4		Npas1	Unc5d	9630002D21Rik	Cdh9	Lhx6	Egfem1	Lypd6	Pou6f2	Sytl5	Sst
+Mouse Motor Cortex-cross-species cluster-Sst+ GABAergic neuron_7		Th	Cdh9	Corin	Lingo2	Cort	Ncam2	Nxph2	Arpp21	Gm36251	Sst
+Mouse Motor Cortex-cross-species cluster-Vip+ GABAergic neuron_1		Vip	Cntnap2	Zfp804a	Kcnip4	Sobp	Gpc6	Sdk1	Brinp3	Sorcs3	Fstl5
+Mouse Motor Cortex-cross-species cluster-Vip+ GABAergic neuron_2		Vip	Cxcl14	Adarb2	Clstn2	Synpr	Oxr1	Igf1	Fam19a2	Shisa9	Crh
+Mouse Motor Cortex-cross-species cluster-Vip+ GABAergic neuron_3		Vip	Alcam	Igf1	Astn2	Prox1	Pde3a	Grpr	Lin7a	Crh	Pthlh
+Mouse Motor Cortex-cross-species cluster-Vip+ GABAergic neuron_4		Penk	Thsd7a	Gm39185	Nrg3	Npas1	Ccser1	Crh	Thsd7b	Stac	Calb2
+Adipose-L1-Macrophage		F13A1	MRC1	LGMN	FTL	CYBB	RBPJ	FRMD4B	SCN9A	CD163L1	IQGAP2
+Adipose-L2-hMac3		CXCL9	PROS1	CELC10A	ARBPJ	CXCL10	KCNMA1	COLEC12	CD163	NPL	FRMD4B
+Fetal Development-L1-Purkinje neurons		DAB1	GRID2	RORA	AUTS2	BAI3	NRG1	EBF1	GRIK1	FOXP2	LPHN2
+Fetal Development-L1-Astrocytes		NPAS3	PTN	GRID2	LSAMP	GPM6A	SLC1A3	QKI	BAI3	CTNND2	PTPRZ1
+Adipose-L1-NK		GNLY	CD247	SAMD3	NKG7	KLRD1	TXK	PYHIN1	CCL5	CCL4	KLRF1
+Pancreas-L1-schwann		NGFR	CDH19	UCN2	SOX10	S100A1	PLP1	TSPAN11	WNT16	SOX2	TFAP2A
+Lung v1-L2-Alveolar Fibroblast		A2M	SCN7A	GPC3	ADH1B	MYH10	RARRES2	LUM	AOC3	C7	CFD
+Kidney-L3-Medullary Fibroblast		MOXD1	CLMP	ATRNL1	LSAMP	NID1	PID1	MEIS1	LAMA2	HPSE2	LPAR1
+Motor Cortex-class-GABAergic neuron		GAD1	GRIP1	KAZN	KCNC2	TCF4	GAD2	MAF	SLC6A1	RBMS3	NHS
+Motor Cortex-subclass-Vip+ GABAergic neuron		GALNTL6	LRP1B	VIP	GRM7	KCNT2	THSD7A	ERBB4	SYNPR	ADARB2	SLC24A3
+Bone Marrow-L2-Hematopoeitic Stem Cell		CRHBP	AVP	MYCT1	BEX1	NPR3	CRYGD	MSRB3	CD34	NPDC1	MLLT3
+Motor Cortex-cluster-FEZF2+ FFAR4+ Layer 6 glutamatergic neuron	SLC15A5	OLFML2B	CTGF	FER1L6-AS2	FEZF2	FFAR4		
+Mouse Motor Cortex-subclass-Sst+ Chodl+ GABAergic neuron		Nos1	Crhbp	Ndst4	Tacr1	9330158H04Rik	Chodl	Fndc1	Stac	Bace2	Gabrg1
+Pancreas-L1-beta islet cell		IAPP	INS	DLK1	INS-IGF2	G6PC2	HADH	ADCYAP1	GSN	NPTX2	C12orf75
+Adipose-L2-hcDC1		WDFY4	CLNK	CCSER1	AC099560.1	HDAC9	CPVL	CADM1	HLA-DPB1	AC060234.3	AC016205.1
+Fetal Development-L2-Cerebrum-Inhibitory neurons		NRXN3	CCSER1	CTNNA2	RBFOX1	LRRC7	MYT1L	GRIN2B	GRM5	RP11-85M11.2	MIR137HG
+Kidney-L2-Mesangial		AGTR1	PDGFRB	PIEZO2	WISP1	DAAM2	CARMN	PRR16	ITGA8	COL25A1	ROBO1
+Lung v1-L2-Bronchial Vessel 1		PLVAP	ZNF385D	POSTN	SPRY1	SPARCL1	VWF	EMCN	COL15A1	ENPP2	INHBB
+Lung v1-L2-Lipofibroblast		WT1	STEAP1	FGF7	MEDAG	OSR1	CPXM1	CCDC71L	PTMA	DMKN	PPA1
+		
+Fetal Development-L1-Bronchiolar and alveolar epithelial cells		ATP11A	CPM	MECOM	SFTPB	SFTPC	FGFR2	SFTA3	ETV5	ROS1	WIF1
+Tonsil-L2-Mast cells		UTS2	KLHDC7A	TAL1	TCTEX1D1	NTRK1	PBX1	PTGS2	SLC45A3	GCSAML	CNRIP1
+Fetal Development-L1-STC2_TLX1 positive cells		HBA2	HBA1	HBG2	HBG1	COL1A1	FBLN5	VCAM1	CXCL13	STC2	TLX1
+Fetal Development-L1-Satellite cells		CLCN5	OLFML2A	NEB	MATN2	MEGF10	FLNC	PAX7	FGFR4	CDH15	CALCR
+Pancreas-L1-quiescent stellate		RGS5	C11orf96	FABP4	CSRP2	IL24	ADIRF	NDUFA4L2	GPX3	IGFBP4	ESAM
+Fetal Development-L1-Sympathoblasts		CHGA	CHGB	DPP6	FGF14	RGS5	AGBL4	CACNA2D3	DBH	SLC24A2	SLC18A1
+Kidney-L3-Medullary Thick Ascending Limb		SIM2	SLC12A1	ESRRB	CACNA2D3	ESRRG	ATP1A1	LINC01762	PTGER3	ATP1B1	EGF
+Fetal Development-L2-Intestine-ENS neurons		KCNQ5	DPP6	EML5	FAM155A	PHOX2B	AUTS2	RP11-348J24.2	IQCJ-SCHIP1	FAM163A	KCND2
+Fetal Development-L1-Limbic system neurons		PTPRD	NTNG1	RNF220	CNTNAP2	NRXN1	TENM2	RIMS2	RBFOX1	ERC2	MEG3
+Mouse Motor Cortex-subclass-oligodendrocyte precursor cell		Lhfpl3	Vcan	Tnr	Ptprz1	Gm4876	Xylt1	Pdgfra	Epn2	Cacng4	Megf11
+Bone Marrow-L1-B		FCRL1	FCRL2	CD22	ARHGAP24	BANK1	MS4A1	RALGPS2	CD37	SWAP70	CD79A
+Fetal Development-L2-Stomach-Parietal and chief cells		ESRRG	IGFBP5	FGD4	ATP4B	ATP4A	CLDN18	GIF	ARHGEF28	CLIC6	IGFBP2
+Fetal Development-L2-Heart-Megakaryocytes		TUBB1	PPBP	KIT	PF4	ACTC1	CPA3	TTN	HDC	CD44	GP9
+Fetal Development-L2-Spleen-Mesothelial cells		KLK11	HBG1	PLA2G2A	PRG4	HBG2	MSLN	HBA2	LHX9	HBA1	SLPI
+Fetal Development-L1-Erythroblasts		HBG2	HBA1	HBA2	HBG1	SLC25A37	ANK1	TFRC	CD36	EPB41	SPTA1
+Lung v1-L2-Platelet/Megakaryocyte		TUBB1	CMTM5	ACRBP	PF4	GP9	CABP5	ITGA2B	WRB	MAP3K7CL	GRAP2
+Kidney-L3-Proximal Tubule Epithelial Segment 1		AFM	SLC36A2	PLG	PAH	SLC13A1	AGXT2	SLC34A1	ACMSD	SLC28A1	SLC17A1
+Kidney-L3-Non-classical monocyte		SLC11A1	MYO1F	DOCK2	ADGRE2	ITGAL	AOAH	IRAK3	SMAP2	TBXAS1	ZEB2
+Fetal Development-L1-Mesothelial cells		AP000705.7	C3	SULF1	ALDH1A2	HHIP	MSLN	LINC00842	TFPI2	PTPRQ	SBSPON
+Lung v2 (HLCA)-ann_finest_level-Deuterosomal		RSPH9	PIFO	RUVBL2	C11orf88	FAM183A	MORN2	SAXO2	CFAP126	FAM229B	C5orf49
+Fetal Development-L2-Eye-Horizontal cells		NRXN3	RORB	CNTN4	ONECUT1	TNR	MEGF10	MEGF11	ONECUT2	CACNG3	TFAP2B
+Fetal Development-L1-Retinal progenitors and Muller glia		RORB	LGR4	SORCS1	GALNT13	CLVS1	CRB1	ILDR2	FAM184B	ADAMTS18	RP11-89K21.1
+Fetal Development-L1-SKOR2_NPSR1 positive cells		DAB1	GRID2	RORA	BAI3	FOXP2	AUTS2	DMD	NRG1	SKOR2	NPSR1
+Tonsil-L2-LZ-DZ-re-entry early commitment		NOC2L	MRPL20	PARK7	ENO1	SRM	MRTO4	ZNF593	CCDC28B	MARCKSL1	MFSD2A
+Kidney-L3-Vascular Smooth Muscle / Pericyte		PDGFRB	CARMN	PRR16	CCDC102B	ADGRL3	RGS5	MAP1B	COL25A1	DLC1	HS6ST3
+Bone Marrow-L2-AXL+ Dendritic Cell		AXL	SCT	LILRA4	PPP1R14A	TGFBI	UPK3A	SCN9A	CLEC10A	PROC	PLD4
+Heart-L2-Adipocyte		GPAM	ACACB	GHR	PDE3B	FASN	PRKAR2B	MGST1	PLIN1	LINC00598	SLC19A3
+Fetal Development-L1-Mesangial cells		GPC3	KIAA1217	PALLD	MEIS2	MEIS1	FLRT2	TNC	NR2F2	KIF26B	CCBE1
+Fetal Development-L2-Adrenal-Myeloid cells		CD74	C1QC	STAR	DLK1	CYP17A1	DHCR24	AOAH	SULT2A1	C1QB	CYP21A2
+Fetal Development-L1-Intestinal epithelial cells		PCSK5	APOA1	C10orf112	RAB11FIP1	LGALS3	ARID3A	THRB	CPS1	MYH14	HNF4A
+Motor Cortex-subclass-Sst+ Chodl+ GABAergic neuron		NPY	FAM46A	STAC	OTOF	NPY2R	CRHBP	ANKRD34B	NOS1	SST	CHODL
+Motor Cortex-cross-species cluster-Sst+ Chodl+ GABAergic neuron		NPY	FAM46A	STAC	LINC01014	ANAPC1P1	OTOF	DSP	AOX1	SST	CHODL
+Fetal Development-L1-Inhibitory neurons		NRXN3	CCSER1	CTNNA2	RBFOX1	LRRC7	MYT1L	GRIN2B	GRM5	RP11-85M11.2	MIR137HG
+Lung v1-L1-Platelet/Megakaryocyte		TUBB1	CMTM5	ACRBP	PF4	GP9	TMEM40	ITGA2B	GRAP2	GP6	CABP5
+Fetal Development-L2-Eye-Amacrine cells		NRXN3	MEIS2	CADM2	ZNF385D	RORB	DCC	SYT1	DSCAM	MIR181A1HG	RP11-689K5.3
+Fetal Development-L1-Amacrine cells		NRXN3	MEIS2	CADM2	ZNF385D	RORB	DCC	SYT1	DSCAM	MIR181A1HG	RP11-689K5.3
+Fetal Development-L1-Unipolar brush cells		ERBB4	NRXN1	LRP1B	NLGN1	LPHN3	CCSER1	PCDH9	UNC5C	STXBP5L	GRIA2
+Fetal Development-L2-Kidney-Vascular endothelial cells		IGFBP5	MEIS2	CHRM3	LDB2	KCNIP4	PLVAP	ASIC2	PPAP2B	LINC00478	HSPG2
+Bone Marrow-L2-Common Lymphoid Progenitor		ACY3	PRSS2	C1QTNF4	SPINK2	SMIM24	NREP	CD34	DNTT	FLT3	SPNS3
+Lung v1-L2-Fibromyocyte		SCX	CNN1	FAM150A	PDLIM7	HSPB3	MYLK	RAMP1	SCUBE1	CSDC2	TBC1D10A
+Fetal Development-L2-Placenta-Extravillous trophoblasts		FN1	FLT1	ISM2	NOTUM	PAPPA2	PRG2	ADAM12	FSTL3	QSOX1	SERPINE2
+Fetal Development-L1-Granule neurons		ERBB4	GRIK2	RELN	NRG1	KCND2	CNTN5	NRXN1	SYT1	ROBO2	NELL2
+Kidney-L3-Connecting Tubule Principal		SCNN1G	HSD11B2	RALYL	PIK3C2G	TEX41	PDE4D	CADPS2	ABTB2	BMPR1B	AGBL4
+Fetal Development-L1-Squamous epithelial cells		KRT19	KRT13	RAB11FIP1	ANXA1	S100A6	DSP	ELF3	PITX1	AQP3	KRT5
+Fetal Development-L1-Goblet cells		CLDN18	SPINK1	RAB11FIP1	AGR2	MUC6	LYZ	ELF3	GPRC5A	PPARG	PIK3C2G
+Kidney-L3-Outer Medullary Collecting Duct Intercalated Type A		LINC01187	ATP6V0D2	CLNK	ATP6V1C2	SLC4A9	ITGA6	KIT	RCAN2	SLC26A7	ATP6V0A4
+Fetal Development-L1-ENS neurons		KCNQ5	EML5	ELAVL4	PHOX2B	MIR137HG	RP11-348J24.2	CNGB1	PRPH	FAM163A	NOS1
+Fetal Development-L1-Visceral neurons		PRPH	SLC5A7	SLC18A3	PIRT	SST	RP11-466P24.7	CHRNA3	GAL	RGS4	PHOX2B
+Lung v1-L2-Bronchial Vessel 2		TM4SF1	SOX17	SOCS3	EMP1	ITPRIP	ARID5A	ESAM	RGCC	CD200	LPAR6
+Fetal Development-L1-Epicardial fat cells		C3	PRG4	CCDC80	SULF1	ITLN1	RP11-572C15.6	MSLN	CFH	AP000705.7	PLA2G2A
+Fetal Development-L1-Parietal and chief cells		ESRRG	IGFBP5	FGD4	ATP4B	ATP4A	CLDN18	GIF	ARHGEF28	CLIC6	IGFBP2
+Fetal Development-L1-Stellate cells		COL25A1	IGFBP3	ALB	NR1H4	HHIP	CCBE1	HGF	COLEC11	COLEC10	PTH1R
+Heart-L2-Fibroblast		DCN	APOD	ACSM3	CFD	ABCA9	NEGR1	LAMA2	ABCA6	ABCA8	KAZN
+Tonsil-L2-Naive CD8 T		CA6	RCAN3	LDLRAP1	MAN1C1	LCK	AK5	AMIGO1	DENND2D	CD2	REG4
+Fetal Development-L1-Neuroendocrine cells		GRP	SEC11C	ASCL1	GHRL	TPH1	HEPACAM2	TFF3	MS4A8	LINC00261	DDC
+Fetal Development-L2-Intestine-Chromaffin cells		FEV	CACNA1A	MLN	DACH1	CCK	RFX6	DSP	AC018359.1	TPH1	PDE4D
+Fetal Development-L1-Lymphoid cells		PTPRC	ARHGAP15	B2M	PABPC1	SKAP1	LCP1	HLA-B	FAM65B	ETS1	CD247
+Fetal Development-L2-Placenta-Trophoblast giant cells		CSH1	PAPPA	ADAM12	CYP19A1	TFPI2	CSH2	CGA	PSG1	KISS1	FBLN1
+Fetal Development-L1-CSH1_CSH2 positive cells		CGB	MAGEA10	CGA	INSL4	PAGE4	KISS1	XAGE3	PSG9	CSH1	CSH2
+Lung v2 (HLCA)-ann_level_3-Lymphatic EC differentiating		AKAP12	TFF3	SDPR	CLDN5	TCF4	TFPI	TIMP3	GNG11	CCL21	IGFBP7
+Fetal Development-L1-CCL19_CCL21 positive cells		CCL19	FDCSP	CCL21	PTGDS	C1S	TNFSF11	CXCL13	CXCL12	PRRX1	SLC22A3
+Motor Cortex-subclass-Sst+ GABAergic neuron		GRIK1	RALYL	SST	TRHDE	GRID2	NXPH1	COL25A1	SLC8A1	SOX6	ST6GALNAC5
+Lung v1-L2-EREG+ Dendritic		AREG	PLAUR	MXD1	GPR183	EREG	CSF2RA	RAB31	HLA-DPB1	HLA-DQA1	HLA-DRA
+Fetal Development-L1-SLC26A4_PAEP positive cells		SLC26A4	HSD3B2	RP11-328J2.1	LL0XNC01-16G2.1	BPIFB1	IL1A	MAP3K15	LINC00086	ASB4	PAEP
+Adipose-L1-Adipocyte		GPAM	ADIPOQ	ACACB	PCDH9	GHR	TRHDE	SORBS1	PLIN1	PDE3B	WDPCP
+Fetal Development-L1-PDE11A_FAM19A2 positive cells		ADAMTS18	MEGF10	PDE11A	POU6F2	PTPRR	CHAT	RP11-689K5.3	KCNAB1	RELN	FAM19A2
+Fetal Development-L2-Liver-Megakaryocytes		LTBP1	ALB	ITGB3	HBA1	ITGA2B	HBG2	MED12L	HBA2	PF4	AFP
+Kidney-L2-Cortical Collecting Duct Intercalated Type A		GALNT17	RHCG	ATP6V1C2	ATP6V0D2	CLNK	KIT	PDE1C	PACRG	PTGER3	SLC26A7
+Fetal Development-L1-ELF3_AGBL2 positive cells		PLN	MYL3	MYL2	MYL7	MYH7	TNNC1	MB	TNNI1	ELF3	AGBL2
+Fetal Development-L1-CLC_IL5RA positive cells		CLC	MS4A3	IL5RA	MYL3	HAND1	PLN	HSPB7	TNNT2	MYL7	MYH7
+Fetal Development-L1-Chromaffin cells		RBFOX1	RGS5	STMN2	CACNA2D3	CHGB	KCNQ5	ALCAM	BMPR1B	CHGA	DBH
+Fetal Development-L2-Pancreas-Islet endocrine cells		CHGA	PCSK1N	GNAS	ERO1LB	CPE	INS	CADPS	TTR	MEIS2	MAFB
+Fetal Development-L2-Eye-Photoreceptor cells		CADM2	March1	SYT1	EYS	RORB	FSTL5	GALNT13	MPPED2	CADPS	ZNF385B
+Fetal Development-L2-Lung-Megakaryocytes		ITGB3	PF4	HLA-A	GP9	ITGA2B	CTTN	PPBP	TUBB1	LGALSL	GP1BA
+Fetal Development-L1-Endocardial cells		COL3A1	POSTN	VIM	CDH11	HSPG2	EMCN	FN1	CALCRL	ENG	HMCN1
+Liver-L2-Mast		TPSAB1	TPSB2	MALAT1	HPGDS	CTSG	CPA3	VIM	AREG	CD69	CMA1
+Fetal Development-L2-Kidney-Megakaryocytes		GCSAML	RARB	ITGA2B	TM4SF18	HPSE	CHRM3	PPBP	MYO1B	RP11-556I14.2	CD86
+Fetal Development-L2-Spleen-Megakaryocytes		PF4	PEX16	AC002366.3	RNASET2	RP11-556I14.2	CNTN1	ITGA2B	HSPG2	GP9	SEC24D
+Fetal Development-L2-Muscle-Megakaryocytes		GRXCR2	SLAMF6	GLYATL1P1	RP11-469M7.1	RP11-1006G14.2	MST1R	LY6G6F	RP11-689K5.3	TREML2	GTF2H2C
+Fetal Development-L2-Eye-Ganglion cells		ANK2	CADM2	KCNIP4	ROBO2	NRG3	CTNNA2	MDGA2	EPHA6	RALYL	EBF1
+Fetal Development-L1-PAEP_MECOM positive cells		PAEP	AC073218.2	C1orf186	CP	MUC16	RP11-98L5.2	RP11-510D19.1	DEFB1	AC104654.1	MECOM
+Fetal Development-L2-Spleen-Stromal cells		LEPREL1	CTC-535M15.2	GRIK2	ADRA1D	TMTC1	CACNA1D	TSHZ2	HBA1	MAMDC2	CLIC5
+Fetal Development-L2-Thymus-Vascular endothelial cells		RP11-221J22.1	RASA4DP	CD1E	AC005550.4	RP11-306K13.1	TSLP	CTD-3179P9.2	KB-1683C8.1	RP11-103J17.2	RP11-973H7.4
+Fetal Development-L2-Adrenal-Stromal cells		COL1A1	COL1A2	COL3A1	STAR	CYP11A1	CYP17A1	DHCR24	C7	FDX1	COL12A1
+Fetal Development-L2-Muscle-Stromal cells		COL3A1	COL1A2	CDH18	COL1A1	POSTN	FNDC1	DCN	RP11-554D15.1	COL5A2	DLK1
+Lung v2 (HLCA)-ann_finest_level-Tuft		MUC20	KHDRBS1	ZNF428	BIK	CRYM	LRMP	HES6	KIT	AZGP1	RASSF6
+Fetal Development-L2-Pancreas-Stromal cells		COL1A1	RELN	COL3A1	SFRP1	COL1A2	ALDH1A1	IGF2	DCN	HSPB6	COL6A2
+Fetal Development-L2-Heart-Stromal cells		COL1A1	TBX20	COL1A2	COL3A1	DCN	COL6A2	FBLN2	COL5A1	ELN	POSTN
+Fetal Development-L2-Thymus-Stromal cells		POSTN	IKZF1	CCR9	RP11-94L15.2	DCN	THBS2	CD5	ISLR	CD3E	COL1A1
+Fetal Development-L2-Kidney-Stromal cells		PRRX1	MTND4P12	SCARA5	CTNNA2	SFRP2	EBF2	IGFBP5	COL12A1	PPARG	POSTN
+Fetal Development-L2-Stomach-Stromal cells		PITX1	COL1A2	EGR1	COL3A1	NELL1	COL1A1	NLGN1	POSTN	LPHN3	DCN
+Fetal Development-L2-Eye-Stromal cells		PI16	SFRP2	CRYAA	CRYBB1	CRYGC	DCN	MFAP5	COL1A1	KCNB2	COL1A2
+Lung v2 (HLCA)-ann_finest_level-SMG duct		PIP	ZG16B	PIGR	SAA1	MARCKSL1	ALDH1A3	SELM	LTF	RARRES1	AZGP1
+Fetal Development-L2-Pancreas-Lymphatic endothelial cells		NTS	CTSS	UBD	SELM	FOXC2	SELE	STAB2	CXCL2	PTGS2	NNMT
+Motor Cortex-cross-species cluster-microglia / perivascular macrophage		DOCK8	P2RY12	APBB1IP	FYB	TBXAS1	SLCO2B1	CX3CR1	PTPRC	BLNK	CSF1R
+Fetal Development-L2-Intestine-Lymphatic endothelial cells		RP11-322E11.5	USP20	TSPEAR	ITPR2	P4HA3	CACNA1C	CTC-458G6.2	GPSM2	RP11-451M19.3	NRG1
+Fetal Development-L2-Muscle-Lymphatic endothelial cells		CCL21	MYL1	MMRN1	TSPEAR	ACTA1	LYVE1	BSCL2	MPP7	CEP19	NFATC1
+Fetal Development-L2-Heart-Lymphatic endothelial cells		CCL21	DKK3	MMRN1	NTS	NRG3	TFPI	VWF	LYVE1	GUCY1A3	STAB2
+Heart-L1-Neuronal		NRXN1	CADM2	NRXN3	XKR4	CDH19	CHL1	KIRREL3	SORCS1	NCAM2	GPM6B
+Fetal Development-L1-Smooth muscle cells		COL4A2	COL3A1	COL1A1	CALD1	NOTCH3	COL6A3	BGN	RGS5	PDGFRB	ITGA1
+Fetal Development-L2-Heart-Myeloid cells		CD74	TTN	HLA-DRA	TPM1	HLA-DRB1	COL1A1	HLA-DPB1	COL3A1	HLA-DPA1	VIM
+Fetal Development-L2-Lung-Myeloid cells		CD74	VCAN	HLA-DRB1	MALAT1	HLA-DRA	CLNK	HLA-DPA1	CCSER1	HLA-DPB1	F13A1
+Fetal Development-L2-Kidney-Myeloid cells		SRGN	MTND4P12	CD74	NR4A3	SAMHD1	LGMN	FOS	CSF1R	PLAUR	HLA-DRA
+Motor Cortex-cluster-TYROBP+ CD74+ Layer 1-6 microglia		DOCK8	P2RY12	APBB1IP	FYB	TBXAS1	SLCO2B1	CX3CR1	PTPRC	TYROBP	CD74
+Fetal Development-L2-Liver-Myeloid cells		ALB	MS4A7	HBA1	FYB	HBG1	LGMN	HBG2	ADAP2	HBA2	C1QC
+Heart-L1-Smooth Muscle		MYH11	ITGA8	ACTA2	TAGLN	CARMN	KCNAB1	ZFHX3	NTRK3	PRKG1	RCAN2
+Lung v1-L2-Airway Smooth Muscle		TPM2	DSTN	ACTA2	FLNA	MYH11	MYL9	PLN	CASQ2	KCNAB1	RERGL
+Fetal Development-L2-Pancreas-Myeloid cells		CD74	FTH1	HLA-DRA	RPS27	HLA-DPA1	PFN1	SPI1	FOS	PLD4	CLPS
+Fetal Development-L2-Spleen-Myeloid cells		RP11-1080G15.1	HBA2	CD5L	MALAT1	CR1	TIMD4	VCAM1	CD163	HBA1	CD163L1
+Lung v1-L2-Neuroendocrine		PCSK1N	BEX1	SEC11C	CPE	NENF	PRDX2	CHGA	EGR1	FAM46A	SCGN
+Fetal Development-L1-Islet endocrine cells		CHGA	PCSK1N	GNAS	ERO1LB	CPE	INS	CADPS	TTR	MEIS2	MAFB
+Lung v1-L1-Ciliated		RSPH1	CAPS	FAM92B	CDHR3	CCDC170	SNTN	C20orf85	ZMYND10	DNAH6	FANK1
+Fetal Development-L2-Lung-Vascular endothelial cells		EPAS1	NCKAP5	CALCRL	KHDRBS2	CD93	VWF	AFF3	APLNR	PDE3B	FENDRR
+Fetal Development-L2-Muscle-Vascular endothelial cells		CAV1	TNNC2	PRND	FABP4	APLNR	GPIHBP1	COL15A1	IGF2	CDH5	VWF
+Fetal Development-L2-Heart-Vascular endothelial cells		CAV1	COL15A1	MYL7	SLC9C1	MYH7	FABP4	ACTC1	EMCN	MYL2	CDH5
+Fetal Development-L2-Pancreas-Vascular endothelial cells		HSPG2	MADCAM1	PLVAP	CLPS	PTRF	COL15A1	IGFBP4	APLNR	CD93	FLT1
+Fetal Development-L2-Placenta-IGFBP1_DKK1 positive cells		LUM	IGFBP1	CD248	SCARA5	DKK1	APOD	GAS1	CHRDL1	SERPINE1	CFD
+Fetal Development-L2-Stomach-Vascular endothelial cells		BDKRB2	PLXND1	STK32B	APLNR	ECHDC1	PLEKHG1	KCNN3	ERG	RASGRF2	KANK3
+Lung v1-L2-Signaling Alveolar Epithelial Type 2		SFTPC	SFTPA1	SFTPA2	NAPSA	SLC34A2	SFTPB	SELENBP1	SLPI	FABP5	ARC
+Adipose-L2-hpDC		AC023590.1	CLEC4C	CUX2	ZFAT	LINC01478	BCL11A	C1orf186	RUNX2	P2RY14	FAM160A1
+PBMC-L3-CD4+ Cytotoxic T		GZMH	CD4	GNLY	FGFBP2	IL7R	S100A4	GZMA	CST7	IL32	CCL5
+Tonsil-L2-MBC-like_FCRL4+		RUNX3	STMN1	FGR	THEMIS2	CLSPN	CDCA8	CDC20	KIF2C	STIL	DEPDC1
+Adipose-L1-ASPC		NEGR1	PDGFRA	CXCL14	LAMA2	NOVA1	APOD	SCLK1	ABCA10	COL1A2	KAZN
+Fetal Development-L2-Placenta-Vascular endothelial cells		CTD-3006G17.2	MEOX2	HSD17B2	LIN28B	FCGR2B	AC011288.2	IDO2	IGF1	TFPI2	RP11-184E9.1
+Fetal Development-L2-Stomach-MUC13_DMBT1 positive cells		DMBT1	CEA	KRT20	MUC13	FER1L6	PHGR1	HNF4G	ABCC3	HNF4A	CDH17
+Fetal Development-L2-Intestine-Stromal cells		HPSE2	THSD4	CDH13	FNDC1	UNC5D	CXCL14	COL1A1	FENDRR	SHANK2	GPC6
+Fetal Development-L2-Spleen-STC2_TLX1 positive cells		HBA2	HBA1	HBG2	HBG1	COL1A1	FBLN5	VCAM1	CXCL13	STC2	TLX1
+Fetal Development-L2-Muscle-Satellite cells		CLCN5	OLFML2A	NEB	MATN2	MEGF10	FLNC	PAX7	FGFR4	CDH15	CALCR
+Fetal Development-L2-Cerebrum-Astrocytes		NPAS3	GPC5	PTPRZ1	CTNNA2	NRXN1	LRP1B	PTN	CADM2	LSAMP	TANC2
+Fetal Development-L2-Cerebellum-Astrocytes		GRID2	PTN	ANKS1B	DACH1	NPAS3	GRIA4	SLC1A3	NRG1	CTNND2	DSCAM
+Fetal Development-L2-Eye-Astrocytes		WIF1	RP11-766N7.4	CPM	RP11-133F8.2	PAX5	CLEC18B	PAX8	SLC1A3	ADAMTS18	RP11-776H12.1
+Tonsil-L2-Dark Zone GCBC		LHFPL3-AS1	WSPAR	IGHV3OR15-7	LINC02053	LINC00706	CPNE6	B4GALNT1	RSPO2	EPHA10	GDF5
+Liver-L1-Cholangiocyte		ANXA4	KRT7	DEFB1	FXYD2	TM4SF4	KRT19	KRT8	TACSTD2	EGRI1	SPP1
+Fetal Development-L2-Cerebrum-Microglia		PLXDC2	PDE4B	DOCK4	ST6GALNAC3	SFMBT2	FRMD4A	EPB41L2	SLC9A9	UTY	SPP1
+Fetal Development-L2-Cerebellum-Microglia		PLXDC2	SPP1	PTPRG	DOCK4	RTTN	SFMBT2	RPLP1	SLC9A9	APOE	DOCK8
+Fetal Development-L1-Inhibitory interneurons		NRXN3	UNC5C	XKR4	NRXN1	NKAIN2	GRID2	CSMD1	ADARB2	ANKS1B	MSRA
+Fetal Development-L2-Cerebrum-Limbic system neurons		PTPRD	NTNG1	RNF220	CNTNAP2	NRXN1	TENM2	RIMS2	RBFOX1	ERC2	MEG3
+Fetal Development-L2-Cerebellum-Inhibitory interneurons		NRXN3	UNC5C	XKR4	NRXN1	NKAIN2	GRID2	CSMD1	ADARB2	ANKS1B	MSRA
+Tonsil-L2-PC-precursors		MARCKSL1	PRDX1	KCNN3	SEMA4A	RGS13	GPR137B	CCDC88A	SPRED2	FMNL2	DHRS9
+Lung v1-L2-Vascular Smooth Muscle		REM1	TPM1	ACTA2	TAGLN	CALD1	NEXN	MYH11	FSTL1	THY1	CFH
+Fetal Development-L2-Cerebrum-Oligodendrocytes		LSAMP	ZBTB20	LHFPL3	DSCAM	CSMD1	NRXN1	PTPRZ1	KCTD16	KCND2	AC007682.1
+Fetal Development-L2-Cerebellum-Oligodendrocytes		CSMD1	CNTNAP2	LSAMP	ROBO2	KCND2	CNTNAP5	LHFPL3	NRXN3	PCDH15	XIST
+Fetal Development-L2-Cerebrum-SKOR2_NPSR1 positive cells		DAB1	GRID2	RORA	BAI3	FOXP2	AUTS2	DMD	NRG1	SKOR2	NPSR1
+Fetal Development-L1-Acinar cells		CEL	SPINK1	CPA1	CTRB2	CLPS	SYCN	CPA2	GP2	CTRB1	DLK1
+Fetal Development-L2-Adrenal-Erythroblasts		HBG1	CYP17A1	HBG2	STAR	HBA1	HBA2	SULT2A1	SLC25A37	DLK1	ANK1
+Fetal Development-L2-Liver-Erythroblasts		HBG2	HBA1	NFIA	HBA2	AFP	ANK1	ZDHHC14	SLC25A37	CENPP	HBG1
+Fetal Development-L2-Spleen-Erythroblasts		HBA1	COL3A1	AHSP	COL1A1	HBA2	ELMO1	HBG1	COL6A2	HBG2	AKT3
+Fetal Development-L2-Pancreas-Erythroblasts		SLC25A37	HBG2	HBB	HBA1	HBM	AHSP	UCP2	ALAS2	ANK1	FTH1
+Fetal Development-L2-Stomach-Erythroblasts		AHSP	HIST1H1E	HBM	HBG2	HEMGN	SNX16	RNF224	CIAPIN1	SLC4A1	ALAS2
+Fetal Development-L2-Kidney-Erythroblasts		RNF224	HEMGN	HBG2	HBM	GATC	AHSP	ARHGAP10	SPTA1	TOPORS	ALAS2
+Fetal Development-L2-Muscle-Erythroblasts		RP5-1068B5.3	RP11-737O24.3	AC007317.1	AC007228.5	ADSSL1	RPS20P14	TMEM38A	RP5-890O15.3	TDH	DRP2
+Lung v2 (HLCA)-ann_finest_level-AT1		SFTA2	CEACAM6	FXYD3	CAV1	TSPAN13	KRT7	ADIRF	HOPX	AGER	EMP2
+Fetal Development-L2-Intestine-ENS glia		ZNF536	RALYL	CDH19	DLG2	GFRA1	BNC2	PRIMA1	ERBB4	INSC	MALAT1
+Fetal Development-L2-Pancreas-ENS glia		PLP1	KCTD12	COL20A1	MGAT4C	SOX10	SCN7A	CDH19	RP11-202H2.1	PRIMA1	RPL7A
+Fetal Development-L2-Stomach-ENS glia		U91328.19	PRIMA1	ATP6AP1	SOX10	ST6GALNAC2	HCFC1R1	CDH19	ABLIM3	RP11-308N19.1	NT5C
+Fetal Development-L2-Spleen-Lymphoid cells		FAM129C	HBA2	MS4A1	HBG2	BANK1	HBA1	CARD11	RALGPS2	PAX5	ARHGAP24
+Kidney-L2-T		IL7R	THEMIS	ITK	BCL11B	LINC01934	SLFN12L	CAMK4	RHOH	CD247	CD96
+Kidney-L2-Plasmacytoid Dendritic		CLEC4C	LINC01478	CLIC3	FAM129C	CUX2	VASH2	BCL11A	RUBCNL	LINC00996	FLT3
+Fetal Development-L2-Lung-Lymphoid cells		ARHGAP15	MALAT1	PTPRC	SKAP1	MBNL1	CD247	DPYD	PTPRCAP	ZBTB20	IL7R
+Fetal Development-L2-Intestine-Lymphoid cells		CD247	ZBTB16	PTPN22	KIT	RUNX3	LZTFL1	LTB	COL23A1	TXK	ADAMTS17
+Fetal Development-L2-Placenta-Lymphoid cells		GNLY	ENAM	NKG7	CSF1	IGJ	ITGAX	KLRC1	FNDC3B	IL2RB	ITGAD
+Fetal Development-L2-Kidney-Lymphoid cells		CD69	MTND4P12	CD3E	MTND1P23	RHOH	SRGN	ITK	C1orf21	NKG7	NR4A3
+Fetal Development-L2-Adrenal-Lymphoid cells		NKG7	PRF1	STAR	LINC00861	SULT2A1	PYHIN1	CYP21A2	GNLY	DHCR24	PTPRC
+Fetal Development-L2-Liver-Lymphoid cells		IGLL1	PAX5	AFP	FAM129C	ALB	SERPINA1	ARHGAP15	HBG2	HBG1	IKZF3
+Fetal Development-L2-Stomach-Lymphoid cells		CD6	C22orf34	CD52	NCBP1	RHOH	PKIA	TCF7	TBC1D15	GZMM	PTPRC
+Fetal Development-L2-Muscle-Lymphoid cells		RTP4	CD2	CD6	SRSF8	CRTAM	ASPH	BATF	CPSF4	CD28	PPIL1
+Fetal Development-L2-Muscle-Skeletal muscle cells		TTN	MYH3	NEB	ACTN2	MYLPF	MYL1	TPM2	MYBPC1	TNNC2	CA3
+Fetal Development-L2-Eye-Skeletal muscle cells		CRYAA	MYH3	CRYBA1	TNNT1	CRYBB2	MYL1	BARX2	DUSP13	DACH1	NEB
+Fetal Development-L2-Stomach-Mesothelial cells		AP000705.7	RP11-74M11.2	DCLRE1B	MSLN	SNTG1	NFATC2	NKAIN3	RP11-275N1.1	ARL17A	RSPO3
+Fetal Development-L2-Lung-Mesothelial cells		AP000705.7	ELN	C3	TMTC2	ALDH1A2	LINC00842	MALAT1	SBSPON	SYNE1	PTPRQ
+Fetal Development-L2-Lung-Squamous epithelial cells		SPRR3	TACSTD2	KRT13	KRT78	LGALS3	S100A9	TMPRSS11B	MT2A	IL1RN	ECM1
+Fetal Development-L2-Intestine-Mesothelial cells		AP000705.7	ROBO2	HAS1	LRRTM4	LRRN4	LRRC4C	RP11-123O22.1	PCDH7	RP11-404P21.8	AKAP12
+Fetal Development-L2-Pancreas-Mesothelial cells		RP11-74M11.2	EGFL6	IL6	MAFF	BDKRB1	POSTN	HAS1	NAMPT	COL8A1	ATP2B1
+Kidney-L2-Descending Vasa Recta Endothelial		PALMD	ADGRL4	ADAMTS6	EFNB2	CDH13	SYN3	PTPRB	PLPP1	RUNX1T1	TIMP3
+Kidney-L3-Descending Vasa Recta Endothelial		PALMD	ADGRL4	ADAMTS6	EFNB2	CDH13	PTPRB	SYN3	RUNX1T1	PLPP1	TIMP3
+Fetal Development-L2-Cerebrum-Excitatory neurons		RBFOX1	PTPRD	ROBO2	LRRC7	NRXN1	DLGAP1	GPM6A	NKAIN2	SOX5	TMEM108
+Motor Cortex-cluster-PAX6+ FREM2+ Layer 2 GABAergic neuron		SLC17A8	PDE3A	DOCK8	GRIK1	IGFBP7	PCLO	FREM2	YJEFN3	NR1H4	PAX6
+Kidney-L2-Cortical Vascular Smooth Muscle / Pericyte		LDB3	MCAM	NTRK3	KCNAB1	MYH11	CARMN	PDZRN4	LMOD1	ACTA2	ADGRL3
+Tonsil-L2-preMature IgM+ PC		CHPF	RBM47	LINC02362	ELL2	LINC01484	PRDM1	CREB3L2	FKBP11	CFAP54	CKAP4
+Heart-L2-Neuronal		NRXN1	NRXN3	CADM2	XKR4	CDH19	ADGRB3	CHL1	NCAM2	KIRREL3	SORCS1
+Fetal Development-L2-Cerebellum-Purkinje neurons		DAB1	GRID2	RORA	AUTS2	BAI3	NRG1	EBF1	GRIK1	FOXP2	LPHN2
+Fetal Development-L2-Adrenal-Adrenocortical cells		STAR	CYP17A1	SCARB1	DLK1	DHCR24	FDX1	CYP11A1	LDLR	RBM47	SH3BP5
+Fetal Development-L2-Adrenal-Vascular endothelial cells		LDB2	PPAP2B	FLT1	EMCN	F8	SULT2A1	CYP17A1	DLK1	STAR	IGF2
+Fetal Development-L2-Intestine-Smooth muscle cells		MYH11	FOXP2	TAGLN	ACTG2	DES	SORBS1	ACTA2	TMTC2	CNN1	KCNIP4
+Lung v2 (HLCA)-ann_level_3-Myofibroblasts		CALD1	CYR61	TAGLN	MT1X	PRELP	TPM2	GPX3	CTGF	IGFBP5	SPARCL1
+Fetal Development-L2-Heart-Smooth muscle cells		RGS5	PLA2G5	HBA2	ACTA2	HBG2	CYGB	HBG1	PDGFRB	HBA1	ABCC9
+Fetal Development-L2-Placenta-Stromal cells		LAMA2	MEG3	PHACTR2	CNTN5	AC011288.2	COL6A2	PRLR	SLIT2	HGF	BMP5
+Fetal Development-L2-Muscle-Smooth muscle cells		ACTA2	MYLPF	EGFLAM	NOTCH3	DLGAP1	EBF2	MYH11	NCKAP5	ABCC9	BMP5
+Fetal Development-L2-Eye-Smooth muscle cells		TYRP1	PMEL	TYR	TRPM1	MLANA	TEX41	MET	PAX3	TFAP2A	HR
+Heart-L2-Arterial Endothelial		LINC00639	ARL15	MECOM	IGFBP3	PCSK5	TM4SF1	EFNB2	DLL4	HEY1	GJA5
+PBMC-L2-Double-negative T		PTPN3	MIR4422HG	NUCB2	CAV1	DTHD1	GZMA	MYB	FXYD2	GZMK	AC004585.1
+Fetal Development-L1-Schwann cells		MPZ	OLFML2A	PLP1	CDH19	SOX10	FOXD3	S100B	INSC	ABCA8	NGFR
+Lung v1-L2-OLR1+ Classical Monocyte		IL1B	SOD2	CXCL8	G0S2	EREG	CCL20	SRGN	CXCL3	CXCL2	C15orf48
+Fetal Development-L2-Heart-Schwann cells		MPZ	ROBO2	CDH19	INSC	XKR4	S100B	NPPA	RP11-141M1.3	BICD1	PLP1
+Fetal Development-L2-Muscle-Schwann cells		MPZ	FSTL5	CDH19	POU3F1	TNNC2	FOXD3	PLP1	MYLPF	SOX10	MYH3
+Fetal Development-L2-Adrenal-Schwann cells		OLFML2A	PLP1	APOE	MPZ	CYP17A1	FOXD3	DHCR24	CDH19	DLK1	SOX10
+Fetal Development-L2-Adrenal-Megakaryocytes		ITGA2B	STAR	ITGB3	CYP17A1	PF4	SULT2A1	PLEK	HSPE1	GP1BA	DHCR24
+Kidney-L3-Natural Killer T		GNLY	RUNX3	MYBL1	CD247	SLFN12L	IKZF3	SAMD3	APBA2	STAT4	AOAH
+		
+Fetal Development-L2-Intestine-Vascular endothelial cells		MADCAM1	PLVAP	HSPG2	DIAPH2	FLT1	CEL	PTPRM	CALCRL	PLCB1	RASIP1
+Fetal Development-L2-Pancreas-Acinar cells		CEL	SPINK1	CPA1	CTRB2	CLPS	SYCN	CPA2	GP2	CTRB1	DLK1
+Lung v2 (HLCA)-ann_level_3-EC capillary		IFI27	TM4SF1	CLEC14A	CDH5	PECAM1	HYAL2	SPARCL1	EGFL7	CLDN5	AQP1
+Fetal Development-L2-Pancreas-Ductal cells		IGF2	SLC4A4	DLK1	ATP1B1	CFTR	FXYD2	JUN	CLU	SPINK1	H3F3B
+Fetal Development-L1-Antigen presenting cells		RAG1	CCL19	HLA-DRA	CD74	CLNK	HLA-DRB1	HLA-DPB1	BIRC3	WDFY4	CIITA
+Fetal Development-L2-Heart-Cardiomyocytes		TTN	MYL7	TNNT2	TPM1	ACTC1	SLC8A1	TNNC1	MYL4	MYH7	TNNI1
+Fetal Development-L2-Stomach-Squamous epithelial cells		KRT19	PDE4D	KRT13	FOS	RAB11FIP1	PARD3	S100A6	CSMD1	ANXA1	EGR1
+Fetal Development-L2-Liver-Mesothelial cells		AP000705.7	ALB	PKHD1L1	HBA2	BNC1	HBA1	HHIP	HBG2	RP11-275N1.1	HBG1
+Fetal Development-L2-Stomach-Goblet cells		CLDN18	SPINK1	RAB11FIP1	AGR2	MUC6	LYZ	ELF3	GPRC5A	PPARG	PIK3C2G
+Fetal Development-L1-Ductal cells		IGF2	SLC4A4	DLK1	ATP1B1	CFTR	FXYD2	JUN	CLU	SPINK1	H3F3B
+Fetal Development-L2-Pancreas-ENS neurons		CHRNA3	RNASE1	PHOX2B	GAL	CD81	VIP	NFIX	HMX2	TUBA1A	TLX2
+Lung v1-L2-Basophil/Mast 1		CPA3	KIT	HPGDS	TPSAB1	SLC18A2	MS4A2	RGS13	GNPTAB	KIF13B	HIPK2
+Motor Cortex-cluster-SST+ ISX+ Layer 5-6 GABAergic neuron		SST	CSGALNACT1	NR2F2-AS1	CNTNAP4	DKK2	TRPM3	PREX2	GRM7	SOX6	ISX
+Fetal Development-L2-Heart-Visceral neurons		PRPH	RGS5	SST	CALM2	SLC5A7	RBMS3	C10orf85	ALCAM	NPY2R	STMN2
+Fetal Development-L2-Lung-Visceral neurons		SLC18A3	RUNX1T1	PRPH	NELL2	VIP	ROBO2	GAL	NKAIN3	CHRNA3	SGCZ
+Kidney-L3-Cortical Thick Ascending Limb		GP2	HS6ST2	CASR	RP1	ESRRB	SLC12A1	LINC01606	CCDC148	UMOD	CACNA2D3
+Kidney-L2-Parietal Epithelial		KIRREL3	SLC4A11	CFH	KCNT2	LINC01435	ALDH1A2	KLRG2	FAM189A1	CLDN1	RBFOX1
+Fetal Development-L2-Heart-Epicardial fat cells		C3	PRG4	CCDC80	SULF1	ITLN1	RP11-572C15.6	MSLN	CFH	AP000705.7	PLA2G2A
+Kidney-L1-Schwann		CDH19	NRXN1	NCAM1	PRIMA1	CADM2	ZNF536	ADGRB3	EPB41L2	STARD13	SCN7A
+Fetal Development-L2-Liver-Stellate cells		COL25A1	IGFBP3	ALB	NR1H4	HHIP	CCBE1	HGF	COLEC11	COLEC10	PTH1R
+Lung v2 (HLCA)-ann_level_4-AT2 proliferating		CDK1	LSM3	CKS1B	EIF1AX	UBE2C	MRPL14	PRC1	CENPW	EMP2	DHFR
+Fetal Development-L2-Eye-Bipolar cells		GRIK1	FSTL5	ZNF385B	ZNF804B	CA10	ZPBP	FAM19A4	VSX2	TRPC7	SLC1A7
+Fetal Development-L2-Lung-Neuroendocrine cells		GRP	SEC11C	IGFBP5	ASCL1	NRG1	TFF3	NKAIN2	GHRL	HEPACAM2	RALYL
+Fetal Development-L2-Stomach-Neuroendocrine cells		TPH1	GHRL	HS6ST3	CHGA	SLC38A11	CLDN18	LINC00261	HS3ST4	RFX6	DIP2B
+Fetal Development-L2-Placenta-PAEP_MECOM positive cells		PAEP	AC073218.2	C1orf186	CP	MUC16	RP11-98L5.2	RP11-510D19.1	DEFB1	AC104654.1	MECOM
+Fetal Development-L2-Eye-Corneal and conjunctival epithelial cells		S100A9	LYPD2	LCN2	MUC4	SLPI	KRT4	CP	MUC16	CEACAM6	MUC15
+Fetal Development-L2-Liver-Hematopoietic stem cells		MPO	ALB	RNF220	ITGA4	RP5-964N17.1	RUNX1	ANGPT1	ARHGAP15	IQGAP2	GPR141
+Fetal Development-L2-Eye-Retinal pigment cells		TRPM1	TYR	COL8A1	SLC38A11	LINC00276	BEST1	RP11-690J15.1	RPE65	TYRP1	PMEL
+Tonsil-L2-M1 Macrophages		RBP7	TMEM51	ARHGEF10L	CDA	CSF3R	FCGR1B	FCGR1A	MTMR11	S100A12	ETV3L
+Fetal Development-L2-Pancreas-CCL19_CCL21 positive cells		CCL19	FDCSP	CCL21	PTGDS	C1S	TNFSF11	CXCL13	CXCL12	PRRX1	SLC22A3
+Tonsil-L2-cycling FDC		WLS	VCAM1	S100A1	DDR2	PRRX1	FCAMR	LAMB3	G0S2	VIT	EPAS1
+Lung v2 (HLCA)-ann_level_4-Deuterosomal		RSPH9	PIFO	RUVBL2	C11orf88	FAM183A	MORN2	SAXO2	CFAP126	FAM229B	C5orf49
+Fetal Development-L2-Placenta-AFP_ALB positive cells		RP4-794H19.1	BAAT	SLCO1B3	AHSG	SERPINA5	FGB	DUSP9	KNG1	AFP	ALB
+Fetal Development-L2-Spleen-AFP_ALB positive cells		MBL2	HBA1	CFHR1	HBA2	RBP4	HBG2	FGG	SERPINA7	AFP	ALB
+Fetal Development-L2-Thymus-Thymic epithelial cells		RP11-114G22.1	PRSS16	TBATA	FAM163A	AC005042.5	FOXN1	PAX1	MIR205HG	LY75	NEURL2
+Tonsil-L2-FRC		CD164L2	CYP4X1	ARHGAP29	MIR205HG	LINC01139	MAB21L4	LINC02009	MAGI1-IT1	C6orf141	IFNE
+Bone Marrow-L2-Precursor Myeloid Dendritic Dell		ENHO	CLEC10A	RNASE2	PLBD1	FCER1A	IGSF6	MNDA	SAMHD1	ALDH2	PAK1
+Fetal Development-L1-MUC13_DMBT1 positive cells		DMBT1	CEA	KRT20	MUC13	FER1L6	PHGR1	HNF4G	ABCC3	HNF4A	CDH17
+Fetal Development-L2-Heart-ELF3_AGBL2 positive cells		PLN	MYL3	MYL2	MYL7	MYH7	TNNC1	MB	TNNI1	ELF3	AGBL2
+Fetal Development-L2-Heart-CLC_IL5RA positive cells		CLC	MS4A3	IL5RA	MYL3	HAND1	PLN	HSPB7	TNNT2	MYL7	MYH7
+Fetal Development-L2-Stomach-PDE1C_ACSM3 positive cells		FOXI1	TFCP2L1	HEPACAM2	STAC2	ST14	CLNK	ATP6V0D2	BMPR1B	PDE1C	ACSM3
+Kidney-L2-Papillary Tip Epithelial		KRT13	LCN2	EHF	EEF1A1	SLPI	S100A6	TACSTD2	SPINK1	GPX2	DHRS2
+Fetal Development-L2-Heart-Erythroblasts		LINC00705	SPRR2A	RPL24P2	SPATA41	RP11-389C8.3	SERPINB7	LY6K	PGBD4	RP11-215A21.2	EIF3C
+Lung v1-L2-Proximal Basal		SERPINB13	SERPINB4	KRT19	CLCA2	KRT5	PERP	ADH7	TSPAN8	SUSD4	CLCA4
+Fetal Development-L2-Adrenal-SLC26A4_PAEP positive cells		SLC26A4	HSD3B2	RP11-328J2.1	LL0XNC01-16G2.1	BPIFB1	IL1A	MAP3K15	LINC00086	ASB4	PAEP
+Tonsil-L1-Plasma		IGKV1-6	IGHV3-21	IGKV1-39	IGLV3-27	IGLV3-19	IGLV4-69	IGKV3-15	IGHV1-18	IGHV4-34	IGLV2-23
+Lung v1-L1-Basal		KRT15	S100A2	KRT17	KRT5	KRT19	PERP	CLDN1	FHL2	DST	ITGA2
+		
+Lung v1-L1-CD4 T		CD2	IL7R	TRAT1	BCL11B	ITK	CAMK4	CD6	LEF1	MALAT1	MAL
+Lung v2 (HLCA)-ann_level_3-Mast cells		VWA5A	RGS13	C1orf186	HPGDS	CPA3	GATA2	MS4A2	KIT	TPSAB1	TPSB2
+Kidney-L3-Cortical Collecting Duct Intercalated Type A		GALNT17	ATP6V1C2	RHCG	ATP6V0D2	CLNK	KIT	PDE1C	PACRG	ABCC4	TMEM101
+Lung v1-L1-Fibroblast		FBLN1	ADH1B	DCN	LUM	C1S	C1R	SLIT2	C3	CFD	ABLIM1
+Lung v1-L1-Lymphatic		CCL21	MMRN1	PROX1	PPFIBP1	TFF3	TBX1	PKHD1L1	IGFBP7	TFPI	TIMP3
+Lung v2 (HLCA)-ann_level_4-Plasmacytoid DCs		IL3RA	TCF4	LTB	GZMB	JCHAIN	ITM2C	IRF8	PLD4	IRF7	C12orf75
+Motor Cortex-cluster-LAMP5+ CRABP1+ Layer 5-6 GABAergic neuron		SFRP1	COL25A1	FREM2	PRELID2	PDGFRA	KCNIP4	KIRREL	FBN2	LAMP5	CRABP1
+Lung v1-L1-Plasma		MZB1	DERL3	SEC11C	XBP1	TNFRSF17	SSR4	POU2AF1	HSP90B1	PRDX4	MANF
+Lung v1-L1-Alveolar Epithelial Type 2		SFTPA1	SFTPA2	NAPSA	SFTPB	SFTPD	SFTPC	SLC34A2	ABCA3	LAMP3	LPCAT1
+Lung v2 (HLCA)-ann_level_2-Lymphatic EC		PPFIBP1	GNG11	RAMP2	CCL21	MMRN1	IGFBP7	SDPR	TM4SF1	CLDN5	ECSCR
+Lung v1-L1-CD16+ Monocyte		LST1	LILRB2	AIF1	COTL1	SAT1	FCN1	FCGR3A	RPS19	RHOC	IFITM2
+Lung v1-L1-Capillary		FCN3	EPAS1	RAMP3	CDH5	PODXL	BTNL9	NOSTRIN	FLNB	CDC42EP1	CD81
+Liver-L2-Vascual Portal Endothelial		CLEC14A	TM4SF1	ID1	PECAM1	DLL4	MGP	SPARCL1	SLC9A3R2	RAMP2	VWF
+Lung v1-L1-Club		SCGB3A2	CYB5A	SFTPB	PIGR	C16orf89	CTSE	KIAA1324	CEACAM6	WFDC2	DSTN
+Lung v2 (HLCA)-ann_level_5-Goblet (nasal)		KRT7	MUC1	MUC5AC	MSMB	CP	LMO7	LCN2	CEACAM6	BPIFB1	PIGR
+Lung v1-L1-Plasmacytoid Dendritic		PPP1R14B	IRF4	GZMB	IL3RA	IRF7	PLD4	SEC61B	PTPRE	NPC2	TYROBP
+Fetal Development-L1-Hematopoietic stem cells		MPO	ALB	RNF220	ITGA4	RP5-964N17.1	RUNX1	ANGPT1	ARHGAP15	IQGAP2	GPR141
+Lung v1-L1-Proliferating NK/T		NUSAP1	TOP2A	HMGB2	BIRC5	H2AFV	SMC4	CENPF	AURKB	UBE2C	KIF2C
+Lung v1-L1-Bronchial Vessel		PLVAP	ZNF385D	SPRY1	POSTN	SPARCL1	VWF	EMCN	COL15A1	INHBB	ENPP2
+Fetal Development-L1-ENS glia		SLC35F1	ZNF536	GFRA1	CDH19	PLP1	PRIMA1	COL20A1	SOX10	MPZ	INSC
+Heart-L1-Adipocyte		GPAM	ADIPOQ	ACACB	GHR	PDE3B	FASN	PRKAR2B	PLIN1	PPARG	G0S2
+Fetal Development-L1-Hepatoblasts		ALB	AFP	APOA1	APOA2	SERPINA1	APOB	HBA1	AHSG	IGF2	HBG2
+Fetal Development-L2-Eye-Vascular endothelial cells		SELP	RP11-89K21.1	CRYAA	SIX3	PKD1L1	CTD-3179P9.1	SGCZ	RP11-187O7.3	SEMA3A	TM4SF18
+Lung v1-L1-Artery		DKK2	PTPRB	EFNB2	EPAS1	GJA5	HEY1	ARGLU1	FBLN5	SEMA3G	BMX
+Lung v1-L1-Alveolar Epithelial Type 1		EMP2	AGER	GPRC5A	LMO7	RTKN2	ARHGEF26	LAMA3	DST	SPOCK2	SCEL
+Tonsil-L2-FDC_multiome		PRDM16	GPR153	PDPN	ARHGEF10L	PLA2G2A	EPHB2	CYP4B1	CYP4X1	GLIS1	GNG12
+Lung v1-L1-Lipofibroblast		WT1	STEAP1	MEDAG	OSR1	CPXM1	FGF7	CCDC71L	HAS1	C3	C7
+Lung v1-L1-Mesothelial		GALNT9	ITLN1	WT1	PRG4	MGARP	C3	ALDH1A3	DMKN	SLPI	DSC3
+Fetal Development-L2-Stomach-Lymphatic endothelial cells		PWWP2AP1	RP5-1180C18.1	C3orf55	AC022182.3	IRF4	RP11-799O21.2	WNT16	ABHD17AP6	RP11-77H9.8	CTD-2586B10.1
+Kidney-L1-Ascending Thin Limb		SH3GL3	PLCB1	LGR4	BICDL1	PAX8	MAL	CACNA2D3	CDR2	PTPN14	PKHD1
+Lung v1-L1-Fibromyocyte		SCX	FAM150A	HSPB3	RAMP1	CSRP1	CNN1	CST5	IGF1	CLU	MET
+Lung v1-L1-Goblet		S100P	FAM3D	CXCL17	GABRP	WFDC2	PSCA	AGR2	TXN	CLIC1	COX5A
+Fetal Development-L1-Cardiomyocytes		TTN	MYL7	TNNT2	TPM1	ACTC1	SLC8A1	TNNC1	MYL4	MYH7	TNNI1
+Lung v1-L1-Neuroendocrine		PCSK1N	BEX1	SEC11C	CPE	NENF	PRDX2	CHGA	EGR1	FAM46A	SCGN
+Mouse Motor Cortex-cluster-Microglia		Inpp5d	Plxdc2	Tgfbr1	Hexb	Nav2	C1qa	Tanc2	Csmd3	C1qb	Ctss
+Kidney-L1-Descending Thin Limb	MYO9A	LINC01320	FOXP2	PAX8	BICC1	OXR1	PKHD1			
+Lung v1-L2-Alveolar Epithelial Type 1		EMP2	AGER	LMO7	GPRC5A	RTKN2	ARHGEF26	LAMA3	DST	SPOCK2	SCEL
+Pancreas-L1-activated stellate		COL1A1	COL1A2	COL6A3	COL3A1	TIMP3	TIMP1	CTHRC1	SFRP2	BGN	LUM
+Kidney-L3-Outer Medullary Collecting Duct Principal		GRIP1	ABTB2	ANK3	PRKAG2	BMPR1B	MECOM	TRPM3	PAPPA	RALYL	PTPN13
+Tonsil-L2-preGC_1		YBX1	PRDX1	PTMA	NPM1	HSP90AB1	MIF	FABP5	NME2	NCL	BCL2A1
+Lung v1-L2-Ciliated		RSPH1	FANK1	CDHR3	CAPS	C20orf85	FAM92B	MS4A8	MALAT1	ANKRD36C	SLCO3A1
+Lung v1-L2-Intermediate Monocyte		COTL1	LILRA2	ADGRE2	FCN1	FGR	LILRB2	AIF1	BACH1	TRABD	MFNG
+Lung v1-L2-Lymphatic		CCL21	MMRN1	PROX1	PPFIBP1	TBX1	TFF3	PKHD1L1	IGFBP7	TIMP3	TFPI
+Lung v2 (HLCA)-ann_finest_level-NK cells		GZMA	CD7	CCL4	CST7	NKG7	GNLY	CTSW	CCL5	GZMB	PRF1
+Lung v1-L2-Natural Killer		NKG7	PRF1	KLRF1	CD247	GNLY	PYHIN1	KLRD1	TXK	SPON2	SH2D1B
+Lung v1-L2-Plasma		MZB1	DERL3	SEC11C	XBP1	TNFRSF17	SSR4	POU2AF1	HSP90B1	PRDX4	MANF
+Lung v1-L2-Alveolar Epithelial Type 2		NAPSA	SFTPD	ABCA3	SFTPA1	SFTPA2	SFTPB	SLC34A2	MAP7D1	GPRC5A	CLDN1
+Liver-L2-Myofibroblast		ADIRF	NDUFA4L2	CALD1	C11orf96	NOTCH3	FRZB	MYH11	ACTA2	TPM1	GPX3
+Lung v1-L2-Capillary		FCN3	EPAS1	RAMP3	CDH5	PODXL	BTNL9	IL7R	CD81	ATP6V0B	THBD
+Kidney-L2-Glomerular Capillary Endothelial		HECW2	BTNL9	FLT1	EMCN	PLAT	PLPP3	SMAD6	TEK	SYNE1	PTPRB
+Lung v2 (HLCA)-ann_finest_level-EC venous systemic		VWF	MGP	GNG11	PLVAP	RAMP2	SPARCL1	IGFBP7	A2M	CLEC14A	ACKR1
+Lung v2 (HLCA)-ann_finest_level-Club (nasal)		ELF3	C19orf33	KRT8	KRT19	TACSTD2	MUC1	S100A14	CXCL17	PSCA	FAM3D
+Lung v1-L2-Myeloid Dendritic Type 2		CD1C	HLA-DPB1	HLA-DPA1	HLA-DQA1	HLA-DQB1	HLA-DRA	FCER1A	IL2RG	CD1E	PKIB
+PBMC-L3-Innate Lymphoid Cell		KIT	TRDC	IL1R1	SOX4	TNFRSF18	TYROBP	TNFRSF4	FCER1G	IL2RA	GATA3
+Lung v1-L2-Plasmacytoid Dendritic		PPP1R14B	IRF4	GZMB	IL3RA	IRF7	SMPD3	PLD4	PTPRE	NPC2	TYROBP
+Lung v1-L2-Proliferating Macrophage		H2AFZ	CDK1	UBE2C	ANLN	NUSAP1	RHEB	TYMS	TPX2	BIRC5	KPNA2
+Lung v1-L2-Proliferating NK/T		NUSAP1	TOP2A	HMGB2	BIRC5	H2AFV	SMC4	CENPF	AURKB	UBE2C	KIF2C
+Fetal Development-L2-Heart-SATB2_LRRC7 positive cells		FOXG1	NEUROD2	CDK5R1	SATB2	RBFOX1	GRIN2B	NKAIN2	FABP7	ARPP21	LRRC7
+Kidney-L2-Afferent / Efferent Arteriole Endothelial		VEGFC	ADGRL4	CCDC3	CD34	ADAMTS6	PALMD	CDH13	CHRM3	GFOD1	HEG1
+Adipose-L2-hAd1		WDPCP	GPAM	PCDH9	SORBS1	PLIN1	DIRC3	AC004160.1	LINC01239	TNS1	CLSTN2
+Bone Marrow-L1-Natural Killer		NCR1	SH2D1B	KLRC1	PRSS23	CD160	B3GNT7	IL2RB	IL18RAP	XCL1	KLRF1
+Lung v1-L2-Vein		VWF	SELP	SLCO2A1	LIFR	PLA1A	PTPRB	PRSS23	C7	CPE	ACKR1
+Fetal Development-L2-Placenta-Myeloid cells		CXCL9	GPNMB	F13A1	C1QC	GABRA3	TFEC	TFCP2L1	HLA-DPA1	DNASE2	HLA-DRA
+Bone Marrow-L2-Conventional Dendritic Cell 2		ENHO	CLEC10A	CD1C	IL13RA1	PLBD1	LGALS2	CD33	IGSF6	IFI30	FCER1A
+Lung v2 (HLCA)-ann_level_4-Tuft		MUC20	KHDRBS1	ZNF428	BIK	CRYM	LRMP	HES6	KIT	AZGP1	RASSF6
+Lung v1-L2-Ionocyte		ASCL3	HEPACAM2	FOXI1	TMPRSS11E	ATP6V1B1	BSND	TMEM61	SMIM11	PSMG1	BIK
+Kidney-L3-Schwann / Neural		CDH19	NRXN1	PRIMA1	ZNF536	NCAM1	CADM2	GINS3	CYP27C1	SCN7A	KIRREL3
+Lung v1-L2-Capillary Aerocyte		HPGD	APP	EDNRB	EMCN	ESAM	STXBP6	PRX	CYP3A5	SOSTDC1	TBX2
+Motor Cortex-cluster-PVALB+ HHIPL1+ Layer 2-5 GABAergic neuron		MEPE	EPHA3	PVALB	POU6F2	POSTN	GPR149	PLEKHG1	TAC1	ADAMTS20	HHIPL1
+Fetal Development-L1-Ciliated epithelial cells		CDHR3	DNAH12	CAPS	TPPP3	LRRIQ1	C4orf22	STK33	DNAH9	AGBL4	RP11-56A10.1
+Pancreas-L1-alpha islet cell		GCG	TTR	PPP1R1A	CRYBA2	TM4SF4	MAFB	GC	GPX3	PCSK2	PEMT
+Fetal Development-L2-Cerebellum-SLC24A4_PEX5L positive cells		CNTNAP2	FSTL5	GRM7	LRRTM4	LUZP2	GRM3	CSMD3	NRXN3	SLC24A4	PEX5L
+Pancreas-L1-endothelial		PLVAP	RGCC	ENG	PECAM1	ESM1	SERPINE1	CLDN5	STC1	MMP1	GNG11
+Tonsil-L2-preT		LINC01226	CD1B	CD1E	ARPP21	UGT3A2	PTCRA	ELOVL4	DNTT	RAG1	RAG2
+Lung v1-L2-CD4+ Naive T		MAL	LTB	CCR7	SIRPG	NOSIP	LEF1	IL23A	TSHZ2	TSR1	ATF7IP2
+Lung v1-L2-Differentiating Basal		PERP	GPR87	AQP3	PROM2	RAB25	KRT19	BAG1	KRT7	XBP1	PLA2G10
+Fetal Development-L1-Lymphatic endothelial cells		CCL21	TFPI	STAB2	PROX1	RELN	EFNA5	IGFBP7	CD36	MMRN1	LYVE1
+Adipose-L1-Lymphatic Endothelial		MMRN1	CCL21	AL357507.1	PROX1	PPFIBP1	NRG3	RELN	STOX2	TFPI	LINC02147
+PBMC-L1-natural killer cell		NKG7	KLRD1	TYROBP	GNLY	FCER1G	PRF1	CD247	KLRF1	CST7	GZMB
+Kidney-L3-Parietal Epithelial		KIRREL3	CFH	SLC4A11	KCNT2	LINC01435	KLRG2	ALDH1A2	CLDN1	FAM189A1	RBFOX1
+Motor Cortex-cross-species cluster-Layer 5 glutamatergic neuron, intratelencephalon-projecting_1		RORB	SEMA6D	POU6F2	TMEM196	PLCH1	ALCAM	RMST	CUX1	DCC	TRHDE
+Lung v1-L2-Natural Killer T		GNLY	CD7	CTSW	CCL5	CD2	ZFP36L2	CXCR4	LGALS1	DUSP4	S100A6
+Tonsil-L2-MBC derived early PC precursor		DERL3	FKBP11	DAOA-AS1	XBP1	MZB1	PRDX4	SSR4	IGHG3	SPAG4	ITM2C
+Kidney-L3-Inner Medullary Collecting Duct		CAPN8	ANK3	LINC01924	ABTB2	SLC14A2	SAMD12	GRIP1	NAALADL2	PCDH7	SDK1
+Lung v1-L2-Basophil/Mast 2		GPR65	SRGN	TNFRSF9	TPSAB1	CD69	BIRC3	GATA2	AREG	ICAM1	KDM6B
+Kidney-L2-Medullary Fibroblast		MOXD1	CLMP	LSAMP	ATRNL1	NID1	PID1	MEIS1	LAMA2	HPSE2	LPAR1
+Kidney-L3-Fibroblast		ADAMTS12	ABCA6	FBLN5	CDH11	CCBE1	SVEP1	NID1	C7	CLMP	ATRNL1
+Lung v1-L2-Artery		DKK2	PTPRB	EFNB2	EPAS1	GJA5	HEY1	ARGLU1	FBLN5	SEMA3G	BMX
+Fetal Development-L2-Stomach-Myeloid cells		ASTL	CDCA4	HLA-DRB5	SUV39H2	HLA-DQA1	IDO1	HLA-DRA	SRP19	RP11-15B24.5	GIPR
+Tonsil-L2-preGC_2		FAU	TMSB4X	RACK1	MARCKSL1	HLA-DRA	HLA-DPB1	CD52	FEZF1	ARPC3	EEF1A1
+Kidney-L1-Papillary Tip Epithelial		KRT13	EEF1A1	S100A6	EHF	AMBRA1	LCN2	SLPI	TACSTD2	RPL41	RPLP1
+Tonsil-L1-Cycling B		E2F8	CDCA2	NUGGC	CLSPN	ANLN	MYBL1	FAM111B	KIF4A	NUF2	GTSE1
+Motor Cortex-subclass-Pvalb+ GABAergic neuron		ADAMTS17	ERBB4	DPP10	ZNF804A	MYO16	BTBD11	GRIA4	SLIT2	SDK1	PVALB
+Kidney-L1-Connecting Tubule		LINC01099	PDE4D	NR3C2	SCN2A	CADPS2	COBLL1	TOX3	DCDC2	SLC14A2	ABTB2
+Liver-L2-Noninflammatory Macrophage		MARCO	CD5L	C1QB	C1QA	C1QC	MS4A7	CD163	FTL	CETP	VCAM1
+Kidney-L1-Distal Convoluted Tubule		SLC12A3	CACNA1D	LINC01055	ARHGAP6	FGF13	TRPM6	TRPM7	ESRRG	ATP1A1	LINC01762
+Kidney-L1-Endothelial		SHANK3	ADGRL4	EGFL7	TEK	PLVAP	CEACAM1	NOSTRIN	SLCO2A1	CALCRL	FLT1
+Kidney-L1-Fibroblast		FBLN5	SVEP1	CDH11	MOXD1	C7	PLCXD3	PLA2G4A	NID1	ATRNL1	SPON1
+Kidney-L1-Principal		KSR2	ABTB2	GRIP1	EYA4	GATA3	ANK3	PRKAG2	C11orf80	MECOM	PAPPA
+Kidney-L2-Outer Medullary Collecting Duct Principal		GRIP1	ABTB2	BMPR1B	ANK3	PRKAG2	MECOM	TRPM3	PIK3C2G	PAPPA	CADPS2
+Lung v1-L2-Proximal Ciliated		C1orf189	LINC01571	CALML4	CH17-340M24.3	AKAP14	CD24	HCG14	TP53AIP1	MRPL41	UCP2
+Adipose-L1-Mesothelial		AP000561.1	AC005699.1	LINC02360	MSLN	KCTD8	PKHD1L1	COL8A1	LSAMP	PTPRQ	FAM155A
+Kidney-L1-Podocyte		NPHS2	ADAMTS19	WT1	FMN2	NTNG1	PTPRQ	NPHS1	PTPRO	ZNF804A	ST6GALNAC3
+Fetal Development-L1-Microglia		PLXDC2	SPP1	DOCK4	SFMBT2	FRMD4A	SLC9A9	ITPR2	DOCK8	APBB1IP	IPCEF1
+Motor Cortex-cross-species cluster-oligodendrocyte_2		PLP1	LINC00609	ENPP2	PLXDC2	UGT8	OPALIN	BCAS1	NLGN1	CERCAM	DOCK5
+Kidney-L2-Mast		CPA3	TPSB2	HDC	SLC8A3	SLC18A2	KIT	SLC24A3	GRAP2	IL18R1	GATA2
+Kidney-L1-Thick Ascending Limb		GP2	SLC12A1	CASR	CLCN5	PLCB1	CGNL1	ESRRB	UMOD	PKP4	CACNA2D3
+Motor Cortex-cluster-PVALB+ RPH3AL+ Layer 2-5 GABAergic neuron		BTBD11	LRP1B	ADAMTS17	MSRA	MYO5B	BCL11A	RNF144B	LINC00403	PVALB	RPH3AL
+Motor Cortex-subclass-vascular lepotomeningeal cell		COLEC12	ITIH5	COL1A2	TBX18	EBF1	C7	COL6A2	SRPX2	FLVCR2	FMO2
+Kidney-L2-Ascending Thin Limb		SH3GL3	COBLL1	BICDL1	LGR4	PATJ	BICC1	CACNA2D3	PKHD1	PAX8	PLCB1
+Kidney-L2-Proximal Tubule Epithelial Segment 1		AFM	SLC36A2	PLG	PAH	SLC13A1	AGXT2	SLC34A1	ACMSD	SLC17A1	SLC28A1
+PBMC-L3-CD16+ Monocyte		LST1	YBX1	AIF1	FCGR3A	NAP1L1	MS4A7	FCER1G	TCF7L2	COTL1	CDKN1C
+Tonsil-L2-Light Zone GCBC		DMRTA2	PATE1	NPY1R	DDX53	NKD2	TEX13D	NXPH3	ERC2-IT1	LINC00345	HTRA3
+Kidney-L2-Connecting Tubule		LINC01099	SCN2A	DCDC2	PDE4D	TOX3	COBLL1	PIK3C2G	TEX41	SLC14A2	CADPS2
+Tonsil-L2-Cycling		C1QA	C1QC	C1QB	PLA2G7	IL22RA2	SERPINA1	MMP9	DAB2	MS4A6A	CD300LF
+Kidney-L2-Cortical Collecting Duct Principal		PWRN1	GATA3	AQP2	PDE4D	KSR2	PIK3C2G	GRIP1	ABTB2	MECOM	LINC01482
+Tonsil-L1-CD4 T		CHGB	KSR2	IL21	GNG4	CD40LG	ICOS	CTLA4	PDCD1	DRAIC	ICA1
+Kidney-L3-Renin-positive Juxtaglomerular Granular		ABCC8	REN	COL13A1	CACNB2	ADCY3	PIP5K1B	WFDC1	GRID2	PRKG1	SLIT3
+Fetal Development-L2-Eye-PDE11A_FAM19A2 positive cells		ADAMTS18	MEGF10	PDE11A	POU6F2	PTPRR	CHAT	RP11-689K5.3	KCNAB1	RELN	FAM19A2
+Lung v1-L2-Serous		ZG16B	LYZ	PRB4	PRB3	PRH2	PRR4	TCN1	LPO	PHB	TESC
+Kidney-L2-Descending Thin Limb Type 2		BICC1	LINC01320	GALNT14	ADAMTS9-AS1	MYO9A	UNC5D	ITGB8	PKHD1	STOX2	OXR1
+Kidney-L2-Descending Thin Limb Type 3		DSCAML1	ARHGAP29	MAGI2	FOXP2	BICC1	PAX8	PTPN14	MYO9A	COL4A3	NEBL
+Fetal Development-L1-Photoreceptor cells		CADM2	March1	SYT1	EYS	RORB	FSTL5	GALNT13	MPPED2	CADPS	ZNF385B
+Lung v2 (HLCA)-ann_finest_level-Subpleural fibroblasts		SERPING1	C1R	COL1A2	NNMT	COL3A1	MT1E	MT1X	PLA2G2A	SELM	MT1M
+Kidney-L2-Fibroblast		ADAMTS12	ABCA6	FBLN5	CDH11	CCBE1	SVEP1	NID1	C7	CLMP	ATRNL1
+Fetal Development-L2-Kidney-Ureteric bud cells		MECOM	NAALADL2	PKHD1	INADL	PAX8	GATA3	COBLL1	BMPR1B	DCDC2	PAX2
+Lung v1-L1-Smooth Muscle		TPM2	ACTA2	MYL9	MYH11	CALD1	DSTN	CNN1	DES	PLN	CSRP1
+Kidney-L2-Intercalated Type B		SLC4A9	SLC26A4	LINC01187	SLC35F3	IL18	DGKI	PPM1E	PDZD2	PDE1C	ATP6V0D2
+Tonsil-L2-Outer surface		RNF223	PLA2G2F	TENT5B	PDZK1IP1	ANXA9	CRNN	CRCT1	LCE3E	LCE3D	LCE3A
+Kidney-L2-M2 Macrophage		MS4A6A	CD163	STAB1	SLC1A3	COLEC12	F13A1	MRC1	CD163L1	TLR2	SLCO2B1
+Kidney-L2-Macula Densa		NOS1	TMPRSS4	PPFIA2	BBOX1	PAPPA2	ERBB4	ITGB6	CALCR	PKP4	DEPTOR
+Fetal Development-L1-Megakaryocytes		LTBP1	ITGB3	ITGA2B	PF4	THBS1	PLEK	MED12L	PRKAR2B	RUNX1	ARHGAP6
+Tonsil-L2-PB		E2F2	CLSPN	CDCA8	CDC20	KIF2C	CCDC163	STIL	DEPDC1	TENT5C	KCNN3
+Kidney-L2-Medullary Thick Ascending Limb		SIM2	ESRRB	SLC12A1	CACNA2D3	ESRRG	ATP1A1	LINC01762	PTGER3	ATP1B1	EGF
+Kidney-L3-Peritubular Capilary Endothelial		RAMP3	PLVAP	CEACAM1	ADGRL4	EGFL7	TEK	NOSTRIN	EML1	FLT1	GPM6A
+Kidney-L2-Monocyte-derived		CSF2RA	TLR2	RTN1	ATP8B4	HLA-DPB1	FYB1	AOAH	CIITA	HLA-DRB1	MSR1
+Kidney-L2-Natural Killer T		GNLY	RUNX3	CD247	MYBL1	SLFN12L	IKZF3	SAMD3	APBA2	STAT4	AOAH
+Pancreas-L1-delta islet cell		SST	RBP4	SERPINA1	RGS2	PCSK1	SEC11C	HHEX	LEPR	MDK	LY6H
+Tonsil-L2-myeloid_multiome		PRDM16	GPR157	TMEM51-AS1	TMEM51	FHAD1	PADI2	ARHGEF10L	FGR	PHC2	CSF3R
+Kidney-L2-Outer Medullary Collecting Duct Intercalated Type A		LINC01187	ATP6V0D2	CLNK	ATP6V1C2	SLC4A9	ITGA6	KIT	SLC26A7	RCAN2	ATP6V0A4
+Kidney-L1-Intercalated		LINC01187	SLC4A9	ATP6V1C2	GALNT17	KIT	IL18	CLNK	ATP6V0D2	RHCG	ITGA6
+Motor Cortex-cluster-OPALIN+ FTH1P3+ Layer 2-6 oligodendrocyte		PLP1	ANK3	ST18	NLGN1	RNF220	PLXDC2	ENPP2	OPALIN	FRMD4B	FTH1P3
+Fetal Development-L2-Stomach-Ciliated epithelial cells		DNAH9	PSCA	DNAH12	PLCG2	C9orf117	S100A6	DNAH3	CLPS	AC079354.1	MUC16
+Lung v1-L1-Basophil/Mast		KIT	CPA3	TPSAB1	HPGDS	VWA5A	MS4A2	HDC	CD44	GATA2	GRAP2
+		
+Fetal Development-L2-Pancreas-Lymphoid cells		RPS3	PFN1	RPS12	PTPRC	RPLP2	HLA-B	RPL32	ARHGDIB	RPS8	ETS1
+Tonsil-L2-CM PreTfh		RCAN3	LDLRAP1	MAN1C1	EPB41	JUN	NFIA	PATJ	SYDE2	LRRC8C	DPYD
+Kidney-L3-Proximal Tubule Epithelial Segment 3		AGXT2	CDH9	LINC00671	ACMSD	SLC28A1	SMIM2-AS1	TINAG	SLC13A1	SLC6A13	DPYS
+Kidney-L2-Proximal Tubule Epithelial Segment 3		AGXT2	CDH9	LINC00671	ACMSD	SLC28A1	SMIM2-AS1	SLC13A1	TINAG	SLC6A13	DPYS
+Kidney-L2-Proximal Tubule Epithelial Segment 2		SMIM2-AS1	SLC13A3	ACSM2B	ACSM2A	CLDN10	SLC2A9	CRYL1	SUGCT	SLC5A12	ERRFI1
+Adipose-L1-Endometrial		KCNIP4	DPP6	PRLR	MEIS1	SYT1	AC012404.1	CNTN4	RORA	PAPPA	TSHZ2
+Kidney-L2-Schwann / Neural		CDH19	NRXN1	PRIMA1	ZNF536	NCAM1	CADM2	SCN7A	GINS3	CYP27C1	KIRREL3
+Kidney-L1-Parietal Epithelial		KCNT2	ALDH1A2	CFH	PAWR	FRMD4A	SLC4A11	LINC01435	PDE1A	RHEX	SYNE1
+Lung v2 (HLCA)-ann_level_4-EC venous pulmonary		VWF	MGP	GNG11	RAMP2	SPARCL1	IGFBP7	IFI27	CLDN5	ACKR1	AQP1
+Kidney-L2-Ascending Vasa Recta Endothelial		RAMP3	TLL1	PLVAP	CEACAM1	TEK	PLAT	ADGRL4	LIMS2	LINC02147	GPM6A
+Kidney-L3-Ascending Thin Limb		SH3GL3	BICDL1	LGR4	PATJ	CACNA2D3	PLCB1	BICC1	COBLL1	PKHD1	PAX8
+Kidney-L3-Ascending Vasa Recta Endothelial		RAMP3	TLL1	PLVAP	CEACAM1	TEK	ADGRL4	PLAT	LIMS2	LINC02147	GPM6A
+Kidney-L3-B		FCRL1	MS4A1	PAX5	IGHM	ARHGAP24	March1	BANK1	INPP5D	RALGPS2	ZCCHC7
+Tonsil-L2-NBC main		CD52	BEND5	S1PR1	CHI3L2	C1orf162	TXNIP	PLEKHO1	CTSS	FCRL1	RCSD1
+Kidney-L3-Connecting Tubule		LINC01099	SLC14A2	DCDC2	SCN2A	TOX3	NR3C2	PIK3C2G	PDE4D	KAZN	COBLL1
+Kidney-L3-Connecting Tubule Intercalated Type A		SLC26A7	CLNK	SLIT2	PDE1C	MAGI1	SLC8A1	TMEM117	MPPED2	GALNT17	PDE4D
+Fetal Development-L1-Horizontal cells		NRXN3	RORB	CNTN4	ONECUT1	TNR	MEGF10	MEGF11	ONECUT2	CACNG3	TFAP2B
+Tonsil-L2-CM Pre-non-Tfh		TNFRSF4	TNFRSF25	DHRS3	RCAN3	LDLRAP1	MAN1C1	EPB41	LCK	PATJ	AK5
+Liver-L1-Hepatocyte		FABP1	CYP2E1	HP	ORM1	APOA2	ADH4	TTR	APOA1	APOC1	APOC3
+Lung v1-L2-Pericyte		COX4I2	PDGFRB	CALD1	TACC1	COL4A1	NID1	COL4A2	LAMC3	PTN	KCNK3
+Kidney-L3-Cortical Vascular Smooth Muscle / Pericyte		LDB3	MCAM	NTRK3	KCNAB1	MYH11	CARMN	PDZRN4	LMOD1	ACTA2	DGKB
+Kidney-L1-Vascular Smooth Muscle / Pericyte		PDGFRB	CARMN	NTRK3	CACNA1C	MYH11	ADGRL3	COL25A1	PRKG1	DLC1	PRR16
+Heart-L2-Capillary Endothelial		BTNL9	FABP5	IFI27	RGCC	F8	MGLL	CA4	ADGRF5	ABLIM3	FLT1
+Kidney-L3-Descending Thin Limb Type 2		BICC1	LINC01320	GALNT14	ADAMTS9-AS1	MYO9A	UNC5D	ITGB8	PKHD1	STOX2	KCTD16
+Kidney-L3-Descending Thin Limb Type 3		DSCAML1	MAGI2	ARHGAP29	FOXP2	BICC1	PTPN14	PAX8	MYO9A	COL4A3	NEBL
+Kidney-L3-Distal Convoluted Tubule Type 2		TMEM52B	TRPM6	SLC12A3	SCN2A	NFE2L2	LINC01762	WNK1	ATP1B1	TOX3	KITLG
+Kidney-L3-Distal Convoluted Tubule Type 1		LINC01055	SLC12A3	TRPM6	CACNA1D	TMEM52B	ARHGAP6	LINC01762	FGF13	EGF	TRPM7
+Tonsil-L2-MRC		MXRA8	RNF207	COL16A1	RSPO1	PODN	SGIP1	PTGER3	LHX8	PTGFR	ADGRL2
+Tonsil-L2-FDCSP epithelium		PLA2G2F	SFN	PDZK1IP1	SPRR1B	SPRR2D	SPRR2F	S100A12	S100A16	S100A14	IL36G
+Tonsil-L2-TCRVδ+ gd T		ZNF683	FCRL6	CD244	XCL2	XCL1	DYSF	GNLY	CD8A	GPR171	ITGA1
+Fetal Development-L2-Lung-CSH1_CSH2 positive cells		CSH1	CSH2	PSG1	PSG2	PSG3	PSG4	PSG11	ENDOU	XAGE3	KISS1
+Kidney-L3-Intercalated Type B		SLC4A9	SLC26A4	LINC01187	SLC35F3	IL18	DGKI	PPM1E	PDZD2	CLNK	NEBL
+Fetal Development-L1-PDE1C_ACSM3 positive cells		FOXI1	TFCP2L1	HEPACAM2	STAC2	ST14	CLNK	ATP6V0D2	BMPR1B	PDE1C	ACSM3
+Bone Marrow-L2-Platelet		RGS18	C2orf88	TMEM40	GP9	PF4	PPBP	DAB2	SPARC	RUFY1	F13A1
+Mouse Motor Cortex-cluster-Endothelial cell		Flt1	Slco1a4	Adgrl4	Ly6c1	Slc2a1	Klf2	Mecom	Bsg	Ly6a	Pltp
+Lung v2 (HLCA)-ann_level_5-Multiciliated (non-nasal)		SNTN	FAM229B	TMEM231	C5orf49	C12orf75	GSTA1	C11orf97	RP11-356K23.1	CD24	RP11-295M3.4
+Lung v2 (HLCA)-ann_level_5-Multiciliated (nasal)		RP11-356K23.1	EFHC1	CAPS	ROPN1L	RSPH1	C9orf116	TMEM190	DNALI1	PIFO	ODF3B
+Fetal Development-L1-Ureteric bud cells		MECOM	NAALADL2	PKHD1	INADL	PAX8	GATA3	COBLL1	BMPR1B	DCDC2	PAX2
+Lung v1-L1-Capillary Intermediate		EPAS1	SH3BP5	RALA	PECAM1	WWTR1	GALNT18	ACVRL1	SRSF11	VAT1	IPO7
+Kidney-L3-Monocyte-derived		CSF2RA	TLR2	PIK3R5	RTN1	ATP8B4	HLA-DPB1	FYB1	AOAH	CIITA	HLA-DRB1
+Fetal Development-L2-Thymus-Thymocytes		LEF1	BCL11B	CALN1	TFDP2	ARHGAP15	THEMIS	SATB1	IKZF2	RUNX1	TCF7
+Motor Cortex-cluster-FEZF2+ FILIP1L+ Layer 5-6 glutamatergic neuron	CALCRL	ALDOA	SEMA3E	XIST	SEMA5A	EGFEM1P	FEZF2	FILIP1L		
+Adipose-L1-Dendritic		HLA-DRB1	FLT3	HLA-DPB1	HLA-DRA	HLA_DQA1	IL1R2	HLA-DPA1	HLA-DQB1	CD74	RTN1
+Motor Cortex-cross-species cluster-Layer 5-6 glutamatergic neuron, near-projecting		NPSR1-AS1	CBLN2	FER1L6-AS2	LUZP2	TLL1	KIAA1217	CALCRL	TLE4	HTR2C	PDE9A
+Lung v2 (HLCA)-ann_level_3-Secretory		KRT19	CEACAM6	WFDC2	TACSTD2	CXCL17	BPIFB1	MUC1	CP	KRT7	PIGR
+Heart-L2-Ventricular Cardiomyocyte		FHL2	RYR2	MLIP	TTN	CTNNA3	RBM20	FGF12	SLC8A1	MYOM1	MYH7
+Lung v2 (HLCA)-ann_level_3-Lymphatic EC mature		PPFIBP1	GNG11	RAMP2	CCL21	MMRN1	IGFBP7	SDPR	TM4SF1	CLDN5	ECSCR
+Motor Cortex-cross-species cluster-Layer 5 glutamatergic neuron, extratelencephalon-projecting_2		BTNL9	EDNRB	SGCZ	LINC00943	VWC2L	HBE1	PCDH11X	TRAPPC3L	CDH8	LINC01069
+Kidney-L3-Plasma		MZB1	IGHG3	IGHG1	POU2AF1	IGHGP	IFNG-AS1	IGHA1	TENT5C	MEI1	IGKC
+Kidney-L3-Plasmacytoid Dendritic		CLEC4C	LINC01478	CLIC3	FAM129C	CUX2	VASH2	BCL11A	RUBCNL	LINC00996	FLT3
+Kidney-L2-Classical Dendritic		RAB7B	IDO1	FLT3	IDO2	WDFY4	FNBP1	CCDC26	CLNK	HDAC9	SLC9A9
+PBMC-L2-Plasmablast		IGHA2	MZB1	TNFRSF17	DERL3	TXNDC5	TNFRSF13B	POU2AF1	CPNE5	HRASLS2	NT5DC2
+Kidney-L3-Proximal Tubule Epithelial Segment 2		SMIM2-AS1	SLC13A3	ACSM2B	ACSM2A	CLDN10	SLC2A9	SLC5A12	SUGCT	CRYL1	ERRFI1
+Kidney-L3-Afferent / Efferent Arteriole Endothelial		VEGFC	ADGRL4	CCDC3	CD34	ADAMTS6	PALMD	CDH13	GFOD1	CHRM3	TEK
+Lung v1-L2-Capillary Intermediate 2		EPAS1	SH3BP5	WWTR1	RALA	PECAM1	GALNT18	ARHGAP29	VAT1	SRSF11	YWHAB
+Fetal Development-L1-Retinal pigment cells		TRPM1	TYR	COL8A1	SLC38A11	LINC00276	BEST1	RP11-690J15.1	RPE65	TYRP1	PMEL
+Adipose-L2-hEndM		KCNIP4	DPP6	SYT1	PRLR	AC012404.1	MEIS1	CNTN4	AC012409.2	PALLD	CACNA1C
+Lung v1-L1-Pericyte		COX4I2	PDGFRB	TACC1	CALD1	NID1	COL4A1	COL4A2	LAMB1	LAMC3	CHN1
+Motor Cortex-cross-species cluster-oligodendrocyte_1		S100B	RBFOX1	COL4A5	RASGRF1	CARNS1	COL18A1	MOG	USH1C	ABCA8	FOLH1
+Bone Marrow-L1-CD4 T		MAL	LEF1	IL7R	TCF7	LTB	LEPROTL1	CD3E	CD3D	CD3G	CD27
+Bone Marrow-L1-CD8 T		CD8B	CD8A	NELL2	CD3D	CD3E	S100B	GZMH	CD3G	TRGC2	CCL5
+Bone Marrow-L1-Dendritic Cell		CLEC4C	PROC	SCT	SCN9A	SHD	PPM1J	ENHO	CLEC10A	LILRA4	DNASE1L3
+PBMC-L1-dendritic cell		CD74	HLA-DPA1	HLA-DPB1	HLA-DQA1	CCDC88A	HLA-DRA	HLA-DMA	CST3	HLA-DQB1	HLA-DRB1
+Lung v2 (HLCA)-ann_level_5-Interstitial Mφ perivascular		MRC1	RNASE1	FGL2	RNASE6	HLA-DPA1	GPR183	CD14	HLA-DPB1	MS4A6A	AIF1
+Motor Cortex-cross-species cluster-Layer 2-3 glutamatergic neuron, intratelencephalon-projecting		PDZD2	CBLN2	MEIS2	CUX2	KIAA1217	ENC1	DAB1	PVRL3	GNAL	LRRTM4
+Bone Marrow-L1-Other T		SLC4A10	KLRB1	IL7R	TNFRSF25	RORA	SPOCK2	MAF	GZMK	ZFP36L2	LYAR
+Tonsil-L2-VEGFA+		RNF207	ERRFI1	EPHA2	PLA2G2F	SFN	COL16A1	PTPRF	CYP4B1	CYP4X1	TACSTD2
+Bone Marrow-L2-Basophil Eosinophil Mast Progenitor		HDC	MS4A2	TPSAB1	TPSB2	CLC	CPA3	MS4A3	IL1RL1	PRG2	HPGDS
+Bone Marrow-L2-CD14 Monocyte		FOLR3	CLEC4E	MCEMP1	RBP7	CDA	FPR1	CD300E	C5AR1	CD93	APOBEC3A
+Bone Marrow-L2-CD16 Monocyte		LYPD2	VMO1	TPPP3	C1QA	C5AR1	CD300E	GPBAR1	LILRA1	HES4	APOBEC3A
+Bone Marrow-L2-CD4 Effector		TNFRSF4	AQP3	TNFRSF25	MAL	IL7R	TRAT1	RORA	FLT3LG	KLRB1	CD6
+Bone Marrow-L2-CD4 Memory		MAL	TRAT1	AP3M2	CAMK4	AQP3	IL7R	RCAN3	BCL11B	LEF1	FLT3LG
+Bone Marrow-L2-CD4 Naive		TSHZ2	MAL	CCR7	CAMK4	LEF1	BCL11B	FHIT	RCAN3	SH3YL1	PIK3IP1
+		
+		
+Bone Marrow-L2-CD8 Effector 3		GZMK	CD160	CD8A	KLRB1	LAG3	CCL4	XCL2	GZMM	XCL1	CCL3
+Tonsil-L2-DC recruiters CD8 T		CD160	FCRL6	CD244	XCL2	XCL1	LINC01871	GNLY	CD8A	CD8B	LINC02084
+Bone Marrow-L2-CD8 Effector 1		CRTAM	IFNG	CD8A	XCL1	GZMK	TIGIT	CCL4L2	CD8B	CD160	XCL2
+PBMC-L3-CD8+ Proliferating T		PCLAF	CD8B	TYMS	CD3D	CLSPN	CD3G	MKI67	TRAC	CHEK1	TK1
+Lung v2 (HLCA)-ann_level_4-SMG serous		CCL28	PART1	PIP	S100A1	AZGP1	PIGR	NDRG2	C6orf58	PRB3	RP11-1143G9.4
+Lung v2 (HLCA)-ann_finest_level-DC1		HLA-DPA1	CPNE3	CORO1A	CPVL	C1orf54	WDFY4	LSP1	HLA-DQB1	HLA-DQA1	HLA-DMA
+Bone Marrow-L2-Early Erythroid		CNRIP1	GATA2	ITGA2B	TFR2	GATA1	KLF1	CYTL1	MAP7	FSCN1	APOC1
+Bone Marrow-L2-Erythroid Megakaryocyte Progenitor		MYCT1	CRHBP	NPR3	AVP	GATA2	HPGDS	CYTL1	CRYGD	IGSF10	PBX1
+Heart-L1-Cardiomyocyte		RYR2	FGF12	MLIP	TTN	FHL2	RBM20	ANKRD1	TECRL	MYBPC3	SGCD
+Pancreas-L1-ductal		SPP1	MMP7	IGFBP7	KRT7	ANXA4	SERPINA1	LCN2	CFTR	KRT19	SERPING1
+Lung v1-L2-Mucous		SCGB3A1	BPIFB1	LCN2	SLPI	WFDC2	SCGB1A1	SAA1	RARRES1	MUC5B	MSMB
+Bone Marrow-L2-Late Erythroid		CTSE	TSPO2	IFIT1B	TMEM56	RHCE	RHAG	SPTA1	ADD2	EPCAM	HBG1
+Bone Marrow-L1-Hematopoeitic stem and progenitor cell		ARPP21	CFAP73	AVP	SPTA1	EPCAM	RHCE	AKAP12	RHAG	C1QTNF4	CYTL1
+Bone Marrow-L2-Macrophage		SPIC	FABP3	CD5L	CCL18	C1QC	C1QB	FABP4	C1QA	APOE	SELENOP
+Bone Marrow-L2-Stromal		IGFBP5	CP	TF	DCN	LUM	COL1A2	CRH	TNC	SPARCL1	BMP5
+Tonsil-L2-class switch MBC		LINC01428	L34079.3	KLK15	AMPD1	OR1Q1	LINC02768	PIWIL3	FBXO36-IT1	LINC01273	SLC5A12
+Bone Marrow-L2-Naive B		FCRL2	FCRL1	ARHGAP24	FCRL5	FCER2	FCRLA	PAX5	CD19	HLA-DOB	CD22
+Bone Marrow-L2-Natural Killer		SH2D1B	PRSS23	S1PR5	LAIR2	KLRC1	PTGDR	FGFBP2	FCRL6	TBX21	KLRC2
+Bone Marrow-L2-Natural Killer CD56+		SPTSSB	NCAM1	KLRC1	XCL1	IL18RAP	XCL2	IL2RB	KLRF1	TNFRSF18	KLRD1
+Lung v2 (HLCA)-ann_finest_level-Pericytes		MYL9	SPARC	SPARCL1	IGFBP7	COL4A1	GPX3	PDGFRB	CALD1	COX4I2	TPM2
+Bone Marrow-L2-Plasmacytoid Dendritic Cell		ASIP	CLEC4C	SCAMP5	PROC	PTCRA	SCT	SHD	PPM1J	LILRA4	LRRC26
+Fetal Development-L1-Stromal cells		COL1A1	COL3A1	COL1A2	DCN	COL6A2	COL5A1	COL5A2	IGF2	SPARC	VCAN
+Adipose-L2-hMac1		PLEKHG5	F13A1	MRC1	CD163L1	LGMN	FRMD4B	SCN9A	MAMDC2	RBPJ	NAV2
+Lung v2 (HLCA)-ann_finest_level-Alveolar Mφ CCL3+		MCEMP1	UPP1	HLA-DQA1	C5AR1	HLA-DMA	AIF1	LST1	LINC01272	MRC1	CCL18
+Fetal Development-L2-Thymus-Antigen presenting cells		RAG1	CCL19	HLA-DRA	CD74	CLNK	HLA-DRB1	HLA-DPB1	BIRC3	WDFY4	CIITA
+Bone Marrow-L2-Precursor Plasmacytoid Dendritic Cell		SCT	SHD	LILRA4	LILRB4	PTPRS	TNNI2	PLD4	SPIB	IRF8	TNFRSF21
+Adipose-L2-hcDC2		IL1R2	HLA-DRA	HLA-DRB1	HLA-DQA1	RTN1	HLA-DPB1	HLA-DQB1	HLA-DPA1	AREG	CD74
+Lung v1-L2-CD4+ Memory/Effector T		CD2	CD3D	CD96	IL7R	ITK	PTPRC	CD3E	MALAT1	PDCD4	GPR171
+PBMC-L3-CD4+ Effector Memory T_4		CCR9	KDF1	DPP4	CD244	SLC4A4	KLRB1	TMIGD2	CD40LG	IL7R	ODF2L
+		
+PBMC-L2-Innate Lymphoid Cell		KIT	TRDC	TTLL10	LINC01229	SOX4	KLRB1	TNFRSF18	TNFRSF4	IL1R1	HPGDS
+Lung v2 (HLCA)-ann_finest_level-Mesothelium		CEBPD	LINC01133	MRPL33	UPK3B	CFB	SEPP1	EID1	HP	CUX1	MRPS21
+Lung v2 (HLCA)-ann_level_1-Epithelial		KRT7	PIGR	ELF3	CYB5A	KRT8	KRT19	TACSTD2	MUC1	S100A14	CXCL17
+Lung v2 (HLCA)-ann_level_1-Endothelial		PTRF	CLDN5	AQP1	PECAM1	NPDC1	VWF	GNG11	RAMP2	IGFBP7	CLEC14A
+PBMC-L2-CD4+ Cytotoxic T		GZMH	CD4	FGFBP2	ITGB1	GZMA	CST7	GNLY	B2M	IL32	NKG7
+Lung v2 (HLCA)-ann_level_3-T cell lineage		CD69	CORO1A	CXCR4	CD3E	TRBC2	TRAC	CD2	CCL5	IL32	CD3D
+Lung v2 (HLCA)-ann_level_2-Lymphoid		CD2	GZMA	CD7	CORO1A	IL32	NKG7	CD69	CXCR4	CD3D	CCL5
+Kidney-L2-Podocyte		NPHS2	ADAMTS19	WT1	NPHS1	FMN2	NTNG1	PTPRQ	TARID	ARHGEF26	ZNF804A
+PBMC-L1-other T cell		CD3D	TRDC	GZMK	KLRB1	NKG7	TRGC2	CST7	LYAR	KLRG1	GZMA
+Lung v1-L1-CD8 T		CCL5	CD3D	NKG7	GZMH	CD3G	CD8A	GZMA	CD8B	RPS27	RPL34
+Lung v2 (HLCA)-ann_level_3-Fibroblasts		BGN	DCN	MGP	SPARC	CALD1	LUM	COL6A1	IGFBP7	COL1A2	C1S
+Lung v2 (HLCA)-ann_level_2-Smooth muscle		DES	SOD3	MYL9	ACTA2	MGP	CALD1	TPM1	TAGLN	IGFBP7	TPM2
+Lung v2 (HLCA)-ann_level_5-SMG serous (bronchial)		AZGP1	ZG16B	PIGR	NDRG2	LPO	C6orf58	DMBT1	PRB3	FAM3D	RP11-1143G9.4
+Bone Marrow-L2-Plasma		SDC1	IGLC6	IGLV6-57	TNFRSF17	IGLV3-1	TNFRSF13B	IGLC7	JSRP1	FCRL5	IGKV1-5
+Lung v2 (HLCA)-ann_level_4-Alveolar macrophages		HLA-DPB1	HLA-DPA1	CTSZ	ACP5	COTL1	FCER1G	C1QC	LAPTM5	CTSS	HLA-DQA1
+Lung v2 (HLCA)-ann_finest_level-Alveolar macrophages		MS4A7	C1QA	HLA-DQB1	HLA-DMA	HLA-DPB1	HLA-DPA1	ACP5	C1QC	CTSS	HLA-DQA1
+Lung v1-L2-Classical Monocyte		S100A9	S100A8	S100A12	VCAN	FCN1	MNDA	FPR1	SELL	ZFP36L2	MYO1F
+Lung v2 (HLCA)-ann_level_3-AT2		NAPSA	SFTPD	PEBP4	SLC39A8	SLC34A2	CYB5A	MUC1	S100A14	SFTA2	SFTA3
+Mouse Motor Cortex-subclass-Layer 6 Car3+ glutamatergic neuron, intratelencephalon-projecting		Tfap2d	Oprk1	Smoc2	Car12	Nr4a2	Lxn	Gm32647	Col11a1	Sstr2	6530403H02Rik
+Lung v2 (HLCA)-ann_level_3-EC venous		VWF	MGP	RAMP3	GNG11	RAMP2	SPARCL1	IGFBP7	CLEC14A	ACKR1	PECAM1
+Lung v1-L2-Capillary Intermediate 1		EDNRB	AQP1	HPGD	CNN3	HLA-E	CLDN5	TMEM204	FCN3	EDN1	VWF
+Lung v2 (HLCA)-ann_finest_level-EC venous pulmonary		VWF	MGP	GNG11	RAMP2	SPARCL1	IGFBP7	IFI27	CLDN5	ACKR1	AQP1
+Lung v2 (HLCA)-ann_level_2-Fibroblast lineage		BGN	DCN	MGP	SPARC	CALD1	LUM	COL6A1	IGFBP7	COL1A2	C1S
+Lung v2 (HLCA)-ann_level_3-AT1		SFTA2	CEACAM6	FXYD3	CAV1	TSPAN13	KRT7	ADIRF	HOPX	AGER	EMP2
+Tonsil-L1-Germinal center B		SERPINA9	SUGCT	LOXL2	MEF2B	ELL3	CD40	SYBU	DNAJC10	SUSD3	AC012368.1
+Lung v2 (HLCA)-ann_level_3-B cell lineage		TSC22D3	ISG20	IGHA1	CORO1A	IGKC	IGLC2	LTB	CD79A	CD37	MS4A1
+Lung v2 (HLCA)-ann_finest_level-Plasma cells		ITM2C	TNFRSF17	FKBP11	IGKC	IGHA1	IGHG1	CD79A	JCHAIN	MZB1	ISG20
+Lung v2 (HLCA)-ann_level_3-SM activated stress response		C11orf96	HES4	PLAC9	FLNA	KANK2	TPM2	PLN	SELM	GPX3	LBH
+PBMC-L2-CD14+ Monocyte		S100A9	CTSS	S100A8	LYZ	VCAN	S100A12	IL1B	CD14	G0S2	FCN1
+Lung v1-L1-Serous		ZG16B	LYZ	PRB4	PRB3	PRH2	PRR4	TCN1	LPO	PHB	TESC
+Lung v2 (HLCA)-ann_finest_level-Alveolar fibroblasts		LUM	COL6A1	CYR61	C1R	COL1A2	MFAP4	A2M	C1S	ADH1B	GPX3
+		
+Lung v2 (HLCA)-ann_level_3-Rare		FOXI1	HEPACAM2	ATP6V1A	EPCAM	KRT7	TMEM61	ASCL3	CLCNKB	SEC11C	CD24
+Bone Marrow-L2-Granulocyte Monocyte Progenitor		SERPINB10	RNASE3	MS4A3	PRTN3	ELANE	AZU1	CTSG	RNASE2	RETN	NPW
+Lung v2 (HLCA)-ann_level_3-Dendritic cells		CORO1A	MS4A6A	ITGB2	GPR183	HLA-DRB1	HLA-DPB1	HLA-DPA1	HLA-DQB1	HLA-DQA1	HLA-DMA
+Fetal Development-L2-Pancreas-Smooth muscle cells		BGN	IGF2	NOTCH3	PDGFRB	ZFP36L1	PCDH18	EGR1	THBS4	FOS	NDUFA4L2
+Mouse Motor Cortex-subclass-microglia / perivascular macrophage		Inpp5d	Hexb	Tgfbr1	C1qa	Ctss	C1qb	Zfhx3	C1qc	Selplg	Cx3cr1
+Motor Cortex-cluster-THEMIS+ ENPEP+ Layer 3 glutamatergic neuron		THEMIS	ITPR2	LAMA2	ASIC2	FAP	KIAA1217	LDB2	PPARGC1A	GAP43	ENPEP
+Bone Marrow-L2-Innate Lymphoid Cell		LDB2	CD160	XCL2	KLRB1	XCL1	KLRF1	KLRD1	KLRC1	TRDC	GZMM
+Lung v2 (HLCA)-ann_level_2-Mesothelium		CEBPD	LINC01133	MRPL33	UPK3B	CFB	SEPP1	EID1	HP	CUX1	MRPS21
+Lung v1-L1-Capillary Aerocyte		HPGD	APP	EDNRB	EMCN	ESAM	STXBP6	CLDN5	CYP3A5	SOSTDC1	TBX2
+Lung v2 (HLCA)-ann_level_4-Suprabasal		PRDX2	KRT19	SFN	TACSTD2	KRT5	LDHB	KRT17	KLK11	S100A2	SERPINB4
+Lung v2 (HLCA)-ann_level_4-Basal resting		CYR61	PERP	IGFBP2	KRT19	KRT5	KRT17	KRT15	S100A2	LAMB3	BCAM
+PBMC-L3-Hematopoietic stem and progenitor cell		CDK6	SOX4	PRSS57	AC084033.3	ANKRD28	FAM30A	MYB	EGFL7	SPINK2	SMIM24
+Lung v2 (HLCA)-ann_level_4-CD8 T cells		CD8A	CD3E	CCL4	CD2	CXCR4	GZMA	NKG7	IL32	CD3D	CCL5
+Lung v2 (HLCA)-ann_level_4-SMG duct		PIP	ZG16B	PIGR	SAA1	MARCKSL1	ALDH1A3	SELM	LTF	RARRES1	AZGP1
+Lung v2 (HLCA)-ann_level_4-CD4 T cells		CORO1A	KLRB1	CD3E	LTB	CXCR4	IL7R	TRAC	IL32	CD2	CD3D
+Adipose-L2-hASPC1		CXCL14	APOD	KAZN	NOVA1	CFD	DCLK1	DCN	KCND2	NEGR1	LINC02511
+Fetal Development-L2-Lung-Ciliated epithelial cells		CDHR3	TPPP3	CAPS	RPLP1	DNAH12	AGR3	LRRIQ1	OSBPL6	C4orf22	AGR2
+Lung v2 (HLCA)-ann_level_4-Goblet		PI3	TSPAN8	LCN2	MSMB	C3	MUC5AC	CYP2F1	PIGR	CEACAM6	BPIFB1
+Lung v2 (HLCA)-ann_level_4-Club		LCN2	ELF3	KLK11	AKR1C1	CXCL17	KRT7	CYP2F1	GSTA1	TSPAN8	PIGR
+Lung v1-L2-Club		SCGB3A2	SFTPB	CYB5A	PIGR	C16orf89	CTSE	KIAA1324	CEACAM6	WFDC2	DSTN
+Lung v2 (HLCA)-ann_level_4-Interstitial macrophages		LYZ	CD163	TYROBP	LGALS1	CD68	CTSL	EMP3	AIF1	FCER1G	LAPTM5
+Tonsil-L2-csMBC		CNR2	SMAP2	PATJ	PDE4B	ST6GALNAC3	LINC01781	DRAM2	SLC22A15	NOTCH2	TXNIP
+Motor Cortex-subclass-oligodendrocyte precursor cell		VCAN	PDGFRA	OLIG1	SMOC1	COL9A1	STK32A	BCAS1	FERMT1	BCHE	ZCCHC24
+Tonsil-L1-Naive CD8 T		LINC02446	CD8B	LRRN3	LDLRAP1	CD8A	CCR7	NELL2	PRKCQ-AS1	RCAN3	RPS12
+Lung v2 (HLCA)-ann_level_4-EC general capillary		EPAS1	GNG11	IFI27	TM4SF1	EGFL7	AQP1	VWF	FCN3	SPARCL1	CLDN5
+Lung v2 (HLCA)-ann_level_4-Adventitial fibroblasts		COL6A2	SFRP2	IGFBP7	IGFBP6	COL3A1	C1S	MMP2	MGP	SPARC	COL1A2
+Lung v2 (HLCA)-ann_level_4-EC aerocyte capillary		EMCN	HPGD	IFI27	CA4	EGFL7	AQP1	IL1RL1	SPARCL1	SDPR	CLDN5
+Lung v2 (HLCA)-ann_level_4-Alveolar fibroblasts		LUM	COL6A1	CYR61	C1R	COL1A2	MFAP4	A2M	C1S	ADH1B	GPX3
+Fetal Development-L2-Cerebrum-Vascular endothelial cells		IGFBP7	FN1	CLDN5	CDH2	ITM2A	SLC38A5	SLC7A1	CDH11	SLC7A5	ABCB1
+Lung v2 (HLCA)-ann_level_5-Goblet (bronchial)		MUC5AC	MSMB	PI3	MDK	ANKRD36C	TFF3	PIGR	SAA1	CP	BPIFB1
+Lung v2 (HLCA)-ann_level_4-Transitional Club AT2		CXCL17	C16orf89	RNASE1	KRT7	SCGB1A1	PIGR	SCGB3A2	KLK11	SFTA1P	FOLR1
+Lung v2 (HLCA)-ann_level_4-DC1		HLA-DPA1	CPNE3	CORO1A	CPVL	C1orf54	WDFY4	LSP1	HLA-DQB1	HLA-DQA1	HLA-DMA
+Lung v2 (HLCA)-ann_level_4-B cells		CD69	CORO1A	LIMD2	BANK1	LAPTM5	CXCR4	LTB	CD79A	CD37	MS4A1
+Lung v2 (HLCA)-ann_finest_level-AT2		SEPP1	PGC	NAPSA	SFTPD	SLC34A2	CYB5A	MUC1	S100A14	SFTA2	SFTA3
+Lung v2 (HLCA)-ann_level_4-Classical monocytes		LST1	IL1B	LYZ	COTL1	S100A9	VCAN	S100A8	S100A12	AIF1	FCN1
+Lung v2 (HLCA)-ann_level_4-Pericytes		MYL9	SPARC	SPARCL1	IGFBP7	COL4A1	GPX3	PDGFRB	CALD1	COX4I2	TPM2
+Lung v2 (HLCA)-ann_level_4-Peribronchial fibroblasts		IGFBP7	COL1A2	COL3A1	A2M	BGN	DCN	MGP	LUM	MFAP4	C1S
+Lung v2 (HLCA)-ann_level_4-Ionocyte		FOXI1	ATP6V1A	GOLM1	TMEM61	SEC11C	SCNN1B	ASCL3	CLCNKB	HEPACAM2	CD24
+Lung v2 (HLCA)-ann_level_4-Neuroendocrine		UCHL1	TFF3	APOA1BP	CLDN3	SEC11C	NGFRAP1	SCG5	HIGD1A	PHGR1	CD24
+Pancreas-L1-immune		ACP5	APOE	HLA-DRA	TYROBP	LAPTM5	SDS	FCER1G	C1QC	C1QB	SRGN
+Fetal Development-L2-Intestine-Myeloid cells		CD74	DNASE1L3	SRGN	SEMA6B	SAMHD1	UTRN	AOAH	XYLT1	HLA-DRB1	PELI1
+Heart-L2-Macrophage		F13A1	RBPJ	MRC1	CD163	COLEC12	RBM47	FMN1	MS4A6A	STAB1	FRMD4B
+Lung v2 (HLCA)-ann_finest_level-Alveolar Mφ MT-positive		GSTO1	LGALS1	CTSZ	MT2A	APOC1	CTSL	UPP1	CCL18	FABP4	MT1X
+Lung v2 (HLCA)-ann_level_4-Migratory DCs		IL2RG	HLA-DRB5	TMEM176A	BIRC3	TYMP	CCL22	SYNGR2	CD83	LSP1	HLA-DQA1
+Lung v2 (HLCA)-ann_level_5-Alveolar Mφ CCL3+		MCEMP1	UPP1	HLA-DQA1	C5AR1	HLA-DMA	AIF1	LST1	LINC01272	MRC1	CCL18
+Lung v1-L2-Myofibroblast		COL1A1	COL1A2	COL3A1	ASPN	LTBP1	COL6A3	ITGBL1	COL12A1	CTHRC1	TGFBI
+Lung v1-L1-Myofibroblast		COL1A1	COL1A2	COL3A1	COL6A3	ASPN	LTBP1	ITGBL1	CALD1	POSTN	BGN
+Lung v2 (HLCA)-ann_level_5-Club (nasal)		ELF3	C19orf33	KRT8	KRT19	TACSTD2	MUC1	S100A14	CXCL17	PSCA	FAM3D
+Lung v1-L2-Basal		KRT15	S100A2	KRT17	KRT5	KRT19	LAMB3	SFN	TNS1	CCND2	DST
+Lung v2 (HLCA)-ann_finest_level-Goblet (subsegmental)		MDK	MUC5B	SCGB1A1	CP	C3	TSPAN8	TFF3	MSMB	PIGR	BPIFB1
+Lung v2 (HLCA)-ann_level_5-Club (non-nasal)		SCGB3A1	CYP2F1	GSTA1	HES4	TSPAN8	TFF3	MSMB	BPIFB1	SCGB1A1	PIGR
+Lung v2 (HLCA)-ann_level_2-Submucosal Gland		CCL28	PIP	ZG16B	PIGR	SEC11C	MARCKSL1	SELM	LTF	TCN1	AZGP1
+Lung v1-L1-Ionocyte		PHGR1	ASCL3	HEPACAM2	FOXI1	TMPRSS11E	ATP6V1B1	BSND	TFF3	STAC2	MFSD6L
+Lung v2 (HLCA)-ann_level_4-DC2		ITGB2	LAPTM5	HLA-DRB1	HLA-DPB1	HLA-DPA1	HLA-DMB	HLA-DQB1	HLA-DQA1	HLA-DMA	LST1
+Tonsil-L2-GC-commited MIR155HG-		FCRL5	PARP14	PHACTR1	CD83	HLA-DRA	HLA-DRB1	HLA-DQA1	HLA-DQB1	CD72	BIRC3
+Lung v2 (HLCA)-ann_level_5-Goblet (subsegmental)		MDK	MUC5B	SCGB1A1	CP	C3	TSPAN8	TFF3	MSMB	PIGR	BPIFB1
+Lung v2 (HLCA)-ann_level_5-SMG serous (nasal)		ZG16B	MUC7	C6orf58	PRB3	LTF	LYZ	PRR4	AZGP1	PIGR	RP11-1143G9.4
+Liver-L2-Inflammatory Macrophage		C1QC	C1QB	C1QA	GPNMB	FABP5	LIPA	CD68	FTL	HLA-DRA	CD9
+Lung v2 (HLCA)-ann_level_3-Macrophages		C1QB	C1QA	HLA-DRB1	AIF1	LYZ	CTSZ	CTSL	FCER1G	C1QC	LAPTM5
+Lung v2 (HLCA)-ann_finest_level-Club (non-nasal)		SCGB3A1	CYP2F1	GSTA1	HES4	TSPAN8	TFF3	MSMB	BPIFB1	SCGB1A1	PIGR
+Lung v2 (HLCA)-ann_level_4-SMG mucous		FKBP11	TCN1	GOLM1	TFF3	PIGR	KLK11	MARCKSL1	CRACR2B	SELM	MSMB
+Mouse Motor Cortex-cluster-Meis2+ Top2a+ GABAergic neuron		Igfbpl1	Dcc	E130114P18Rik	Draxin	Cd1d1	Sp8	Ccnd2	Mdk	Meis2	Top2a
+Lung v2 (HLCA)-ann_finest_level-Suprabasal		PRDX2	KRT19	SFN	TACSTD2	KRT5	LDHB	KRT17	KLK11	S100A2	SERPINB4
+Lung v2 (HLCA)-ann_finest_level-Basal resting		CYR61	PERP	IGFBP2	KRT19	KRT5	KRT17	KRT15	S100A2	LAMB3	BCAM
+Lung v2 (HLCA)-ann_level_3-EC arterial		SPARCL1	SOX17	IFI27	TM4SF1	A2M	CLEC14A	GIMAP7	CRIP2	CLDN5	PECAM1
+Lung v2 (HLCA)-ann_finest_level-CD8 T cells		CD8A	CD3E	CCL4	CD2	CXCR4	GZMA	NKG7	IL32	CD3D	CCL5
+Tonsil-L1-Cycling follicular dendritic		S100A1	ERH	NPM1	C1QBP	MIF	CXCL14	PRMT1	RPLP0	YBX1	POLR2I
+Kidney-L2-Distal Convoluted Tubule		LINC01055	SLC12A3	TRPM6	CACNA1D	TMEM52B	ARHGAP6	LINC01762	FGF13	EGF	ESRRG
+Lung v2 (HLCA)-ann_finest_level-CD4 T cells		CORO1A	KLRB1	CD3E	LTB	CXCR4	IL7R	TRAC	IL32	CD2	CD3D
+Fetal Development-L1-Adrenocortical cells		STAR	CYP17A1	SCARB1	DLK1	DHCR24	FDX1	CYP11A1	LDLR	RBM47	SH3BP5
+Lung v2 (HLCA)-ann_level_2-Alveolar epithelium		S100A14	CXCL17	SEPP1	NAPSA	SFTPD	PEBP4	SLC34A2	CYB5A	SFTA2	SFTA3
+Tonsil-L2-LZ		EYA3	MARCKSL1	MFSD2A	HIVEP3	PRDX1	MCOLN2	MTF2	BCAR3	NTNG1	VAV3-AS1
+Kidney-L2-Plasma		MZB1	IGHG3	IGHG1	POU2AF1	IGHGP	IFNG-AS1	IGHA1	TENT5C	MEI1	IGKC
+PBMC-L3-Proliferating Natural Killer		STMN1	KLRF1	TYMS	FCER1G	PCNA	TYROBP	CLSPN	TRDC	PCLAF	SMC2
+Lung v2 (HLCA)-ann_level_1-Stroma		TPM2	DCN	MGP	SPARC	CALD1	LUM	TAGLN	IGFBP7	COL1A2	C1S
+PBMC-L2-Plasmacytoid Dendritic Cell		ITM2C	PLD4	SERPINF1	LILRA4	IL3RA	TPM2	MZB1	SPIB	IRF4	SMPD3
+Lung v2 (HLCA)-ann_finest_level-Monocyte derived Mφ		LYZ	ACP5	TYROBP	LGALS1	CD68	AIF1	CTSL	EMP3	FCER1G	LAPTM5
+Lung v2 (HLCA)-ann_finest_level-Alveolar Mφ proliferating		H2AFV	STMN1	LSM4	GYPC	PTTG1	KIAA0101	FABP4	CKS1B	UBE2C	HMGN2
+Tonsil-L1-Naive B		ABCB4	HVCN1	LINC00926	LINC02397	SP100	VAV3-AS1	COL19A1	RABEP2	FCER2	IGHD
+Motor Cortex-cross-species cluster-Chandelier neuron		NPNT	COL15A1	PLEKHH2	NOG	PTHLH	ADAMTS5	COL21A1	FAM19A4	HTR1F	SRGAP1
+PBMC-L3-Conventional Dendritic Cell 1		WDFY4	C1orf54	CLEC9A	BATF3	CLNK	TSPAN33	FLT3	CADM1	IDO1	DNASE1L3
+Lung v2 (HLCA)-ann_finest_level-Non classical monocytes		PSAP	FCGR3A	FCN1	CORO1A	COTL1	FCER1G	LAPTM5	CTSS	AIF1	LST1
+Lung v2 (HLCA)-ann_finest_level-EC general capillary		EPAS1	GNG11	IFI27	TM4SF1	EGFL7	AQP1	VWF	FCN3	SPARCL1	CLDN5
+Lung v2 (HLCA)-ann_finest_level-Adventitial fibroblasts		COL6A2	SFRP2	IGFBP7	IGFBP6	COL3A1	C1S	MMP2	MGP	SPARC	COL1A2
+Lung v2 (HLCA)-ann_finest_level-Lymphatic EC mature		PPFIBP1	GNG11	RAMP2	CCL21	MMRN1	IGFBP7	SDPR	TM4SF1	CLDN5	ECSCR
+Lung v2 (HLCA)-ann_finest_level-EC aerocyte capillary		EMCN	HPGD	IFI27	CA4	EGFL7	AQP1	IL1RL1	SPARCL1	SDPR	CLDN5
+Kidney-L3-Glomerular Capillary Endothelial		HECW2	BTNL9	FLT1	PLAT	EMCN	PLPP3	SMAD6	TEK	SHANK3	PTPRB
+Tonsil-L2-epithelial_multiome		RNF223	ARHGEF16	ERRFI1	MIR34AHG	KAZN	TMEM51-AS1	TMEM51	EPHA2	PADI1	PADI3
+Tonsil-L2-LZ-BCL2A1 neg		CCDC28B	MARCKSL1	PRDX1	SEMA4A	FCRL3	PRDX6	RGS13	BPNT1	H3F3A	PARP1
+Lung v2 (HLCA)-ann_finest_level-Goblet (bronchial)		MUC5AC	MSMB	PI3	MDK	ANKRD36C	TFF3	PIGR	SAA1	CP	BPIFB1
+Lung v2 (HLCA)-ann_finest_level-Neuroendocrine		UCHL1	TFF3	APOA1BP	CLDN3	SEC11C	NGFRAP1	SCG5	HIGD1A	PHGR1	CD24
+Lung v2 (HLCA)-ann_finest_level-Lymphatic EC differentiating		AKAP12	TFF3	SDPR	CLDN5	TCF4	TFPI	TIMP3	GNG11	CCL21	IGFBP7
+Lung v2 (HLCA)-ann_finest_level-DC2		ITGB2	LAPTM5	HLA-DRB1	HLA-DPB1	HLA-DPA1	HLA-DMB	HLA-DQB1	HLA-DQA1	HLA-DMA	LST1
+Lung v1-L2-Goblet		S100P	CXCL17	FAM3D	WFDC2	GABRP	LCN2	PSCA	C3	MSMB	ZG16B
+PBMC-L3-CD4+ Proliferating T		MKI67	TYMS	PCLAF	TOP2A	CENPF	NUSAP1	CENPM	BIRC5	ZWINT	TPX2
+Pancreas-L1-cycling		UBE2C	TOP2A	CDK1	BIRC5	PBK	CDKN3	MKI67	CDC20	CCNB2	CDCA3
+Lung v2 (HLCA)-ann_finest_level-B cells		CD69	CORO1A	LIMD2	BANK1	LAPTM5	CXCR4	LTB	CD79A	CD37	MS4A1
+Liver-L2-Sinusoidal Endothelial		FCN3	LYVE1	STAB2	FCGR2B	CLEC4G	CRHBP	FLT4	FCN2	CLEC1B	DNASE1L3
+Liver-L1-Endothelial		FCN3	DNASE1L3	CRHBP	AKAP12	CLEC4G	FCN2	IFI27	IGFBP7	LIFR	ID1
+Lung v2 (HLCA)-ann_finest_level-SMG mucous		FKBP11	TCN1	GOLM1	TFF3	PIGR	KLK11	MARCKSL1	CRACR2B	SELM	MSMB
+Lung v2 (HLCA)-ann_finest_level-Transitional Club AT2		CXCL17	C16orf89	RNASE1	KRT7	SCGB1A1	PIGR	SCGB3A2	KLK11	SFTA1P	FOLR1
+Lung v2 (HLCA)-ann_level_3-Basal		KRT15	SFN	IGFBP2	SERPINF1	ADIRF	MT1X	BCAM	KRT5	KRT17	S100A2
+Adipose-L2-hSMC2		ADGRL3	NCKAP5	STEAP4	CLSTN2	CHSY3	TEX41	INPP4B	COL25A1	SYNPO2	NR2F2-AS1
+PBMC-L3-Erythroid cell		HBM	ALAS2	HBD	AHSP	SLC4A1	TRIM58	SELENBP1	CA1	IFIT1B	SNCA
+Lung v2 (HLCA)-ann_level_1-Immune		LCP1	CD53	PTPRC	COTL1	CXCR4	GMFG	FCER1G	LAPTM5	SRGN	CD52
+Lung v2 (HLCA)-ann_finest_level-SMG serous (nasal)		ZG16B	MUC7	C6orf58	PRB3	LTF	LYZ	PRR4	AZGP1	PIGR	RP11-1143G9.4
+Lung v2 (HLCA)-ann_finest_level-Ionocyte		FOXI1	ATP6V1A	GOLM1	TMEM61	SEC11C	SCNN1B	ASCL3	CLCNKB	HEPACAM2	CD24
+Lung v2 (HLCA)-ann_level_4-Subpleural fibroblasts		SERPING1	C1R	COL1A2	NNMT	COL3A1	MT1E	MT1X	PLA2G2A	SELM	MT1M
+Lung v2 (HLCA)-ann_finest_level-Fibromyocytes		NEXN	ACTG2	LMOD1	IGFBP7	PPP1R14A	DES	FLNA	TPM2	PLN	SELM
+Lung v2 (HLCA)-ann_level_5-Monocyte derived Mφ		LYZ	ACP5	TYROBP	LGALS1	CD68	AIF1	CTSL	EMP3	FCER1G	LAPTM5
+Motor Cortex-cross-species cluster-Layer 6 glutamatergic neuron, intratelencephalon-projecting_2		SH2D1B	EDIL3	TMEM244	CNTN5	ADAMTS16	PDE1A	MYO1D	TSHZ2	ANO3	PXDN
+Fetal Development-L2-Muscle-Myeloid cells		F13A1	MYL1	NCF4	TMEM97	HLA-DOA	CTBS	HLA-DMA	TPM2	SIGLEC1	SIRPB2
+Lung v2 (HLCA)-ann_finest_level-Myofibroblasts		CALD1	CYR61	TAGLN	MT1X	PRELP	TPM2	GPX3	CTGF	IGFBP5	SPARCL1
+Lung v2 (HLCA)-ann_finest_level-Interstitial Mφ perivascular		MRC1	RNASE1	FGL2	RNASE6	HLA-DPA1	GPR183	CD14	HLA-DPB1	MS4A6A	AIF1
+Lung v2 (HLCA)-ann_finest_level-Lymphatic EC proliferating		S100A16	TUBB	HMGN2	COX20	LSM2	HMGN1	ARPC1A	ECSCR	EID1	MARCKS
+Lung v2 (HLCA)-ann_finest_level-Migratory DCs		IL2RG	HLA-DRB5	TMEM176A	BIRC3	TYMP	CCL22	SYNGR2	CD83	LSP1	HLA-DQA1
+Tonsil-L1-Activated Naive B		MIR155HG	SLAMF1	MYC	CD83	HSP90AB1	DDX21	EGR3	FCER2	REL	SYNGR2
+Adipose-L2-hASPC2		FBN1	PRG4	MFAP5	COL1A2	COL1A1	FSTL1	COL3A1	DCN	SEMA3C	ADAMTSL1
+Lung v2 (HLCA)-ann_finest_level-Peribronchial fibroblasts		IGFBP7	COL1A2	COL3A1	A2M	BGN	DCN	MGP	LUM	MFAP4	C1S
+Fetal Development-L2-Lung-Stromal cells		PIEZO2	FAM155A	SLIT2	CCBE1	FAT3	MEOX2	ARHGAP28	PRKCB	PLEKHH2	A2M
+Lung v2 (HLCA)-ann_finest_level-EC arterial		SPARCL1	SOX17	IFI27	TM4SF1	A2M	CLEC14A	GIMAP7	CRIP2	CLDN5	PECAM1
+Tonsil-L1-Cycling myeloid		CIT	KPNA2	CSF1R	POLQ	CKAP2L	KIF14	AURKA	MMP9	KIF15	AURKB
+Tonsil-L1-Cycling T		IL21	CTLA4	CORO1B	MAF	KIF15	SMC3	RRM2	PDCD1	SPOCK2	ICOS
+Motor Cortex-subclass-microglia / perivascular macrophage		DOCK8	P2RY12	APBB1IP	FYB	PTPRC	TBXAS1	CX3CR1	BLNK	SLCO2B1	CSF1R
+Fetal Development-L1-Extravillous trophoblasts		FN1	FLT1	ISM2	NOTUM	PAPPA2	PRG2	ADAM12	FSTL3	QSOX1	SERPINE2
+Tonsil-L1-Epithelial		IL36A	C5orf66-AS1	MAB21L4	RNF39	FUT3	SPRR1A	C1orf116	KLK11	RNASE7	PADI1
+Tonsil-L1-Follicular dendritic		AL139379.1	NR2F1	NR2F2-AS1	OSMR-AS1	SERPINA3	LINC02251	TCIM	GABRG3	CACNA2D1	DZIP1
+Fetal Development-L2-Lung-Bronchiolar and alveolar epithelial cells		ATP11A	CPM	MECOM	SFTPB	SFTPC	FGFR2	SFTA3	ETV5	ROS1	WIF1
+Tonsil-L1-Granulocytes		ADGRG3	FCGR3B	MCEMP1	ORM1	CXCL2	PI3	AQP9	SLC11A1	CXCL8	G0S2
+Fetal Development-L2-Cerebrum-Megakaryocytes		PF4	PPBP	TUBB1	C6orf25	GP9	GP6	LY6G6F	TREML1	GP5	GP1BA
+Lung v1-L2-Adventitial Fibroblast		FBLN1	C3	CCDC80	DCN	SFRP2	IGFBP6	SCARA5	PIK3R1	LAMA2	USP53
+Tonsil-L1-Memory B		FCRL4	TNFRSF13B	BHLHE41	CLECL1	FCGR2B	SP110	SP140	CCR6	TLR10	FCRL2
+Tonsil-L2-DZ_Sphase_HistoneHigh		UBE2J2	PUSL1	INTS11	AURKAIP1	ATAD3A	CDK11B	NADK	GNB1	RER1	TP73
+Tonsil-L2-GC-commited metabolic activation		ENO1	SRM	MRTO4	YBX1	EBNA1BP2	PRDX1	SERBP1	CCT3	GPATCH4	STUM
+Liver-L1-B		MS4A1	CD79A	CD37	CD79B	LTB	CD52	TCL1A	BANK1	VPREB3	POU2F2
+Motor Cortex-cross-species cluster-Lamp5+ GABAergic neuron_5		NDNF	COL5A2	CXCL14	HS6ST3	NMBR	ALCAM	BMP6	EPHA6	FAT1	LAMP5
+Mouse Motor Cortex-cross-species cluster-vascular lepotomeningeal cell		Cped1	Apod	Ptgds	Atp1a2	Slc6a20a	Colec12	Bmp6	Ranbp3l	Slc7a11	Lama1
+Adipose-L2-hNeu		AC092839.1	CSF3R	EPHB1	SORL1	KCNJ15	LUCAT1	SLC25A37	LITAF	CPPED1	MYO1F
+Tonsil-L1-Plasmacytoid dendritic		AC097375.1	CYYR1	C5orf64	KCNK17	KCNK10	LCNL1	LINC01478	ADGRB3	RASD1	LINC02207
+Tonsil-L1-preB/T		RAG2	SPTA1	ARPP21	VPREB1	RAG1	HRK	IGLL1	MME	ACSM3	AEBP1
+Tonsil-L2-aDC1		GPR153	GPR157	CD1E	TNNT2	LAD1	HSD11B1-AS1	G0S2	NEURL3	NRP2	LAMP3
+Tonsil-L2-aDC2		PRDM16	S100A2	LAD1	LAMP3	FABP4	BX255923.2	MYOZ1	C11orf96	NRXN2	SLC6A12
+Tonsil-L2-aDC3		LAD1	LAMP3	FSCN1	AOC1	IDO1	CCL19	RASSF4	LGALS2	TMEM176A	TIFAB
+Tonsil-L2-Basal cells		SFN	GJB5	GBP6	S100A2	S100A16	S100A14	MIR205HG	MAB21L4	ADH7	PITX1
+Tonsil-L2-C1Q HLA macrophages		TNFRSF9	C1QA	C1QC	C1QB	C1orf54	LMNA	SLAMF8	FCER1G	FCGR3A	OLFML2B
+Tonsil-L2-CD14+CD55+ FDC		ANKRD65	VWA1	RNF207	TNFRSF9	PDPN	EPHB2	GJB3	GJA4	DNALI1	CYP4B1
+Tonsil-L2-CD16-CD56- NK		CD160	FCER1G	FCGR3A	SH2D1B	XCL2	XCL1	FASLG	GNLY	IL18RAP	EOMES
+Tonsil-L2-CD16-CD56+ NK		FCER1G	SH2D1B	XCL2	XCL1	LINC00299	ID2	GNLY	IL18RAP	SPTSSB	GZMK
+Tonsil-L2-NKp44+ ILC3		TNFRSF18	C1orf141	IL23R	LINGO4	RORC	FCER1G	SH2D1B	XCL2	XCL1	LINC00298
+Tonsil-L2-CD56+ gd T		ZNF683	FCRL6	XCL2	XCL1	LINC01871	GNLY	CD8A	ITGA1	PPP2R2B	TRGC2
+Tonsil-L2-CD8 Tf		TNFRSF9	RGS4	XCL2	XCL1	FASLG	CD8A	AGAP1	LINC02084	EOMES	LINC01967
+Tonsil-L2-CM CD8 T		CD2	CD8A	CD8B	GPR171	IL7R	ITGA1	GZMK	GZMA	SAMD3	GIMAP7
+Lung v1-L1-Dendritic		HLA-DPB1	FCGR2B	HLA-DMB	CLEC10A	CSF2RA	MS4A6A	HLA-DQA1	RGS1	GPR183	FPR3
+Tonsil-L2-Early GC-commited MYC+		DUSP2	RASGEF1B	EGR1	CD74	PHACTR1	CD83	HLA-DRA	HLA-DRB5	HLA-DRB1	HLA-DQA1
+Mouse Motor Cortex-cross-species cluster-Astrocyte_2		Slc1a2	Gpc5	Wdr17	Htra1	Slc1a3	Acsl3	Plpp3	Msi2	Dtna	Gabrb1
+Tonsil-L2-preB		PCSK9	SPTA1	ARPP21	HHIP-AS1	AKAP12	ENTPD8	DNTT	IGF2	RAG1	RAG2
+Tonsil-L2-csMBC FCRL4+		KIF1B	TNFRSF1B	EFHD2	RUNX3	SH3BGRL3	CD52	FGR	THEMIS2	PTAFR	S100PBP
+Tonsil-L1-Monocyte/macrophage		AC104809.2	CD163	SULT1C2	VCAN	FPR3	CD163L1	TCN2	STAB1	VNN1	RTN1
+Lung v2 (HLCA)-ann_level_3-Fibromyocytes		NEXN	ACTG2	LMOD1	IGFBP7	PPP1R14A	DES	FLNA	TPM2	PLN	SELM
+Mouse Motor Cortex-cross-species cluster-Lamp5+ GABAergic neuron_3		Dchs2	Lhx6	Nos1	Cntnap3	B020031H02Rik	Gm45680	Ackr3	Tacr1	Cntnap4	Lamp5
+Lung v1-L2-Macrophage		ACP5	MARCO	OLR1	APOC1	MSR1	VSIG4	CYP27A1	SLCO2B1	GPD1	ITGAX
+Kidney-L2-Inner Medullary Collecting Duct		LINC01924	ANK3	CAPN8	ABTB2	SAMD12	SLC14A2	GRIP1	NAALADL2	LRBA	PCDH7
+Tonsil-L2-DC1 mature		MYCL	TACSTD2	NEGR1	LINC01750	PPM1J	LINC01356	LINC01357	TSPAN2	C1orf54	SHE
+Tonsil-L2-DC1 precursor		LINC01750	C1orf54	RAB7B	BATF3	XCR1	RAB32	CPVL	IDO1	SHTN1	CLEC9A
+Tonsil-L2-DC2		TMEM51	TRNP1	FGR	CSF3R	FHL3	MYCL	ELAVL4	CTTNBP2NL	CD101	ADAMTSL4
+Tonsil-L2-DC3		MYCL	MTMR11	S100A12	CD1E	FCER1A	RGS18	IL1B	MARCO	CAVIN2	CX3CR1
+Tonsil-L2-DC4		TMEM51	CSF3R	MYCL	ETV3L	SLAMF8	FCGR3A	RGS18	NID1	MARCO	P2RY13
+Tonsil-L2-DC5		CSF3R	MYCL	ATP1A2	FCER1G	RGS18	SLC8A1	IL1B	SCN9A	SLC4A3	SH3BP4
+Mouse Motor Cortex-subclass-Layer 6 glutamatergic neuron, intratelencephalon-projecting		C1ql3	Cdh13	Il1rapl2	Zfp804b	Dscaml1	Slit3	Galnt14	Nell2	Ak5	Cck
+Tonsil-L2-DZ FDC		LINC02593	ANKRD65	MMP23B	RNF207	TNFRSF9	COL16A1	CSF3R	PTPRF	CYP4B1	CYP4X1
+Lung v2 (HLCA)-ann_level_5-Alveolar Mφ MT-positive		GSTO1	LGALS1	CTSZ	MT2A	APOC1	CTSL	UPP1	CCL18	FABP4	MT1X
+Tonsil-L2-DZ_G2M_CCNBHigh		INTS11	AURKAIP1	NADK	GNB1	CEP104	CAMTA1	SLC2A5	SLC25A33	PIK3CD	CLSTN1
+Tonsil-L2-DZ_G2M_HistoneHigh		INTS11	AURKAIP1	CDK11B	NADK	GNB1	CAMTA1	SLC2A5	CLSTN1	CTNNBIP1	LZIC
+Tonsil-L2-DZ_Sphase		INTS11	CPTP	AURKAIP1	MRPL20	NADK	GNB1	ICMT	PHF13	THAP3	CAMTA1
+Tonsil-L2-IgD PC precursor		SLC6A9	SLAMF7	SDC1	FRZB	CHPF	GMPPB	LINC00698	SYNPR	PDIA5	FNDC3B
+Tonsil-L2-DZ-cell cycle exit		STMN1	HMGN2	CDC20	NUF2	ASPM	CENPF	CENPE	HMGB2	CCNB1	PTTG1
+Tonsil-L2-DZ-nonproliferative		STMN1	HMGN2	ATP5IF1	LSM10	PRDX1	LAMTOR5	ANP32E	S100A10	MPC2	ARPC5
+Tonsil-L2-DZ-nonproliferative_FOXP1hi		CPTP	TAS1R3	NOL9	TAS1R1	THAP3	SLC2A5	FUCA1	CLIC4	SYF2	STMN1
+Tonsil-L2-DZ/LZ		LINC01134	SLC2A5	SPEN	CAPZB	CLIC4	SYF2	EYA3	PTAFR	ATP5IF1	LAPTM5
+PBMC-L2-Platelet		PPBP	PF4	NRGN	GNG11	CAVIN2	TUBB1	CLU	HIST1H2AC	RGS18	GP9
+Tonsil-L2-GC-commited MIR155HG+		MFSD2A	HIVEP3	FCRL5	SLAMF1	REL	DUSP2	ARHGAP31	PARP14	TFRC	NFKB1
+Tonsil-L2-Eff-Tregs		HES4	TNFRSF18	TNFRSF4	TNFRSF25	TNFRSF1B	LCK	GBP2	GBP5	CSF1	CD2
+Tonsil-L2-SELENOP FUCA1 PTGDS macrophages		PLA2G2D	C1QA	C1QC	C1QB	FUCA1	RAB42	SDC3	FABP3	C1orf54	SLAMF8
+Tonsil-L2-FCRL5+ MBC		FCRL5	KYNU	CCR1	HOPX	HLA-DPB1	DNAH8	KCNMA1	MS4A1	BHLHE41	SSPN
+Lung v1-L1-CD14+ Monocyte		S100A9	S100A12	S100A8	VCAN	FCN1	CD300E	CTSS	CD99	CSF3R	METTL9
+		
+Fetal Development-L2-Eye-Microglia		OSCAR	KYNU	RP11-480C22.1	ACOT2	TIGD4	SLC9A7	TLR2	PHF5A	LY86	HLA-DPA1
+Bone Marrow-L2-Mucosal associated invariant T		KLRB1	IL7R	TNFRSF25	SPOCK2	RORA	NCR3	GZMK	KLRG1	TRGC2	CD6
+Lung v2 (HLCA)-ann_level_3-Lymphatic EC proliferating		S100A16	TUBB	HMGN2	COX20	LSM2	HMGN1	ARPC1A	ECSCR	EID1	MARCKS
+Fetal Development-L1-Lens fibre cells		CRYBB1	CRYAA	CRYBB2	CRYBA4	CRYBA1	CRYGC	BFSP1	LIM2	MIP	BFSP2
+Tonsil-L2-GC-Tf-regs		PYHIN1	CD247	F5	TLR5	SUSD4	CHRM3-AS2	AAK1	MAL	CHN1	PLCL1
+Tonsil-L2-GC-Tfh-0X40		TNFRSF18	TNFRSF4	TNFRSF25	PLK3	GBP2	KIAA1324	IGSF3	CD2	PYHIN1	RGS4
+Tonsil-L2-GC-Tfh-SAP		TNFRSF18	TNFRSF4	PRKCZ	TNFRSF25	TNFRSF1B	CAMK2N1	ID3	SH3BGRL3	LCK	KIAA0319L
+Tonsil-L2-IFN1+ PDC		EPHA2	LINC01226	MYCL	TTC39A	FCER1A	FCER1G	LINC01724	SLC35F3	PROC	SCN9A
+Lung v2 (HLCA)-ann_finest_level-Smooth muscle		PRKCDBP	NDUFA4L2	MYL9	ACTA2	MGP	CALD1	TPM1	TAGLN	IGFBP7	TPM2
+Tonsil-L2-IgG+ PC precursor		SDF4	PIK3CD-AS2	SRM	C1orf167	PINK1	DDOST	PDIK1L	CNKSR1	THEMIS2	SMPDL3B
+Tonsil-L2-ncsMBC FCRL4+		TNFRSF1B	RUNX3	SH3BGRL3	CD52	SYTL1	FGR	THEMIS2	PDE4B	IFI44L	GBP4
+Tonsil-L2-IgM+ PC precursor		CHPF	CHDH	IL17RB	LINC02362	LINC01484	LINC01485	PRDM1	CREB3L2	CTHRC1	ADM
+Tonsil-L2-IL7R DC		TMEM51	FHAD1	ELAVL4	CD1E	FCER1A	RGS18	CD207	IL1RN	CALCRL	SLC4A3
+Tonsil-L2-IL7R MMP12 macrophages		VWA1	GPR153	TNFRSF9	MIR34AHG	TMEM51-AS1	TMEM51	FHAD1	ATP13A2	ARHGEF10L	HTR6
+Tonsil-L2-ILC1		TTLL10	FCER1G	SH2D1B	XCL2	XCL1	LINC00299	GNLY	NMUR1	KIT	TRGC1
+Tonsil-L2-ITGAX ZEB2 macrophages		TNFRSF9	MIR34AHG	TMEM51-AS1	PLA2G2D	RAB42	SDC3	CSF3R	PTPRF	SYPL2	SHE
+Tonsil-L2-cycling T		HES4	TNFRSF18	TNFRSF4	TNFRSF25	TNFRSF1B	UBXN10-AS1	STMN1	LCK	CLSPN	HEYL
+PBMC-L1-Monocyte		CTSS	FCN1	NEAT1	LYZ	PSAP	S100A9	AIF1	MNDA	SERPINA1	TYROBP
+Tonsil-L2-LZ FDC		VWA1	TNFRSF9	PDPN	GJB3	GJA4	CITED4	FAM151A	GNG12	WLS	CNN3
+Lung v2 (HLCA)-ann_finest_level-Multiciliated (nasal)		RP11-356K23.1	EFHC1	CAPS	ROPN1L	RSPH1	C9orf116	TMEM190	DNALI1	PIFO	ODF3B
+Tonsil-L2-Early PC precursor		FRZB	SPARCL1	LINC01484	PPP1R17	TMEM52B	ETV7	PRDM1	RASSF6	FMNL2	NKX6-3
+Tonsil-L2-LZ-proliferative_BCL2A1neg		LINC01128	NOC2L	ISG15	SDF4	UBE2J2	PUSL1	INTS11	AURKAIP1	CCNL2	MRPL20-AS1
+Tonsil-L2-LZ-proliferative_BCL2A1pos		NOC2L	PUSL1	INTS11	AURKAIP1	MRPL20	ATAD3B	ATAD3A	CDK11B	NADK	TP73
+Bone Marrow-L2-Transitional B		BMP3	CFAP73	ARPP21	IGLC5	APBB2	HRK	DTX1	AKAP12	IGLC6	MME
+Tonsil-L2-MAIT		IL23R	FASLG	LINC01871	GNLY	IL18RAP	SLC4A10	DPP4	EOMES	CXCR6	GPR171
+Bone Marrow-L2-Proliferating T		RRM2	MKI67	BIRC5	LCK	SH2D1A	CLSPN	CDT1	TK1	TOP2A	TRAC
+Tonsil-L2-Mature IgA+ PC		SMPDL3B	TENT5C	SLAMF7	LINC00582	SDC1	CHPF	ITM2C	MANF	TMEM45A	FNDC3B
+Tonsil-L2-Mature IgG+ PC		SMPDL3B	AMPD1	TENT5C	SLAMF7	LINC00582	SDC1	CHPF	ITM2C	TMEM45A	FNDC3B
+Tonsil-L2-Mature IgM+ PC		CHPF	LINC02362	DERL3	FKBP11	SDC1	SLAMF7	DNAJB9	IGLV6-57	XBP1	CKAP4
+Tonsil-L2-MBC derived IgA+ PC		COL24A1	MAGI3	TENT5C	LMNA	SLAMF7	SDC1	PDK1	CASP10	CHPF	NYAP2
+Tonsil-L2-MBC derived IgG+ PC		PLEKHN1	SMPDL3B	TLCD4	AMPD1	TENT5C	SLAMF7	RGS1	LINC00582	SDC1	PAIP2B
+Tonsil-L2-MBC derived PC precursor		SLAMF7	SDC1	FNDC3B	GAB1	LINC02362	ELL2	LINC02836	PRDM1	CADPS2	DGKI
+Fetal Development-L2-Cerebellum-Vascular endothelial cells		IGFBP7	ITM2A	FN1	CLDN5	SLC7A5	MFSD2A	SLC39A10	FLT1	SLC7A1	SLC38A5
+Tonsil-L1-Mast		TAL1	AL157895.1	TPSD1	ADCYAP1	IL1RL1	CDK15	HDC	GCSAML	MLPH	CALB2
+Tonsil-L2-MBC-like_proli1		STMN1	HMGB2	TUBA1B	HMGB1	HMGN2	H2AFZ	TUBB	PCLAF	PTMA	NUSAP1
+Tonsil-L2-MBC-like_proli2		STMN1	CLSPN	ASPM	DTL	RRM2	MCM6	SPC25	POLQ	SMC4	NCAPG
+Tonsil-L2-MBC-like_proli3		ATAD3A	PGD	CENPS	SRM	TNFRSF8	MRTO4	RCC1	CLSPN	CTPS1	EBNA1BP2
+Heart-L2-Pericyte		RGS5	ABCC9	GUCY1A2	EGFLAM	DLC1	FRMD3	PDGFRB	AGT	PLA2G5	EPS8
+Tonsil-L2-unknown		CCN1	SELE	PRRX1	LAMC2	NFASC	PLOD2	PDLIM3	SLC22A3	MAGI2-AS3	FAM189A2
+Tonsil-L2-Naive		TNFRSF25	DHRS3	UBXN10-AS1	TCEA3	MDS2	RCAN3	LDLRAP1	MAN1C1	EPB41	LCK
+Kidney-L2-Non-classical monocyte		SLC11A1	MYO1F	DOCK2	ADGRE2	ITGAL	AOAH	IRAK3	SMAP2	TBXAS1	ZEB2
+Fetal Development-L2-Eye-Lens fibre cells		CRYBB1	CRYAA	CRYBB2	CRYBA4	CRYBA1	CRYGC	BFSP1	LIM2	MIP	BFSP2
+Tonsil-L2-NBC CD229+		LINC01857	CHL1	PARP15	ADAMTS6	CRIP3	OAS1	KLK4	LILRA4	FCMR	MS4A1
+Tonsil-L2-NBC first step activation		CD52	MACF1	S1PR1	C1orf162	TXNIP	CTSS	FCRL5	FCRL1	SELL	RALGPS2
+Tonsil-L2-NBC IFN-activated		ISG15	IFI44L	IFI44	RSAD2	EIF2AK2	STAT1	PARP14	HERC5	SAMD9L	LY6E
+Bone Marrow-L2-Precursor B		NPY	LCN6	RAG2	HMHB1	ARPP21	AKAP12	RAG1	C10orf10	CYGB	SLC8A1-AS1
+Liver-L1-HSC/mFB		DCN	ACTA2	IGFBP3	IGFBP7	COLEC11	MYL9	COL1A1	COL3A1	RGS5	TPM2
+Tonsil-L1-Naive CD4 T		CHRM3-AS2	TOMM7	RPL30	ITGA6	LDHB	NOSIP	RPS25	RPS14	RPS15A	RPL11
+Tonsil-L2-ncsMBC		CNR2	SHISAL2A	L1TD1	ROR1	PDE4B	FNBP1L	S1PR1	DRAM2	CEPT1	C1orf162
+Motor Cortex-cluster-LAMP5+ KCNG3+ Layer 2 glutamatergic neuron		SEMA3C	PARD3	GRM1	SPON1	TMEM196	PALMD	LINGO2	ADRA1A	LAMP5	KCNG3
+Motor Cortex-cluster-PAX6+ LINC01497+ Layer 3-6 GABAergic neuron		SCGN	EGFEM1P	PALMD	TMEM132D	EYA1	C8orf34	TNS3	KCNIP4	PAX6	LINC01497
+Tonsil-L2-NKp44- ILC3		SGIP1	LINGO4	RORC	U91324.1	MEIS1-AS2	IL17RE	KIT	PRL	KCNK17	MDFI
+Tonsil-L2-CD16+CD56- NK		FCRL6	FCGR3A	SH2D1B	GNLY	IL18RAP	CXCR2	CXCR1	CX3CR1	FGFBP2	GZMA
+Tonsil-L2-Nksig CD8 T		FCGR3A	GNLY	CX3CR1	FGFBP2	GZMA	GZMH	GZMB	ADGRG1	CCL5	S1PR5
+Tonsil-L2-non-GC-Tf-regs		TNFRSF18	TNFRSF4	UTS2	TNFRSF9	TNFRSF1B	GBP2	GBP5	CD2	S100A4	PYHIN1
+PBMC-L3-CD14+ Monocyte		S100A9	CTSS	LYZ	CTSD	S100A8	VCAN	CD14	FCN1	S100A12	MS4A6A
+Tonsil-L2-IgM+ early PC precursor		OR4M2	LGALS16	LINC02437	VPREB1	LINC01965	CFAP54	RASSF6	LINC01484	OR1B1	PRDM1
+Tonsil-L2-PB committed early PC precursor		DIRAS2	CFAP54	CCR10	VDR	PRDM1	SPARCL1	CRISP2	LINC01484	CKAP4	CD9
+Tonsil-L2-PC committed Light Zone GCBC		LINC01831	FRZB	OLR1	TMEM52B	SPARCL1	TAS2R39	LINC01484	RASSF6	PRDM1	IGLV2-34
+Fetal Development-L2-Placenta-Megakaryocytes		AC108463.2	SETP11	ARHGEF19	CTD-2227I18.1	SPOCD1	C6orf25	WDR64	PDYN	AC109829.1	OXSM
+Tonsil-L2-PDC		MMP23B	AJAP1	EPHA2	ATP13A2	PAFAH2	LINC01226	AZIN2	MYCL	RIMS3	TTC39A
+Tonsil-L2-PDC_multiome		AJAP1	EPHA2	LINC01226	AZIN2	NEGR1	COL24A1	SORT1	FLG-AS1	FCER1G	BX284613.2
+Kidney-L3-Podocyte		NPHS2	ADAMTS19	WT1	NPHS1	FMN2	NTNG1	PTPRQ	ZNF804A	TARID	ARHGEF26
+Motor Cortex-cross-species cluster-Layer 5 glutamatergic neuron, intratelencephalon-projecting_2		CHN2	LRRK1	CAMK2D	FSTL4	PDE1C	DNAH6	PCDH7	PRUNE2	ARSJ	TMSB10
+Tonsil-L2-preMature IgG+ PC		CNKSR1	SMPDL3B	HYI	TENT5C	SLAMF7	UAP1	H3F3A	PDIA6	SDC1	QPCT
+Tonsil-L2-Short lived IgM+ PC		SLAMF7	CHPF	SAMD7	WFS1	LARP1B	LINC02362	ELL2	LINC01484	LINC01485	TXNDC5
+Adipose-L1-Smooth Muscle		MYH11	TAGLN	ADGRL3	SORBS2	RCAN2	MYOCD	LMOD1	CARMN	CALD1	RGS6
+Adipose-L2-hTcell1		THEMIS	IL7R	SKAP1	CCL5	CD96	TC2N	PARP8	ANK3	CD2	INPP4B
+Tonsil-L2-SCM CD8 T		CA6	MAN1C1	CD8A	CD8B	STAT4	TAFA1	TXK	LEF1	LEF1-AS1	IL7R
+Fetal Development-L1-AFP_ALB positive cells		FGB	AHSG	VTN	KNG1	ITIH2	APOA2	APOC3	FGG	AFP	ALB
+Fetal Development-L2-Liver-Hepatoblasts		ALB	AFP	APOA1	APOA2	SERPINA1	APOB	HBA1	AHSG	IGF2	HBG2
+Tonsil-L2-Surface epithelium		RNF223	ARHGEF16	ERRFI1	KAZN	EPHA2	PADI1	PADI3	ARHGEF10L	PLA2G2F	CAMK2N1
+Tonsil-L2-T-Eff-Mem		TNFRSF4	TNFRSF25	UBXN10-AS1	MAN1C1	GBP2	GBP5	CD2	S100A4	IL6R	PBXIP1
+Tonsil-L2-T-helper		HES4	TNFRSF18	TNFRSF4	TNFRSF25	TNFRSF1B	IL23R	GBP2	GBP5	CSF1	CD2
+Tonsil-L2-T-Trans-Mem		TNFRSF25	IL23R	CD2	S100A4	PBXIP1	CD247	B3GALT2	ATP2B4	CHRM3-AS2	LINC01871
+Fetal Development-L2-Intestine-Erythroblasts		HBM	SLC4A1	HBA2	SPTA1	HBG2	AHSP	HBA1	ALAS2	HBG1	HEMGN
+Tonsil-L2-Tfh T:B border		NFIA	ADGRL4	LRRC8D	CD2	IL6R	PYHIN1	CD84	NOS1AP	CD247	PTPRC
+Tonsil-L2-Tfh-LZ-GC		TNFRSF4	TNFRSF25	SELENON	EPB41	LCK	HEYL	NFIA	GBP2	KIAA1324	DENND2D
+Tonsil-L2-Tfh-Mem		TNFRSF18	TNFRSF4	TNFRSF1B	LCK	PIK3R3	NFIA	GBP2	KIAA1324	CSF1	CD2
+Liver-L2-Portal Fibroblast		THY1	CCL2	PTGDS	ELN	MFAP4	IGFBP7	FBLN1	COL1A2	ACTA2	IGFBP5
+Motor Cortex-cross-species cluster-vascular lepotomeningeal cell		COLEC12	COL1A2	TBX18	ITIH5	COL6A2	SRPX2	C7	FMO2	MFAP4	FOXD1
+Tonsil-L2-GC LZ Noproli		LINC00550	KRT31	ASB10	FAM240B	BCL2A1	EBI3	FABP5	HSP90AB1	DUSP2	NME1
+Adipose-L1-B		IGKC	MS4A1	BANK1	IGHG1	IGLC3	IGHGP	FCRL1	BCL11A	IGHA1	JCHAIN
+Tonsil-L2-Early MBC		IGHD	SMIM14	CR2	HLA-DPB1	BANK1	CD52	HTR3A	CD1C	IGHM	NEIL1
+Fetal Development-L2-Adrenal-Sympathoblasts		CHGA	CHGB	DPP6	FGF14	RGS5	AGBL4	CACNA2D3	DBH	SLC24A2	SLC18A1
+Fetal Development-L2-Adrenal-CSH1_CSH2 positive cells		CGB	MAGEA10	CGA	INSL4	PAGE4	KISS1	XAGE3	PSG9	CSH1	CSH2
+Tonsil-L2-Transitional PB		POU6F2-AS1	PRRX2-AS1	LINC01039	CKAP4	LINC00840	HYOU1	FKBP11	GMPPB	FOXE3	PRDM1
+Lung v1-L1-Mucous		SCGB3A1	BPIFB1	SLPI	LCN2	WFDC2	SAA1	SCGB1A1	RARRES1	MUC5B	MSMB
+Motor Cortex-subclass-Lamp5+ GABAergic neuron		FGF13	PTPRT	PRELID2	GRIA4	RELN	PTCHD4	EYA4	MYO16	FBXL7	LAMP5
+Kidney-L2-Peritubular Capilary Endothelial		RAMP3	PLVAP	CEACAM1	ADGRL4	EGFL7	TEK	NOSTRIN	EML1	FLT1	GPM6A
+Tonsil-L2-GC DZ Noproli		IGHM	CD79B	CD37	INSL5	NCF1	NEIL1	MS4A1	TCL1A	IGHD	CD52
+Tonsil-L1-Double negative T		FGFBP2	PTPN3	LAYN	FASLG	IL19	CAV1	MIR4422HG	DTHD1	PRDM8	CD5
+Fetal Development-L1-SLC24A4_PEX5L positive cells		CNTNAP2	FSTL5	GRM7	LRRTM4	LUZP2	GRM3	CSMD3	NRXN3	SLC24A4	PEX5L
+Lung v2 (HLCA)-ann_level_2-Myeloid		SPI1	LGALS1	COTL1	MS4A6A	SRGN	TYROBP	LYZ	FCER1G	LAPTM5	AIF1
+Motor Cortex-cross-species cluster-Endothelial cell		EBF1	CLDN5	ABCG2	FLI1	LEF1	IFI27	EMCN	HLA-E	ID3	XAF1
+Lung v1-L2-Myeloid Dendritic Type 1		CSF2RA	CCL22	CCR7	FSCN1	DAPP1	BIRC3	LAMP3	TXN	ID2	GSN
+Heart-L2-Mesothelial		ITLN1	PDZRN4	SLC39A8	PRG4	GFPT2	C3	KCNT2	WWC1	HAS1	RBFOX1
+Lung v1-L2-Mesothelial		GALNT9	ITLN1	WT1	MGARP	PRG4	ALDH1A3	C3	C1S	SERPING1	GFPT2
+Fetal Development-L1-Oligodendrocytes		LSAMP	CSMD1	LHFPL3	KCND2	PCDH15	CADM2	PTPRZ1	LRRC4C	OPCML	LRP1B
+Fetal Development-L1-Metanephric cells		DACH1	PAX2	EYA1	HMGA2	GPC3	TRABD2B	ITGA8	PTPN14	WT1	BMPER
+Fetal Development-L2-Kidney-Metanephric cells		DACH1	PAX2	EYA1	HMGA2	GPC3	TRABD2B	ITGA8	PTPN14	WT1	BMPER
+Adipose-L1-Monocyte		VCAN	FCN1	SLC11A1	CSF3R	IL1B	KYNU	SAMSN1	CTSS	RNF144B	COTL1
+Adipose-L1-Neutrophil		CSF3R	EPHB1	SORL1	GLT1D1	KCNJ15	SLC25A37	LUCAT1	CPPED1	LRRK2	MXD1
+Tonsil-L2-Neutrophil Granulocytes		CDA	CSF3R	S100A9	S100A12	S100A8	FCER1G	FCGR2A	FCGR3A	FCGR3B	GLUL
+Adipose-L1-Pericyte		COL25A1	POSTN	DLC1	STEAP4	MYO1B	RGS5	EBF2	THSD7B	KCNAB1	RGS6
+Lung v1-L2-CD8+ Naive T		CCL5	CD3D	GZMA	NKG7	CD3E	GZMB	CD2	ITGB1	LGALS1	CLIC3
+Adipose-L1-T		IL7R	THEMIS	CAMK4	BCL11B	ITK	ANK3	CD96	TC2N	SKAP1	CD2
+Heart-L1-NK/T		PARP8	IL7R	THEMIS	AOAH	SKAP1	CD247	ITK	PTPRC	CAMK4	GNLY
+Adipose-L2-hAd2		TRHDE	GPAM	GHR	ACACB	KCNIP2-AS1	TRHDE-AS1	LRP1B	TENM3	AC018616.1	PDE3B
+Adipose-L2-hAd3		RDH5	G0S2	HOOK2	GPAM	TRHDE	ACACB	PLIN1	CAV2	KCNIP2-AS1	SORBS1
+Adipose-L2-hEndoV		CADM2	BTNL9	KIAA1217	ABLIM3	ADGRL4	KALRN	ANO2	ADAMTS18	VWF	LNX1
+Adipose-L2-hAd5		PHLDB2	FILIP1L	PGAP1	CMSS1	PDE3B	SLC19A3	LINC00968	ACACB	KCNIP2-AS1	GPT2
+Adipose-L2-hAd6		CLSTN2	PRKAR2B	AC006387.1	GHR	KCNIP2-AS1	GPAM	ACACB	PDE3B	CCDC3	TMEM132C
+Adipose-L2-hAd7		DMD	GHR	RGS6	TRHDE-AS1	LINC02237	SLC19A3	PCDH9	PLIN4	AC004160.1	PLIN1
+Lung v2 (HLCA)-ann_level_4-EC venous systemic		VWF	MGP	GNG11	PLVAP	RAMP2	SPARCL1	IGFBP7	A2M	CLEC14A	ACKR1
+Lung v2 (HLCA)-ann_level_2-Blood vessels		PTRF	CLDN5	AQP1	PECAM1	NPDC1	VWF	RAMP3	RAMP2	SPARCL1	CLEC14A
+Adipose-L2-hASPC3		CXCL14	C7	ABCA10	ABCA9	NEGR1	ABCA9-AS1	APOD	ABCA6	LAMA2	CXCL12
+Adipose-L2-hASPC4		LAMA2	CFH	SLIT2	ABCA10	APOD	PAK3	KCNIP1	CXCL14	ROBO2	ANK2
+Adipose-L2-hASPC5		ROBO2	PDZRN4	DCLK1	KAZN	NOVA1	ANK2	NOX4	COL1A2	LINC02511	DCN
+Lung v1-L2-Proliferating Basal		NMU	PTTG1	TOP2A	BIRC5	CENPF	TPX2	CKAP2	MKI67	HMGB2	CENPE
+Adipose-L2-hBcell		BANK1	IGKC	BACH2	RALGPS2	FCRL1	MS4A1	AFF3	JCHAIN	LINC00926	BLK
+Lung v1-L2-B		MS4A1	BANK1	LINC00926	CD79A	BLK	CD79B	CD22	SP140	VPREB3	ADAM28
+Bone Marrow-L2-Progenitor B		CYGB	UMODL1	EBF1	MME	VPREB1	DNTT	IGLL1	UHRF1	BLNK	AGPS
+Heart-L1-Lymphatic Endothelial		CCL21	MMRN1	PKHD1L1	NRG3	RELN	SEMA3A	SNTG2	PPFIBP1	STOX2	ST6GALNAC3
+Adipose-L2-hEndoA1		NKAIN2	ARL15	MECOM	LINC01695	PTPRB	LINC01697	SULF1	PLCB4	VEGFC	PCSK5
+Adipose-L2-hEndoA2		LINC00639	ARL15	MECOM	NEBL	PCSK5	VEGFC	PLCB4	FLT1	EMCN	EPAS1
+Adipose-L2-hEndoS1		TLL1	ACKR1	ZNF385D	VWF	ADAMTS9	ANO2	TPO	AQP1	SNTG2	RYR3
+Adipose-L2-hEndoS2		TLL1	VWF	FAM155A	LINC02147	PLCXD3	ANO2	MYRIP	RYR3	PTPRB	GPM6A
+Heart-L1-Pericyte		RGS5	ABCC9	GUCY1A2	EGFLAM	FRMD3	DLC1	AGT	PDGFRB	EPS8	PLA2G5
+Adipose-L2-hAd4		PCDH9	WDPCP	GRIA4	ANKRD30A	PCLO	ERBB4	GPAM	AC002066.1	TENM4	VLDLR-AS1
+Adipose-L2-hLEC1		MMRN1	CCL21	AL357507.1	RELN	PPFIBP1	TFPI	NRG3	STOX2	PKHD1L1	PROX1
+Adipose-L2-hLEC2		LINC02147	TSPAN5	NRG3	ST6GALNAC3	NRXN3	NTS	PROX1	PDE1A	CLU	MMRN1
+Adipose-L2-hASPC6		TNC	AC005699.1	LINC02360	C7	GLI3	ROR1	FAM155A	ARHGAP28	ZFPM2	MEIS1
+Kidney-L2-Vascular Smooth Muscle / Pericyte		PDGFRB	CARMN	PRR16	CCDC102B	RGS5	ADGRL3	COL25A1	MAP1B	DLC1	HS6ST3
+Fetal Development-L2-Adrenal-Chromaffin cells		RBFOX1	RGS5	STMN2	CACNA2D3	RBMS3	DLC1	CHGB	KCNQ5	ALCAM	CNTNAP2
+Adipose-L2-hMast		TPSB2	CPA3	TPSAB1	KIT	HPGD	NTM	MS4A2	SLC24A3	HDC	IL18R1
+Adipose-L2-hmDC		BIRC3	SLCO5A1	CD83	LAMP3	CCR7	CERS6	CCL22	ENOX1	KIF2A	KDM2B
+Adipose-L2-hMes1		AP000561.1	KCTD8	GYPA	PKHD1L1	AC005699.1	AC103876.1	PTPRQ	LINC02360	LSAMP	THSD4
+Adipose-L2-hMes2		AC005699.1	GALNT15	AP000561.1	LINC02360	PDZRN4	COL8A1	TRPM3	PKHD1L1	FAM155A	LSAMP
+Adipose-L2-hMes3		LOXHD1	AP000561.1	PKHD1L1	CCBE1	AC005699.1	LINC02360	AC103876.1	CDON	KCTD8	BNC1
+Adipose-L2-hMono1		VCAN	FCN1	LYZ	IL1B	AOAH	SLC11A1	SAMSN1	KYNU	PLAUR	AREG
+Adipose-L2-hMono2		LYN	LST1	PAG1	SLC11A1	TBXAS1	MTSS1	ADGRE2	TCF7L2	HCK	POU2F2
+Lung v1-L1-Natural Killer		PRF1	NKG7	KLRF1	CD247	GNLY	PYHIN1	KLRD1	SPON2	FCGR3A	GZMB
+Adipose-L2-hNK		GNLY	CD247	SAMD3	NKG7	CCL5	CCL4	KLRD1	PYHIN1	TXK	MYBL1
+Lung v1-L1-Natural Killer T		GNLY	CD7	CTSW	CCL5	CD2	ZFP36L2	CXCR4	LGALS1	CEBPB	S100A6
+Bone Marrow-L2-CD8 Memory		CD8B	CD8A	GZMK	IL7R	BCL11B	CD3E	PIK3IP1	CD6	TRAC	SPOCK2
+Fetal Development-L2-Placenta-Syncytiotrophoblasts and villous cytotrophoblasts		TENM3	FBN2	ARL15	EGFR	KANK1	ZFAT	SVEP1	RHOBTB1	RP11-30J20.1	MBNL3
+Adipose-L2-hSMC1		MYH11	TAGLN	KCNMA1	ACTA2	KCNAB1	SORBS2	RCAN2	RGS6	CARMN	RYR2
+Tonsil-L2-MBC-like_nonproli		MARCKSL1	SEMA4A	FCRL3	RGS13	CCDC88A	RFTN1	KLHL6	BASP1	ZNF608	HLA-DMB
+Heart-L2-T		IL7R	THEMIS	ITK	PARP8	CAMK4	SKAP1	TC2N	BCL11B	PTPRC	PRKCQ
+Adipose-L2-hTcell2		LEF1	CAMK4	IL7R	THEMIS	ANK3	BCL11B	TXK	ITK	NELL2	LINC00861
+Adipose-L2-hTreg		AC013652.1	CTLA4	IKZF2	SKAP1	TOX	AC093865.1	ITK	BCL11B	RASGRP1	RTKN2
+Lung v1-L1-Vein		VWF	SELP	SLCO2A1	LIFR	PLA1A	PTPRB	PRSS23	CPE	TGM2	SRPX
+Motor Cortex-class-Glutamatergic neuron		SV2B	SATB2	CELF2	PHACTR1	CHN1	KHDRBS3	RALYL	LDB2	NELL2	KALRN
+Fetal Development-L1-Vascular endothelial cells		LDB2	FLT1	COL4A2	COL4A1	PTPRM	IGFBP7	HSPG2	TCF4	PTPRB	EPAS1
+Heart-L1-Endothelial		VWF	LDB2	ANO2	IFI27	EMCN	PTPRB	FLT1	MECOM	PECAM1	EGFL7
+Heart-L1-Fibroblast		DCN	APOD	ACSM3	CFD	ABCA9	MGP	LAMA2	KAZN	ABCA6	GSN
+Kidney-L3-T		IL7R	THEMIS	ITK	BCL11B	LINC01934	SLFN12L	CAMK4	RHOH	CD247	CD96
+Tonsil-L2-Proliferative NBC		IGHM	IGHD	HMGB2	HLA-DRA	HLA-DPA1	STMN1	HLA-DPB1	CD52	TUBA1B	FTH1
+Lung v2 (HLCA)-ann_level_5-Alveolar Mφ proliferating		H2AFV	STMN1	LSM4	GYPC	PTTG1	KIAA0101	FABP4	CKS1B	UBE2C	HMGN2
+Heart-L1-Myeloid		F13A1	RBPJ	CD163	RBM47	MRC1	FMN1	MS4A6A	MSR1	FRMD4B	MERTK
+Kidney-L2-Lymphatic Endothelial		TBX1	CCL21	MMRN1	PKHD1L1	SEMA3A	FLRT2	RELN	GRAPL	ELK3	KALRN
+Fetal Development-L2-Liver-Vascular endothelial cells		LDB2	STAB2	PPAP2B	ALB	SLC9A9	ATRNL1	RELN	CRHBP	ACSM3	EDA
+Adipose-L2-hEndoS3		ABCB1	RUNDC3B	EMCN	LDB2	LIFR	ADGRL4	FLT1	TPO	DACH1	NR5A2
+Lung v1-L1-Macrophage		ACP5	C1QA	C1QB	VSIG4	MARCO	OLR1	APOC1	SLCO2B1	GPD1	ITGAX
+Motor Cortex-subclass-Endothelial cell		EBF1	ABCG2	CLDN5	FLI1	LEF1	EMCN	IFI27	HLA.E	ADGRL4	CLEC3B
+Fetal Development-L2-Placenta-Smooth muscle cells		HGF	FLT1	AC011288.2	AGTR1	LAMC3	PLCB1	ADAMTS18	LAMA2	TBX5	AFF2
+Heart-L2-Atrial Cardiomyocyte		MYL7	FGF12	MYH6	ANKRD1	RYR2	ERBB4	TTN	CMYA5	NPPA	MYL7
+Fetal Development-L2-Cerebellum-Granule neurons		ERBB4	GRIK2	RELN	NRG1	KCND2	CNTN5	NRXN1	SYT1	ROBO2	NELL2
+Fetal Development-L2-Cerebellum-Unipolar brush cells		ERBB4	NRXN1	LRP1B	NLGN1	LPHN3	CCSER1	PCDH9	UNC5C	STXBP5L	GRIA2
+Heart-L2-Endocardial		PCDH15	EGFL7	NRG3	LEPR	NRG1	POSTN	PCDH7	TMEM132C	CDH11	TMEM108
+Heart-L2-Endothelial		MYRIP	POSTN	NRG3	LDB2	SLCO2A1	ANO2	VWF	FAM155A	IL1R1	KCNIP4
+Fetal Development-L1-IGFBP1_DKK1 positive cells		LUM	IGFBP1	CD248	SCARA5	DKK1	APOD	GAS1	CHRDL1	SERPINE1	CFD
+Heart-L2-ILC		KIT	IL18R1	RD3	CPA3	SLC38A11	SLC8A3	TPSAB1	HDC	MS4A2	OR8A1
+Heart-L2-Lymphatic Endothelial		CCL21	MMRN1	RELN	PKHD1L1	SEMA3A	PPFIBP1	TFPI	SNTG2	EFNA5	PROX1
+Lung v2 (HLCA)-ann_level_4-T cells proliferating		TRAC	HMGN2	IL32	CORO1A	ARHGDIB	STMN1	RAC2	IL2RG	HMGB2	CD3D
+Heart-L2-Mast		SLC24A3	IL18R1	CPA3	NTM	KIT	SLC8A3	SLC38A11	CDK15	HPGDS	RAB27B
+Adipose-L1-Mast		CPA3	KIT	TPSB2	NTM	TPSAB1	HGPD	MS4A2	SLC24A3	HDC	IL18R1
+Heart-L1-Mast		IL18R1	KIT	SLC24A3	NTM	CPA3	SLC8A3	CDK15	HPGDS	SLC38A11	RAB27B
+PBMC-L2-gamma-delta T		TRDC	TRGC1	TRGC2	KLRC1	NKG7	TRDV2	CD7	TRGV9	KLRD1	KLRG1
+Heart-L2-NK		GNLY	NKG7	CD247	TXK	KLRD1	CCL4	CCL5	AOAH	PRF1	PARP8
+Tonsil-L2-Monocytes		RBP7	CDA	FGR	CSF3R	FCGR1B	FCGR1A	MTMR11	S100A9	S100A12	S100A8
+Heart-L2-Smooth Muscle		MYH11	ITGA8	ACTA2	CARMN	KCNAB1	TAGLN	ZFHX3	PRKG1	NTRK3	RCAN2
+Tonsil-L2-RM CD8 T		CD2	CD160	PYHIN1	FCRL6	SLAMF7	XCL2	LGR6	CD8A	CD8B	LINC02084
+Heart-L2-Venous Endothelial		TPO	ACKR1	TSHZ2	RAMP3	FAM155A	ABCB1	CALCRL	CYYR1	IGFBP5	EPHB4
+Kidney-L3-Papillary Tip Epithelial		KRT13	LCN2	EHF	EEF1A1	SLPI	S100A6	TACSTD2	SPINK1	DHRS2	GPX2
+Tonsil-L2-NBC/OA first step activation		RERE	EIF4G3	CNR2	SMAP2	PDE4B	ST6GALNAC3	DPYD	VAV3	VAV3-AS1	LINC02785
+Motor Cortex-cluster-THEMIS+ LINC01116+ Layer 5 glutamatergic neuron	LINC01060	HCRTR2	SEMA3E	DPP4	THEMIS	LINC01116		
+Tonsil-L1-Natural killer		KIR2DL4	SPTSSB	SH2D1B	ZMAT4	KLRC1	KLRC2	KLRC3	NCR1	NCAM1	XCL2
+Kidney-L3-Cortical Collecting Duct Principal		PWRN1	AQP2	GATA3	KSR2	PDE4D	ABTB2	GRIP1	LINC01482	TOX	PIK3C2G
+Tonsil-L2-NBC S100A+		S100A9	S100A8	IGKC	CSTA	FDCSP	HLA-DRA	HLA-DPA1	HLA-DPB1	BTG1	IGHG3
+Liver-L1-Myeloid		C1QB	C1QA	LYZ	S100A9	S100A8	TYROBP	AIF1	LST1	CST3	HLA-DRA
+Liver-L1-Plasma		IGLL5	MZB1	DERL3	SSR4	FKBP11	XBP1	SEC11C	ITM2C	HERPUD1	CD27
+Adipose-L1-Endothelial		MECOM	PTRB	VWF	ANO2	BTNL9	LDB2	ADGRL4	PTPRM	JAM2	CADM2
+Fetal Development-L1-Excitatory neurons		RBFOX1	PTPRD	ROBO2	LRRC7	NRXN1	DLGAP1	GPM6A	NKAIN2	SOX5	TMEM108
+Liver-L2-CD4 T		IL7R	KLRB1	LTB	CD69	CD3D	CD2	CD3E	IL32	SPOCK2	GZMK
+Liver-L2-CD8 T		CCL5	CD8A	GZMK	CD3D	CD8B	CD3E	CD2	DUSP2	CD69	CST7
+Liver-L2-Cholangiocyte		ANXA4	KRT7	DEFB1	FXYD2	TM4SF4	KRT19	KRT8	TACSTD2	EGRI1	SPP1
+Liver-L2-DC1		HLA-DPB1	LGALS2	HLA-DQB1	HLA-DQA1	CLEC9A	CPVL	SNX3	TACSTD2	CST3	CD74
+Liver-L2-DC2		HLA-DPB1	HLA-DPA1	HLA-DRA	HLA-DQB1	HLA-DQA1	CLEC10A	FCER1A	LYZ	CD1C	LST1
+Fetal Development-L1-Myeloid cells		CD74	SRGN	SAMHD1	CST3	AOAH	SLC9A9	CTSB	RBM47	LGMN	FTL
+Liver-L2-Hepatocyte		FABP1	CYP2E1	HP	ORM1	APOA2	ADH4	TTR	APOA1	APOC1	APOC3
+Liver-L2-HSC		IGFBP3	DCN	CXCL14	COLEC11	BGN	CXCL12	ANGPTL6	TMEM56	ECM1	COL3A1
+Tonsil-L2-DZ migratory PC precursor		LINC01333	LINC02362	LINC02523	LRRC52-AS1	MBL2	LINC01484	SDC1	LINC01717	DERL3	FNDC3B
+Heart-L2-Monocyte/cDC		S100A8	S100A9	CD163	MSR1	SLC11A1	FMN1	RBM47	ITGAX	ADAM28	FLT3
+Liver-L2-Monocyte		S100A8	S100A9	FCN1	LYZ	VCAN	S100A12	LST1	S100A4	MNDA	CSTA
+Fetal Development-L1-Ganglion cells		ANK2	CADM2	KCNIP4	ROBO2	NRG3	CTNNA2	MDGA2	EPHA6	RALYL	EBF1
+Liver-L2-NK		GNLY	NKG7	KLRD1	CMC1	CD7	PRF1	KLRF1	FGFBP2	GZMB	SPON2
+Liver-L2-NK_CD56bright		CCL4	CCL3	CD160	KLRB1	NKG7	MALAT1	CMC1	XCL1	CD7	TYROBP
+Kidney-L1-Immune		IKZF1	DOCK2	PTPRC	F13A1	FYB1	AOAH	INPP5D	MRC1	SMAP2	ATP8B4
+Liver-L2-pDC		GZMB	IRF7	GPR183	LILRA4	PLD4	IRF8	BCL11A	ITM2C	PLAC8	UGCG
+Kidney-L3-Mast		CPA3	TPSB2	HDC	SLC8A3	SLC18A2	KIT	SLC24A3	GRAP2	IL18R1	GATA2
+Lung v2 (HLCA)-ann_level_4-Plasma cells		ITM2C	TNFRSF17	FKBP11	IGKC	IGHA1	IGHG1	CD79A	JCHAIN	MZB1	ISG20
+Liver-L2-Proliferating T/NK		HIST1H4C	HMGB2	STMN1	MKI67	TUBB	TOP2A	H2AFZ	UBE2C	RRM2	PCNA
+Lung v2 (HLCA)-ann_finest_level-Mast cells		VWA5A	RGS13	C1orf186	HPGDS	CPA3	GATA2	MS4A2	KIT	TPSAB1	TPSB2
+Adipose-L2-hPlasmablast		IGLC3	IGLC2	IGLL5	IGHGP	IGHG3	IGKC	IGHA1	IGHG1	JCHAIN	IGLV3-10
+Kidney-L2-Cortical Thick Ascending Limb		GP2	HS6ST2	CASR	ESRRB	RP1	LINC01606	SLC12A1	CCDC148	UMOD	CACNA2D3
+Lung v2 (HLCA)-ann_finest_level-AT2 proliferating		CDK1	LSM3	CKS1B	EIF1AX	UBE2C	MRPL14	PRC1	CENPW	EMP2	DHFR
+PBMC-L3-Plasmacytoid Dendritic Cell		CCDC50	UGCG	TCF4	LILRA4	IRF8	IL3RA	PLD4	IRF7	SERPINF1	ITM2C
+Lung v2 (HLCA)-ann_finest_level-Plasmacytoid DCs		IL3RA	TCF4	LTB	GZMB	JCHAIN	ITM2C	IRF8	PLD4	IRF7	C12orf75
+Fetal Development-L2-Heart-Lymphoid cells		SKAP1	TTN	PTPRC	COL3A1	LCP1	COL1A2	LTB	HBA2	CD247	HBG1
+		
+Fetal Development-L1-Bipolar cells		GRIK1	FSTL5	ZNF385B	ZNF804B	CA10	ZPBP	FAM19A4	VSX2	TRPC7	SLC1A7
+		
+Heart-L1-Mesothelial		ITLN1	PDZRN4	SLC39A8	PRG4	GFPT2	C3	WWC1	KCNT2	HAS1	WT1
+Liver-L2-Erythrocyte		HBB	HBA1	HBA2	HBD	AHSP	ALAS2	CA1	HBM	SLC25A37	SNCA
+Bone Marrow-L2-CD8 Effector 2		ZNF683	PRSS23	KLRC2	FCRL6	S1PR5	GZMH	FGFBP2	PATL2	TRGC2	CD3G
+Bone Marrow-L2-CD8 Naive		NELL2	CD8B	S100B	TRABD2A	CCR7	OXNAD1	FLT3LG	MAL	LEF1	CAMK4
+		
+Liver-L2-Plasma		IGLL5	MZB1	DERL3	SSR4	FKBP11	XBP1	SEC11C	ITM2C	HERPUD1	CD27
+Bone Marrow-L2-Proliferating Natural Killer		GZMA	GZMB	TRDC	PRF1	TYMS	FGFBP2	KLRF1	CD247	GZMH	CCL4
+		
+		
