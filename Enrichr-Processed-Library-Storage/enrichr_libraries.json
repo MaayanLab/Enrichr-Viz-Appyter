@@ -228,6 +228,8 @@
         "WikiPathways_2015",
         "WikiPathways_2016",
         "WikiPathways_2019_Human",
-        "WikiPathways_2019_Mouse"
+        "WikiPathways_2019_Mouse",
+        "WikiPathways_2024_Human",
+        "WikiPathways_2024_Mouse"
     ]
 }
