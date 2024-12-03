@@ -172,7 +172,7 @@
         "PanglaoDB_Augmented_2021",
         "Panther_2015",
         "Panther_2016",
-        "PerturbAtlas"
+        "PerturbAtlas",
         "Pfam_Domains_2019",
         "Pfam_InterPro_Domains",
         "PFOCR_Pathways",
@@ -191,6 +191,7 @@
         "Reactome_2015",
         "Reactome_2016",
         "Reactome_2022",
+        "Reactome_Pathways_2024",
         "RNA-Seq_Disease_Gene_and_Drug_Signatures_from_GEO",
         "RNAseq_Automatic_GEO_Signatures_Human_Down",
         "RNAseq_Automatic_GEO_Signatures_Human_Up",
