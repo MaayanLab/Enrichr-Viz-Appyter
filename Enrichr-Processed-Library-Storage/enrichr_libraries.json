@@ -50,6 +50,8 @@
         "Drug_Perturbations_from_GEO_down",
         "Drug_Perturbations_from_GEO_up",
         "DrugMatrix",
+        "DRUGseqr_2025_down",
+        "DRUGseqr_2025_up",
         "DSigDB",
         "Elsevier_Pathway_Collection",
         "ENCODE_and_ChEA_Consensus_TFs_from_ChIP-X",
