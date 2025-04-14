@@ -117,6 +117,8 @@
         "Jensen_COMPARTMENTS",
         "Jensen_DISEASES",
         "Jensen_TISSUES",
+        "Jensen_DISEASES_Curated_2025",
+        "Jensen_DISEASES_Experimental_2025",
         "KEA_2013",
         "KEA_2015",
         "KEGG_2013",
