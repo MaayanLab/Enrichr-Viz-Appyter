@@ -31,6 +31,7 @@
         "Chromosome_Location_hg19",
         "ClinVar_2019",
         "COMPARTMENTS_Curated2025",
+        "COMPARTMENTS_Experimental2025",
         "CORUM",
         "COVID-19_Related_Gene_Sets",
         "COVID-19_Related_Gene_Sets_2021",
