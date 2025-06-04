@@ -212,6 +212,7 @@
         "Rummagene_kinases",
         "Rummagene_signatures",
         "Rummagene_transcription_factors",
+        "RummaGEO_DrugPerturbationSignatures",
         "Serine_Threonine_Kinome_Atlas_2023",
         "SILAC_Phosphoproteomics",
         "SubCell_BarCode",
