@@ -30,6 +30,7 @@
         "Chromosome_Location",
         "Chromosome_Location_hg19",
         "ClinVar_2019",
+        "ClinVar_2025",
         "COMPARTMENTS_Curated_2025",
         "COMPARTMENTS_Experimental_2025",
         "CORUM",
